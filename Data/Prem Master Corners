@@ -1,0 +1,1522 @@
+,HomeTeam,AwayTeam,HC,AC,Season
+0,Arsenal,Leicester,9.0,4.0,2017/18
+1,Brighton,Man City,3.0,10.0,2017/18
+2,Chelsea,Burnley,8.0,5.0,2017/18
+3,Crystal Palace,Huddersfield,12.0,9.0,2017/18
+4,Everton,Stoke,6.0,7.0,2017/18
+5,Southampton,Swansea,13.0,0.0,2017/18
+6,Watford,Liverpool,3.0,3.0,2017/18
+7,West Brom,Bournemouth,8.0,2.0,2017/18
+8,Man United,West Ham,11.0,1.0,2017/18
+9,Newcastle,Tottenham,5.0,7.0,2017/18
+10,Bournemouth,Watford,8.0,5.0,2017/18
+11,Burnley,West Brom,5.0,5.0,2017/18
+12,Leicester,Brighton,6.0,2.0,2017/18
+13,Liverpool,Crystal Palace,4.0,2.0,2017/18
+14,Southampton,West Ham,7.0,2.0,2017/18
+15,Stoke,Arsenal,2.0,9.0,2017/18
+16,Swansea,Man United,3.0,5.0,2017/18
+17,Huddersfield,Newcastle,7.0,3.0,2017/18
+18,Tottenham,Chelsea,14.0,3.0,2017/18
+19,Man City,Everton,7.0,1.0,2017/18
+20,Bournemouth,Man City,2.0,5.0,2017/18
+21,Crystal Palace,Swansea,1.0,1.0,2017/18
+22,Huddersfield,Southampton,5.0,4.0,2017/18
+23,Man United,Leicester,9.0,3.0,2017/18
+24,Newcastle,West Ham,7.0,5.0,2017/18
+25,Watford,Brighton,3.0,11.0,2017/18
+26,Chelsea,Everton,6.0,3.0,2017/18
+27,Liverpool,Arsenal,4.0,3.0,2017/18
+28,Tottenham,Burnley,10.0,7.0,2017/18
+29,West Brom,Stoke,10.0,4.0,2017/18
+30,Arsenal,Bournemouth,8.0,2.0,2017/18
+31,Brighton,West Brom,2.0,6.0,2017/18
+32,Everton,Tottenham,7.0,3.0,2017/18
+33,Leicester,Chelsea,2.0,9.0,2017/18
+34,Man City,Liverpool,8.0,3.0,2017/18
+35,Southampton,Watford,7.0,4.0,2017/18
+36,Stoke,Man United,5.0,11.0,2017/18
+37,Burnley,Crystal Palace,3.0,13.0,2017/18
+38,Swansea,Newcastle,7.0,5.0,2017/18
+39,West Ham,Huddersfield,10.0,3.0,2017/18
+40,Bournemouth,Brighton,6.0,4.0,2017/18
+41,Crystal Palace,Southampton,5.0,5.0,2017/18
+42,Huddersfield,Leicester,8.0,4.0,2017/18
+43,Liverpool,Burnley,12.0,2.0,2017/18
+44,Newcastle,Stoke,7.0,5.0,2017/18
+45,Tottenham,Swansea,11.0,1.0,2017/18
+46,Watford,Man City,3.0,11.0,2017/18
+47,West Brom,West Ham,2.0,3.0,2017/18
+48,Chelsea,Arsenal,5.0,1.0,2017/18
+49,Man United,Everton,4.0,1.0,2017/18
+50,Burnley,Huddersfield,3.0,4.0,2017/18
+51,Everton,Bournemouth,4.0,6.0,2017/18
+52,Leicester,Liverpool,3.0,6.0,2017/18
+53,Man City,Crystal Palace,8.0,2.0,2017/18
+54,Southampton,Man United,8.0,4.0,2017/18
+55,Stoke,Chelsea,5.0,0.0,2017/18
+56,Swansea,Watford,5.0,4.0,2017/18
+57,West Ham,Tottenham,4.0,3.0,2017/18
+58,Brighton,Newcastle,2.0,8.0,2017/18
+59,Arsenal,West Brom,7.0,4.0,2017/18
+60,Bournemouth,Leicester,7.0,5.0,2017/18
+61,Chelsea,Man City,4.0,8.0,2017/18
+62,Huddersfield,Tottenham,4.0,7.0,2017/18
+63,Man United,Crystal Palace,6.0,5.0,2017/18
+64,Stoke,Southampton,5.0,6.0,2017/18
+65,West Brom,Watford,7.0,6.0,2017/18
+66,West Ham,Swansea,2.0,1.0,2017/18
+67,Arsenal,Brighton,6.0,5.0,2017/18
+68,Everton,Burnley,9.0,3.0,2017/18
+69,Newcastle,Liverpool,1.0,5.0,2017/18
+70,Burnley,West Ham,7.0,4.0,2017/18
+71,Crystal Palace,Chelsea,5.0,8.0,2017/18
+72,Liverpool,Man United,7.0,3.0,2017/18
+73,Man City,Stoke,5.0,0.0,2017/18
+74,Swansea,Huddersfield,5.0,3.0,2017/18
+75,Tottenham,Bournemouth,9.0,5.0,2017/18
+76,Watford,Arsenal,2.0,5.0,2017/18
+77,Brighton,Everton,7.0,1.0,2017/18
+78,Southampton,Newcastle,3.0,8.0,2017/18
+79,Leicester,West Brom,4.0,1.0,2017/18
+80,West Ham,Brighton,10.0,3.0,2017/18
+81,Chelsea,Watford,6.0,6.0,2017/18
+82,Huddersfield,Man United,4.0,7.0,2017/18
+83,Man City,Burnley,4.0,5.0,2017/18
+84,Newcastle,Crystal Palace,3.0,5.0,2017/18
+85,Southampton,West Brom,8.0,3.0,2017/18
+86,Stoke,Bournemouth,8.0,3.0,2017/18
+87,Swansea,Leicester,7.0,6.0,2017/18
+88,Everton,Arsenal,0.0,7.0,2017/18
+89,Tottenham,Liverpool,3.0,5.0,2017/18
+90,Arsenal,Swansea,5.0,2.0,2017/18
+91,Bournemouth,Chelsea,5.0,5.0,2017/18
+92,Crystal Palace,West Ham,11.0,2.0,2017/18
+93,Liverpool,Huddersfield,9.0,2.0,2017/18
+94,Man United,Tottenham,6.0,3.0,2017/18
+95,Watford,Stoke,8.0,1.0,2017/18
+96,West Brom,Man City,1.0,2.0,2017/18
+97,Brighton,Southampton,2.0,7.0,2017/18
+98,Leicester,Everton,3.0,10.0,2017/18
+99,Burnley,Newcastle,5.0,3.0,2017/18
+100,Huddersfield,West Brom,3.0,5.0,2017/18
+101,Newcastle,Bournemouth,11.0,9.0,2017/18
+102,Southampton,Burnley,9.0,1.0,2017/18
+103,Stoke,Leicester,4.0,10.0,2017/18
+104,Swansea,Brighton,8.0,7.0,2017/18
+105,West Ham,Liverpool,2.0,3.0,2017/18
+106,Chelsea,Man United,4.0,7.0,2017/18
+107,Everton,Watford,2.0,5.0,2017/18
+108,Man City,Arsenal,5.0,5.0,2017/18
+109,Tottenham,Crystal Palace,10.0,9.0,2017/18
+110,Arsenal,Tottenham,7.0,4.0,2017/18
+111,Bournemouth,Huddersfield,8.0,11.0,2017/18
+112,Burnley,Swansea,8.0,6.0,2017/18
+113,Crystal Palace,Everton,9.0,4.0,2017/18
+114,Leicester,Man City,1.0,7.0,2017/18
+115,Liverpool,Southampton,10.0,2.0,2017/18
+116,Man United,Newcastle,11.0,4.0,2017/18
+117,West Brom,Chelsea,3.0,4.0,2017/18
+118,Watford,West Ham,3.0,1.0,2017/18
+119,Brighton,Stoke,6.0,7.0,2017/18
+120,West Ham,Leicester,5.0,5.0,2017/18
+121,Crystal Palace,Stoke,5.0,2.0,2017/18
+122,Liverpool,Chelsea,7.0,8.0,2017/18
+123,Man United,Brighton,5.0,0.0,2017/18
+124,Newcastle,Watford,6.0,3.0,2017/18
+125,Swansea,Bournemouth,4.0,5.0,2017/18
+126,Tottenham,West Brom,8.0,0.0,2017/18
+127,Burnley,Arsenal,5.0,5.0,2017/18
+128,Huddersfield,Man City,3.0,7.0,2017/18
+129,Southampton,Everton,7.0,2.0,2017/18
+130,Brighton,Crystal Palace,10.0,5.0,2017/18
+131,Leicester,Tottenham,4.0,9.0,2017/18
+132,Watford,Man United,5.0,5.0,2017/18
+133,West Brom,Newcastle,1.0,6.0,2017/18
+134,Arsenal,Huddersfield,7.0,2.0,2017/18
+135,Bournemouth,Burnley,4.0,6.0,2017/18
+136,Chelsea,Swansea,15.0,1.0,2017/18
+137,Everton,West Ham,2.0,6.0,2017/18
+138,Man City,Southampton,6.0,5.0,2017/18
+139,Stoke,Liverpool,5.0,9.0,2017/18
+140,Arsenal,Man United,12.0,1.0,2017/18
+141,Brighton,Liverpool,2.0,2.0,2017/18
+142,Chelsea,Newcastle,11.0,4.0,2017/18
+143,Everton,Huddersfield,2.0,5.0,2017/18
+144,Leicester,Burnley,10.0,7.0,2017/18
+145,Stoke,Swansea,2.0,6.0,2017/18
+146,Watford,Tottenham,7.0,2.0,2017/18
+147,West Brom,Crystal Palace,3.0,7.0,2017/18
+148,Bournemouth,Southampton,5.0,4.0,2017/18
+149,Man City,West Ham,10.0,4.0,2017/18
+150,Burnley,Watford,3.0,5.0,2017/18
+151,Crystal Palace,Bournemouth,6.0,3.0,2017/18
+152,Huddersfield,Brighton,8.0,1.0,2017/18
+153,Newcastle,Leicester,6.0,5.0,2017/18
+154,Swansea,West Brom,6.0,3.0,2017/18
+155,Tottenham,Stoke,12.0,6.0,2017/18
+156,West Ham,Chelsea,4.0,3.0,2017/18
+157,Liverpool,Everton,12.0,1.0,2017/18
+158,Man United,Man City,2.0,8.0,2017/18
+159,Southampton,Arsenal,4.0,5.0,2017/18
+160,Burnley,Stoke,6.0,4.0,2017/18
+161,Crystal Palace,Watford,4.0,6.0,2017/18
+162,Huddersfield,Chelsea,1.0,3.0,2017/18
+163,Liverpool,West Brom,5.0,7.0,2017/18
+164,Man United,Bournemouth,4.0,9.0,2017/18
+165,Newcastle,Everton,4.0,1.0,2017/18
+166,Southampton,Leicester,9.0,9.0,2017/18
+167,Swansea,Man City,2.0,5.0,2017/18
+168,Tottenham,Brighton,10.0,2.0,2017/18
+169,West Ham,Arsenal,1.0,7.0,2017/18
+170,Arsenal,Newcastle,7.0,5.0,2017/18
+171,Brighton,Burnley,8.0,2.0,2017/18
+172,Chelsea,Southampton,8.0,4.0,2017/18
+173,Leicester,Crystal Palace,6.0,4.0,2017/18
+174,Man City,Tottenham,5.0,1.0,2017/18
+175,Stoke,West Ham,7.0,9.0,2017/18
+176,Watford,Huddersfield,8.0,7.0,2017/18
+177,Bournemouth,Liverpool,2.0,3.0,2017/18
+178,West Brom,Man United,6.0,3.0,2017/18
+179,Everton,Swansea,6.0,3.0,2017/18
+180,Arsenal,Liverpool,7.0,8.0,2017/18
+181,Brighton,Watford,6.0,4.0,2017/18
+182,Burnley,Tottenham,4.0,4.0,2017/18
+183,Everton,Chelsea,2.0,7.0,2017/18
+184,Leicester,Man United,4.0,6.0,2017/18
+185,Man City,Bournemouth,4.0,6.0,2017/18
+186,Southampton,Huddersfield,9.0,1.0,2017/18
+187,Stoke,West Brom,1.0,11.0,2017/18
+188,Swansea,Crystal Palace,6.0,3.0,2017/18
+189,West Ham,Newcastle,6.0,3.0,2017/18
+190,Bournemouth,West Ham,7.0,4.0,2017/18
+191,Chelsea,Brighton,13.0,1.0,2017/18
+192,Huddersfield,Stoke,8.0,5.0,2017/18
+193,Liverpool,Swansea,4.0,2.0,2017/18
+194,Man United,Burnley,12.0,2.0,2017/18
+195,Tottenham,Southampton,3.0,8.0,2017/18
+196,Watford,Leicester,8.0,8.0,2017/18
+197,West Brom,Everton,10.0,2.0,2017/18
+198,Newcastle,Man City,3.0,8.0,2017/18
+199,Crystal Palace,Arsenal,5.0,4.0,2017/18
+200,Bournemouth,Everton,4.0,4.0,2017/18
+201,Chelsea,Stoke,7.0,0.0,2017/18
+202,Huddersfield,Burnley,5.0,4.0,2017/18
+203,Liverpool,Leicester,7.0,1.0,2017/18
+204,Man United,Southampton,10.0,7.0,2017/18
+205,Newcastle,Brighton,3.0,6.0,2017/18
+206,Watford,Swansea,1.0,8.0,2017/18
+207,Crystal Palace,Man City,7.0,8.0,2017/18
+208,West Brom,Arsenal,5.0,6.0,2017/18
+209,Brighton,Bournemouth,5.0,12.0,2017/18
+210,Burnley,Liverpool,3.0,9.0,2017/18
+211,Everton,Man United,6.0,6.0,2017/18
+212,Leicester,Huddersfield,4.0,1.0,2017/18
+213,Stoke,Newcastle,10.0,5.0,2017/18
+214,Man City,Watford,9.0,1.0,2017/18
+215,Southampton,Crystal Palace,4.0,7.0,2017/18
+216,Swansea,Tottenham,6.0,5.0,2017/18
+217,West Ham,West Brom,3.0,4.0,2017/18
+218,Arsenal,Chelsea,10.0,8.0,2017/18
+219,Tottenham,West Ham,7.0,1.0,2017/18
+220,Chelsea,Leicester,6.0,3.0,2017/18
+221,Crystal Palace,Burnley,3.0,2.0,2017/18
+222,Huddersfield,West Ham,7.0,3.0,2017/18
+223,Newcastle,Swansea,4.0,5.0,2017/18
+224,Tottenham,Everton,3.0,3.0,2017/18
+225,Watford,Southampton,5.0,4.0,2017/18
+226,West Brom,Brighton,9.0,6.0,2017/18
+227,Bournemouth,Arsenal,4.0,5.0,2017/18
+228,Liverpool,Man City,5.0,6.0,2017/18
+229,Man United,Stoke,6.0,1.0,2017/18
+230,Arsenal,Crystal Palace,5.0,10.0,2017/18
+231,Brighton,Chelsea,5.0,3.0,2017/18
+232,Burnley,Man United,5.0,4.0,2017/18
+233,Everton,West Brom,0.0,3.0,2017/18
+234,Leicester,Watford,4.0,5.0,2017/18
+235,Man City,Newcastle,18.0,0.0,2017/18
+236,Stoke,Huddersfield,3.0,2.0,2017/18
+237,West Ham,Bournemouth,6.0,3.0,2017/18
+238,Southampton,Tottenham,2.0,9.0,2017/18
+239,Swansea,Liverpool,3.0,9.0,2017/18
+240,Huddersfield,Liverpool,1.0,4.0,2017/18
+241,Swansea,Arsenal,4.0,3.0,2017/18
+242,West Ham,Crystal Palace,5.0,3.0,2017/18
+243,Chelsea,Bournemouth,8.0,5.0,2017/18
+244,Everton,Leicester,5.0,5.0,2017/18
+245,Man City,West Brom,9.0,1.0,2017/18
+246,Newcastle,Burnley,7.0,4.0,2017/18
+247,Southampton,Brighton,7.0,2.0,2017/18
+248,Stoke,Watford,2.0,6.0,2017/18
+249,Tottenham,Man United,6.0,3.0,2017/18
+250,Arsenal,Everton,4.0,6.0,2017/18
+251,Bournemouth,Stoke,8.0,1.0,2017/18
+252,Brighton,West Ham,4.0,1.0,2017/18
+253,Burnley,Man City,3.0,13.0,2017/18
+254,Leicester,Swansea,3.0,3.0,2017/18
+255,Man United,Huddersfield,5.0,2.0,2017/18
+256,West Brom,Southampton,5.0,7.0,2017/18
+257,Crystal Palace,Newcastle,5.0,6.0,2017/18
+258,Liverpool,Tottenham,3.0,7.0,2017/18
+259,Watford,Chelsea,6.0,2.0,2017/18
+260,Everton,Crystal Palace,8.0,7.0,2017/18
+261,Man City,Leicester,8.0,2.0,2017/18
+262,Stoke,Brighton,7.0,4.0,2017/18
+263,Swansea,Burnley,5.0,2.0,2017/18
+264,Tottenham,Arsenal,10.0,2.0,2017/18
+265,West Ham,Watford,8.0,7.0,2017/18
+266,Huddersfield,Bournemouth,2.0,6.0,2017/18
+267,Newcastle,Man United,0.0,10.0,2017/18
+268,Southampton,Liverpool,3.0,1.0,2017/18
+269,Chelsea,West Brom,8.0,7.0,2017/18
+270,Bournemouth,Newcastle,8.0,1.0,2017/18
+271,Brighton,Swansea,3.0,5.0,2017/18
+272,Burnley,Southampton,7.0,5.0,2017/18
+273,Leicester,Stoke,13.0,1.0,2017/18
+274,Liverpool,West Ham,8.0,2.0,2017/18
+275,Watford,Everton,6.0,5.0,2017/18
+276,West Brom,Huddersfield,6.0,3.0,2017/18
+277,Crystal Palace,Tottenham,2.0,13.0,2017/18
+278,Man United,Chelsea,3.0,4.0,2017/18
+279,Arsenal,Man City,6.0,1.0,2017/18
+280,Burnley,Everton,10.0,4.0,2017/18
+281,Leicester,Bournemouth,13.0,1.0,2017/18
+282,Liverpool,Newcastle,8.0,3.0,2017/18
+283,Southampton,Stoke,15.0,4.0,2017/18
+284,Swansea,West Ham,4.0,5.0,2017/18
+285,Tottenham,Huddersfield,8.0,1.0,2017/18
+286,Watford,West Brom,4.0,6.0,2017/18
+287,Brighton,Arsenal,6.0,11.0,2017/18
+288,Man City,Chelsea,5.0,2.0,2017/18
+289,Crystal Palace,Man United,3.0,7.0,2017/18
+290,Chelsea,Crystal Palace,12.0,3.0,2017/18
+291,Everton,Brighton,10.0,3.0,2017/18
+292,Huddersfield,Swansea,12.0,0.0,2017/18
+293,Man United,Liverpool,1.0,13.0,2017/18
+294,Newcastle,Southampton,2.0,6.0,2017/18
+295,West Brom,Leicester,7.0,6.0,2017/18
+296,West Ham,Burnley,5.0,1.0,2017/18
+297,Arsenal,Watford,4.0,9.0,2017/18
+298,Bournemouth,Tottenham,4.0,5.0,2017/18
+299,Stoke,Man City,3.0,10.0,2017/18
+300,Bournemouth,West Brom,3.0,2.0,2017/18
+301,Huddersfield,Crystal Palace,4.0,7.0,2017/18
+302,Liverpool,Watford,6.0,1.0,2017/18
+303,Stoke,Everton,1.0,9.0,2017/18
+304,Brighton,Leicester,6.0,1.0,2017/18
+305,Crystal Palace,Liverpool,4.0,6.0,2017/18
+306,Everton,Man City,2.0,11.0,2017/18
+307,Man United,Swansea,3.0,3.0,2017/18
+308,Newcastle,Huddersfield,3.0,3.0,2017/18
+309,Watford,Bournemouth,7.0,4.0,2017/18
+310,West Brom,Burnley,1.0,6.0,2017/18
+311,West Ham,Southampton,5.0,9.0,2017/18
+312,Arsenal,Stoke,6.0,5.0,2017/18
+313,Chelsea,Tottenham,5.0,5.0,2017/18
+314,Bournemouth,Crystal Palace,11.0,3.0,2017/18
+315,Brighton,Huddersfield,5.0,3.0,2017/18
+316,Everton,Liverpool,3.0,2.0,2017/18
+317,Leicester,Newcastle,7.0,5.0,2017/18
+318,Man City,Man United,8.0,4.0,2017/18
+319,Stoke,Tottenham,6.0,3.0,2017/18
+320,Watford,Burnley,11.0,1.0,2017/18
+321,West Brom,Swansea,5.0,1.0,2017/18
+322,Arsenal,Southampton,8.0,6.0,2017/18
+323,Chelsea,West Ham,10.0,6.0,2017/18
+324,Burnley,Leicester,4.0,8.0,2017/18
+325,Crystal Palace,Brighton,5.0,6.0,2017/18
+326,Huddersfield,Watford,9.0,6.0,2017/18
+327,Liverpool,Bournemouth,7.0,5.0,2017/18
+328,Southampton,Chelsea,4.0,7.0,2017/18
+329,Swansea,Everton,6.0,3.0,2017/18
+330,Tottenham,Man City,5.0,7.0,2017/18
+331,Man United,West Brom,4.0,4.0,2017/18
+332,Newcastle,Arsenal,2.0,5.0,2017/18
+333,West Ham,Stoke,10.0,1.0,2017/18
+334,Brighton,Tottenham,3.0,4.0,2017/18
+335,Bournemouth,Man United,8.0,5.0,2017/18
+336,Burnley,Chelsea,3.0,2.0,2017/18
+337,Leicester,Southampton,11.0,3.0,2017/18
+338,Watford,Crystal Palace,4.0,3.0,2017/18
+339,West Brom,Liverpool,7.0,4.0,2017/18
+340,Arsenal,West Ham,8.0,6.0,2017/18
+341,Man City,Swansea,5.0,1.0,2017/18
+342,Stoke,Burnley,3.0,8.0,2017/18
+343,Everton,Newcastle,4.0,6.0,2017/18
+344,Burnley,Brighton,3.0,4.0,2017/18
+345,Crystal Palace,Leicester,8.0,2.0,2017/18
+346,Huddersfield,Everton,4.0,3.0,2017/18
+347,Liverpool,Stoke,9.0,2.0,2017/18
+348,Newcastle,West Brom,5.0,1.0,2017/18
+349,Southampton,Bournemouth,5.0,8.0,2017/18
+350,Swansea,Chelsea,1.0,2.0,2017/18
+351,Man United,Arsenal,9.0,0.0,2017/18
+352,West Ham,Man City,0.0,7.0,2017/18
+353,Tottenham,Watford,4.0,0.0,2017/18
+354,Brighton,Man United,5.0,6.0,2017/18
+355,Bournemouth,Swansea,11.0,6.0,2017/18
+356,Everton,Southampton,3.0,4.0,2017/18
+357,Leicester,West Ham,8.0,3.0,2017/18
+358,Stoke,Crystal Palace,1.0,7.0,2017/18
+359,Watford,Newcastle,2.0,5.0,2017/18
+360,West Brom,Tottenham,5.0,9.0,2017/18
+361,Arsenal,Burnley,4.0,5.0,2017/18
+362,Chelsea,Liverpool,3.0,1.0,2017/18
+363,Man City,Huddersfield,10.0,1.0,2017/18
+364,Swansea,Southampton,7.0,6.0,2017/18
+365,Chelsea,Huddersfield,9.0,0.0,2017/18
+366,Leicester,Arsenal,6.0,6.0,2017/18
+367,Man City,Brighton,4.0,3.0,2017/18
+368,Tottenham,Newcastle,6.0,4.0,2017/18
+369,West Ham,Man United,1.0,6.0,2017/18
+370,Burnley,Bournemouth,7.0,8.0,2017/18
+371,Crystal Palace,West Brom,4.0,2.0,2017/18
+372,Huddersfield,Arsenal,7.0,4.0,2017/18
+373,Liverpool,Brighton,7.0,3.0,2017/18
+374,Man United,Watford,6.0,5.0,2017/18
+375,Newcastle,Chelsea,4.0,2.0,2017/18
+376,Southampton,Man City,1.0,12.0,2017/18
+377,Swansea,Stoke,6.0,0.0,2017/18
+378,Tottenham,Leicester,4.0,4.0,2017/18
+379,West Ham,Everton,6.0,6.0,2017/18
+0,Burnley,Swansea,7.0,4.0,2016/17
+1,Crystal Palace,West Brom,3.0,6.0,2016/17
+2,Everton,Tottenham,5.0,6.0,2016/17
+3,Hull,Leicester,5.0,3.0,2016/17
+4,Man City,Sunderland,9.0,6.0,2016/17
+5,Middlesbrough,Stoke,9.0,6.0,2016/17
+6,Southampton,Watford,6.0,2.0,2016/17
+7,Arsenal,Liverpool,5.0,4.0,2016/17
+8,Bournemouth,Man United,4.0,2.0,2016/17
+9,Chelsea,West Ham,7.0,1.0,2016/17
+10,Man United,Southampton,4.0,0.0,2016/17
+11,Burnley,Liverpool,1.0,12.0,2016/17
+12,Leicester,Arsenal,2.0,7.0,2016/17
+13,Stoke,Man City,7.0,7.0,2016/17
+14,Swansea,Hull,8.0,3.0,2016/17
+15,Tottenham,Crystal Palace,10.0,4.0,2016/17
+16,Watford,Chelsea,0.0,5.0,2016/17
+17,West Brom,Everton,7.0,4.0,2016/17
+18,Sunderland,Middlesbrough,8.0,1.0,2016/17
+19,West Ham,Bournemouth,1.0,6.0,2016/17
+20,Chelsea,Burnley,9.0,5.0,2016/17
+21,Crystal Palace,Bournemouth,10.0,4.0,2016/17
+22,Everton,Stoke,9.0,2.0,2016/17
+23,Hull,Man United,1.0,6.0,2016/17
+24,Leicester,Swansea,4.0,6.0,2016/17
+25,Southampton,Sunderland,5.0,5.0,2016/17
+26,Tottenham,Liverpool,5.0,5.0,2016/17
+27,Watford,Arsenal,3.0,2.0,2016/17
+28,Man City,West Ham,5.0,4.0,2016/17
+29,West Brom,Middlesbrough,5.0,4.0,2016/17
+30,Arsenal,Southampton,6.0,1.0,2016/17
+31,Bournemouth,West Brom,10.0,5.0,2016/17
+32,Burnley,Hull,5.0,9.0,2016/17
+33,Liverpool,Leicester,1.0,7.0,2016/17
+34,Man United,Man City,4.0,4.0,2016/17
+35,Middlesbrough,Crystal Palace,6.0,6.0,2016/17
+36,Stoke,Tottenham,10.0,8.0,2016/17
+37,West Ham,Watford,4.0,4.0,2016/17
+38,Swansea,Chelsea,1.0,11.0,2016/17
+39,Sunderland,Everton,5.0,4.0,2016/17
+40,Chelsea,Liverpool,6.0,4.0,2016/17
+41,Everton,Middlesbrough,6.0,3.0,2016/17
+42,Hull,Arsenal,2.0,4.0,2016/17
+43,Leicester,Burnley,7.0,1.0,2016/17
+44,Man City,Bournemouth,5.0,5.0,2016/17
+45,West Brom,West Ham,2.0,6.0,2016/17
+46,Crystal Palace,Stoke,10.0,5.0,2016/17
+47,Southampton,Swansea,7.0,1.0,2016/17
+48,Tottenham,Sunderland,14.0,1.0,2016/17
+49,Watford,Man United,5.0,7.0,2016/17
+50,Arsenal,Chelsea,9.0,1.0,2016/17
+51,Bournemouth,Everton,5.0,3.0,2016/17
+52,Liverpool,Hull,13.0,2.0,2016/17
+53,Man United,Leicester,8.0,6.0,2016/17
+54,Middlesbrough,Tottenham,2.0,10.0,2016/17
+55,Stoke,West Brom,6.0,6.0,2016/17
+56,Sunderland,Crystal Palace,3.0,5.0,2016/17
+57,Swansea,Man City,2.0,7.0,2016/17
+58,West Ham,Southampton,6.0,2.0,2016/17
+59,Burnley,Watford,7.0,6.0,2016/17
+60,Everton,Crystal Palace,10.0,9.0,2016/17
+61,Hull,Chelsea,5.0,7.0,2016/17
+62,Sunderland,West Brom,6.0,5.0,2016/17
+63,Swansea,Liverpool,3.0,10.0,2016/17
+64,Watford,Bournemouth,4.0,5.0,2016/17
+65,West Ham,Middlesbrough,4.0,5.0,2016/17
+66,Burnley,Arsenal,2.0,6.0,2016/17
+67,Leicester,Southampton,3.0,6.0,2016/17
+68,Man United,Stoke,13.0,2.0,2016/17
+69,Tottenham,Man City,4.0,3.0,2016/17
+70,Arsenal,Swansea,5.0,6.0,2016/17
+71,Bournemouth,Hull,5.0,4.0,2016/17
+72,Chelsea,Leicester,8.0,5.0,2016/17
+73,Crystal Palace,West Ham,7.0,6.0,2016/17
+74,Man City,Everton,13.0,1.0,2016/17
+75,Stoke,Sunderland,6.0,4.0,2016/17
+76,West Brom,Tottenham,5.0,8.0,2016/17
+77,Middlesbrough,Watford,4.0,6.0,2016/17
+78,Southampton,Burnley,8.0,4.0,2016/17
+79,Liverpool,Man United,3.0,1.0,2016/17
+80,Arsenal,Middlesbrough,8.0,3.0,2016/17
+81,Bournemouth,Tottenham,7.0,4.0,2016/17
+82,Burnley,Everton,2.0,8.0,2016/17
+83,Hull,Stoke,5.0,7.0,2016/17
+84,Leicester,Crystal Palace,8.0,8.0,2016/17
+85,Liverpool,West Brom,3.0,2.0,2016/17
+86,Swansea,Watford,7.0,2.0,2016/17
+87,West Ham,Sunderland,6.0,2.0,2016/17
+88,Chelsea,Man United,5.0,7.0,2016/17
+89,Man City,Southampton,10.0,3.0,2016/17
+90,Crystal Palace,Liverpool,3.0,3.0,2016/17
+91,Man United,Burnley,19.0,1.0,2016/17
+92,Middlesbrough,Bournemouth,4.0,7.0,2016/17
+93,Sunderland,Arsenal,0.0,8.0,2016/17
+94,Tottenham,Leicester,8.0,1.0,2016/17
+95,Watford,Hull,7.0,2.0,2016/17
+96,West Brom,Man City,1.0,7.0,2016/17
+97,Everton,West Ham,8.0,8.0,2016/17
+98,Southampton,Chelsea,7.0,3.0,2016/17
+99,Stoke,Swansea,6.0,4.0,2016/17
+100,Bournemouth,Sunderland,12.0,2.0,2016/17
+101,Burnley,Crystal Palace,4.0,7.0,2016/17
+102,Chelsea,Everton,4.0,2.0,2016/17
+103,Man City,Middlesbrough,8.0,2.0,2016/17
+104,West Ham,Stoke,6.0,4.0,2016/17
+105,Arsenal,Tottenham,7.0,2.0,2016/17
+106,Hull,Southampton,1.0,10.0,2016/17
+107,Leicester,West Brom,5.0,6.0,2016/17
+108,Liverpool,Watford,6.0,3.0,2016/17
+109,Swansea,Man United,2.0,0.0,2016/17
+110,Crystal Palace,Man City,2.0,7.0,2016/17
+111,Everton,Swansea,10.0,3.0,2016/17
+112,Man United,Arsenal,10.0,4.0,2016/17
+113,Southampton,Liverpool,1.0,8.0,2016/17
+114,Stoke,Bournemouth,3.0,4.0,2016/17
+115,Sunderland,Hull,2.0,8.0,2016/17
+116,Tottenham,West Ham,4.0,5.0,2016/17
+117,Watford,Leicester,4.0,6.0,2016/17
+118,Middlesbrough,Chelsea,2.0,3.0,2016/17
+119,West Brom,Burnley,4.0,3.0,2016/17
+120,Burnley,Man City,5.0,8.0,2016/17
+121,Chelsea,Tottenham,3.0,8.0,2016/17
+122,Hull,West Brom,2.0,6.0,2016/17
+123,Leicester,Middlesbrough,2.0,3.0,2016/17
+124,Liverpool,Sunderland,9.0,4.0,2016/17
+125,Swansea,Crystal Palace,10.0,6.0,2016/17
+126,Arsenal,Bournemouth,3.0,10.0,2016/17
+127,Man United,West Ham,8.0,4.0,2016/17
+128,Southampton,Everton,5.0,2.0,2016/17
+129,Watford,Stoke,3.0,3.0,2016/17
+130,Crystal Palace,Southampton,4.0,9.0,2016/17
+131,Man City,Chelsea,9.0,2.0,2016/17
+132,Stoke,Burnley,4.0,9.0,2016/17
+133,Sunderland,Leicester,3.0,4.0,2016/17
+134,Tottenham,Swansea,5.0,0.0,2016/17
+135,West Brom,Watford,3.0,4.0,2016/17
+136,West Ham,Arsenal,3.0,2.0,2016/17
+137,Bournemouth,Liverpool,4.0,9.0,2016/17
+138,Everton,Man United,6.0,3.0,2016/17
+139,Middlesbrough,Hull,13.0,7.0,2016/17
+140,Arsenal,Stoke,7.0,7.0,2016/17
+141,Burnley,Bournemouth,4.0,11.0,2016/17
+142,Hull,Crystal Palace,4.0,7.0,2016/17
+143,Leicester,Man City,3.0,11.0,2016/17
+144,Swansea,Sunderland,7.0,4.0,2016/17
+145,Watford,Everton,2.0,4.0,2016/17
+146,Chelsea,West Brom,3.0,1.0,2016/17
+147,Liverpool,West Ham,11.0,4.0,2016/17
+148,Man United,Tottenham,3.0,8.0,2016/17
+149,Southampton,Middlesbrough,4.0,2.0,2016/17
+150,Bournemouth,Leicester,4.0,11.0,2016/17
+151,Everton,Arsenal,8.0,3.0,2016/17
+152,Crystal Palace,Man United,1.0,8.0,2016/17
+153,Man City,Watford,5.0,2.0,2016/17
+154,Middlesbrough,Liverpool,5.0,2.0,2016/17
+155,Stoke,Southampton,3.0,11.0,2016/17
+156,Sunderland,Chelsea,5.0,5.0,2016/17
+157,Tottenham,Hull,5.0,5.0,2016/17
+158,West Brom,Swansea,0.0,11.0,2016/17
+159,West Ham,Burnley,6.0,1.0,2016/17
+160,Crystal Palace,Chelsea,5.0,3.0,2016/17
+161,Middlesbrough,Swansea,3.0,8.0,2016/17
+162,Stoke,Leicester,9.0,9.0,2016/17
+163,Sunderland,Watford,4.0,11.0,2016/17
+164,West Brom,Man United,2.0,3.0,2016/17
+165,West Ham,Hull,10.0,6.0,2016/17
+166,Bournemouth,Southampton,7.0,4.0,2016/17
+167,Man City,Arsenal,8.0,1.0,2016/17
+168,Tottenham,Burnley,11.0,2.0,2016/17
+169,Everton,Liverpool,1.0,6.0,2016/17
+170,Arsenal,West Brom,6.0,5.0,2016/17
+171,Burnley,Middlesbrough,7.0,3.0,2016/17
+172,Chelsea,Bournemouth,5.0,5.0,2016/17
+173,Hull,Man City,4.0,7.0,2016/17
+174,Leicester,Everton,3.0,4.0,2016/17
+175,Man United,Sunderland,5.0,5.0,2016/17
+176,Swansea,West Ham,8.0,4.0,2016/17
+177,Watford,Crystal Palace,7.0,3.0,2016/17
+178,Liverpool,Stoke,8.0,2.0,2016/17
+179,Southampton,Tottenham,2.0,10.0,2016/17
+180,Hull,Everton,5.0,5.0,2016/17
+181,Burnley,Sunderland,6.0,2.0,2016/17
+182,Chelsea,Stoke,8.0,3.0,2016/17
+183,Leicester,West Ham,7.0,7.0,2016/17
+184,Liverpool,Man City,4.0,6.0,2016/17
+185,Man United,Middlesbrough,12.0,2.0,2016/17
+186,Southampton,West Brom,8.0,3.0,2016/17
+187,Swansea,Bournemouth,4.0,3.0,2016/17
+188,Arsenal,Crystal Palace,8.0,4.0,2016/17
+189,Watford,Tottenham,0.0,3.0,2016/17
+190,Everton,Southampton,10.0,8.0,2016/17
+191,Man City,Burnley,8.0,8.0,2016/17
+192,Middlesbrough,Leicester,2.0,2.0,2016/17
+193,Sunderland,Liverpool,2.0,5.0,2016/17
+194,West Brom,Hull,7.0,9.0,2016/17
+195,West Ham,Man United,2.0,1.0,2016/17
+196,Bournemouth,Arsenal,4.0,7.0,2016/17
+197,Crystal Palace,Swansea,4.0,5.0,2016/17
+198,Stoke,Watford,7.0,6.0,2016/17
+199,Tottenham,Chelsea,1.0,6.0,2016/17
+200,Burnley,Southampton,2.0,7.0,2016/17
+201,Hull,Bournemouth,4.0,5.0,2016/17
+202,Leicester,Chelsea,3.0,5.0,2016/17
+203,Sunderland,Stoke,5.0,2.0,2016/17
+204,Swansea,Arsenal,3.0,2.0,2016/17
+205,Tottenham,West Brom,8.0,0.0,2016/17
+206,Watford,Middlesbrough,3.0,1.0,2016/17
+207,West Ham,Crystal Palace,2.0,2.0,2016/17
+208,Everton,Man City,3.0,6.0,2016/17
+209,Man United,Liverpool,5.0,7.0,2016/17
+210,Bournemouth,Watford,9.0,4.0,2016/17
+211,Crystal Palace,Everton,8.0,7.0,2016/17
+212,Liverpool,Swansea,6.0,3.0,2016/17
+213,Man City,Tottenham,5.0,4.0,2016/17
+214,Middlesbrough,West Ham,7.0,5.0,2016/17
+215,Stoke,Man United,1.0,7.0,2016/17
+216,West Brom,Sunderland,1.0,4.0,2016/17
+217,Arsenal,Burnley,10.0,4.0,2016/17
+218,Chelsea,Hull,9.0,7.0,2016/17
+219,Southampton,Leicester,7.0,2.0,2016/17
+220,Arsenal,Watford,9.0,5.0,2016/17
+221,Bournemouth,Crystal Palace,2.0,3.0,2016/17
+222,Burnley,Leicester,10.0,2.0,2016/17
+223,Liverpool,Chelsea,3.0,3.0,2016/17
+224,Middlesbrough,West Brom,4.0,2.0,2016/17
+225,Sunderland,Tottenham,2.0,12.0,2016/17
+226,Swansea,Southampton,5.0,4.0,2016/17
+227,Man United,Hull,7.0,1.0,2016/17
+228,Stoke,Everton,5.0,5.0,2016/17
+229,West Ham,Man City,2.0,4.0,2016/17
+230,Chelsea,Arsenal,10.0,13.0,2016/17
+231,Crystal Palace,Sunderland,6.0,1.0,2016/17
+232,Everton,Bournemouth,4.0,8.0,2016/17
+233,Hull,Liverpool,1.0,15.0,2016/17
+234,Southampton,West Ham,3.0,2.0,2016/17
+235,Tottenham,Middlesbrough,11.0,2.0,2016/17
+236,Watford,Burnley,3.0,6.0,2016/17
+237,West Brom,Stoke,5.0,6.0,2016/17
+238,Leicester,Man United,10.0,3.0,2016/17
+239,Man City,Swansea,10.0,3.0,2016/17
+240,Arsenal,Hull,3.0,8.0,2016/17
+241,Liverpool,Tottenham,10.0,3.0,2016/17
+242,Man United,Watford,5.0,1.0,2016/17
+243,Middlesbrough,Everton,5.0,2.0,2016/17
+244,Stoke,Crystal Palace,5.0,5.0,2016/17
+245,Sunderland,Southampton,6.0,2.0,2016/17
+246,West Ham,West Brom,7.0,5.0,2016/17
+247,Burnley,Chelsea,1.0,1.0,2016/17
+248,Swansea,Leicester,7.0,3.0,2016/17
+249,Bournemouth,Man City,3.0,7.0,2016/17
+250,Chelsea,Swansea,8.0,1.0,2016/17
+251,Crystal Palace,Middlesbrough,4.0,2.0,2016/17
+252,Everton,Sunderland,10.0,6.0,2016/17
+253,Hull,Burnley,6.0,3.0,2016/17
+254,Watford,West Ham,4.0,6.0,2016/17
+255,West Brom,Bournemouth,8.0,6.0,2016/17
+256,Tottenham,Stoke,8.0,5.0,2016/17
+257,Leicester,Liverpool,5.0,12.0,2016/17
+258,Leicester,Hull,10.0,4.0,2016/17
+259,Liverpool,Arsenal,9.0,3.0,2016/17
+260,Man United,Bournemouth,15.0,2.0,2016/17
+261,Stoke,Middlesbrough,6.0,1.0,2016/17
+262,Swansea,Burnley,9.0,2.0,2016/17
+263,Watford,Southampton,6.0,5.0,2016/17
+264,West Brom,Crystal Palace,5.0,5.0,2016/17
+265,Sunderland,Man City,6.0,4.0,2016/17
+266,Tottenham,Everton,7.0,2.0,2016/17
+267,West Ham,Chelsea,6.0,4.0,2016/17
+268,Man City,Stoke,8.0,1.0,2016/17
+269,Bournemouth,West Ham,5.0,6.0,2016/17
+270,Everton,West Brom,4.0,6.0,2016/17
+271,Hull,Swansea,2.0,7.0,2016/17
+272,Liverpool,Burnley,11.0,1.0,2016/17
+273,Bournemouth,Swansea,2.0,4.0,2016/17
+274,Crystal Palace,Watford,3.0,2.0,2016/17
+275,Everton,Hull,5.0,8.0,2016/17
+276,Stoke,Chelsea,5.0,11.0,2016/17
+277,Sunderland,Burnley,3.0,5.0,2016/17
+278,West Brom,Arsenal,4.0,5.0,2016/17
+279,West Ham,Leicester,6.0,5.0,2016/17
+280,Man City,Liverpool,9.0,8.0,2016/17
+281,Middlesbrough,Man United,8.0,3.0,2016/17
+282,Tottenham,Southampton,5.0,1.0,2016/17
+283,Burnley,Tottenham,3.0,7.0,2016/17
+284,Chelsea,Crystal Palace,9.0,3.0,2016/17
+285,Hull,West Ham,5.0,5.0,2016/17
+286,Leicester,Stoke,10.0,4.0,2016/17
+287,Liverpool,Everton,2.0,3.0,2016/17
+288,Man United,West Brom,6.0,1.0,2016/17
+289,Southampton,Bournemouth,6.0,3.0,2016/17
+290,Watford,Sunderland,13.0,9.0,2016/17
+291,Arsenal,Man City,3.0,8.0,2016/17
+292,Swansea,Middlesbrough,11.0,3.0,2016/17
+293,Burnley,Stoke,3.0,5.0,2016/17
+294,Leicester,Sunderland,5.0,6.0,2016/17
+295,Man United,Everton,6.0,5.0,2016/17
+296,Watford,West Brom,5.0,6.0,2016/17
+297,Arsenal,West Ham,5.0,0.0,2016/17
+298,Chelsea,Man City,2.0,9.0,2016/17
+299,Hull,Middlesbrough,8.0,4.0,2016/17
+300,Liverpool,Bournemouth,7.0,2.0,2016/17
+301,Southampton,Crystal Palace,11.0,11.0,2016/17
+302,Swansea,Tottenham,5.0,7.0,2016/17
+303,Bournemouth,Chelsea,4.0,4.0,2016/17
+304,Man City,Hull,7.0,3.0,2016/17
+305,Middlesbrough,Burnley,4.0,3.0,2016/17
+306,Stoke,Liverpool,5.0,8.0,2016/17
+307,Tottenham,Watford,7.0,5.0,2016/17
+308,West Brom,Southampton,7.0,3.0,2016/17
+309,West Ham,Swansea,4.0,3.0,2016/17
+310,Everton,Leicester,4.0,6.0,2016/17
+311,Sunderland,Man United,4.0,5.0,2016/17
+312,Crystal Palace,Arsenal,5.0,8.0,2016/17
+313,Crystal Palace,Leicester,8.0,5.0,2016/17
+314,Everton,Burnley,6.0,7.0,2016/17
+315,Southampton,Man City,3.0,8.0,2016/17
+316,Stoke,Hull,3.0,7.0,2016/17
+317,Sunderland,West Ham,8.0,1.0,2016/17
+318,Tottenham,Bournemouth,13.0,1.0,2016/17
+319,Watford,Swansea,6.0,2.0,2016/17
+320,Man United,Chelsea,1.0,3.0,2016/17
+321,West Brom,Liverpool,4.0,4.0,2016/17
+322,Middlesbrough,Arsenal,2.0,4.0,2016/17
+323,Bournemouth,Middlesbrough,4.0,3.0,2016/17
+324,Hull,Watford,4.0,7.0,2016/17
+325,Swansea,Stoke,11.0,4.0,2016/17
+326,West Ham,Everton,8.0,4.0,2016/17
+327,Burnley,Man United,3.0,3.0,2016/17
+328,Liverpool,Crystal Palace,4.0,3.0,2016/17
+329,Chelsea,Southampton,6.0,7.0,2016/17
+330,Arsenal,Leicester,12.0,1.0,2016/17
+331,Crystal Palace,Tottenham,2.0,11.0,2016/17
+332,Middlesbrough,Sunderland,3.0,5.0,2016/17
+333,Man City,Man United,7.0,4.0,2016/17
+334,Crystal Palace,Burnley,14.0,4.0,2016/17
+335,Southampton,Hull,6.0,6.0,2016/17
+336,Stoke,West Ham,5.0,3.0,2016/17
+337,Sunderland,Bournemouth,6.0,5.0,2016/17
+338,West Brom,Leicester,5.0,6.0,2016/17
+339,Everton,Chelsea,2.0,4.0,2016/17
+340,Man United,Swansea,5.0,2.0,2016/17
+341,Middlesbrough,Man City,4.0,11.0,2016/17
+342,Tottenham,Arsenal,14.0,5.0,2016/17
+343,Watford,Liverpool,3.0,5.0,2016/17
+344,West Ham,Tottenham,3.0,7.0,2016/17
+345,Bournemouth,Stoke,0.0,7.0,2016/17
+346,Burnley,West Brom,5.0,8.0,2016/17
+347,Hull,Sunderland,7.0,4.0,2016/17
+348,Leicester,Watford,10.0,1.0,2016/17
+349,Man City,Crystal Palace,9.0,3.0,2016/17
+350,Swansea,Everton,9.0,5.0,2016/17
+351,Arsenal,Man United,5.0,9.0,2016/17
+352,Liverpool,Southampton,3.0,6.0,2016/17
+353,Chelsea,Middlesbrough,8.0,1.0,2016/17
+354,Southampton,Arsenal,8.0,5.0,2016/17
+355,Everton,Watford,9.0,8.0,2016/17
+356,West Brom,Chelsea,5.0,8.0,2016/17
+357,Bournemouth,Burnley,7.0,1.0,2016/17
+358,Man City,Leicester,9.0,3.0,2016/17
+359,Middlesbrough,Southampton,6.0,3.0,2016/17
+360,Stoke,Arsenal,7.0,6.0,2016/17
+361,Sunderland,Swansea,8.0,4.0,2016/17
+362,Crystal Palace,Hull,3.0,7.0,2016/17
+363,Tottenham,Man United,8.0,3.0,2016/17
+364,West Ham,Liverpool,4.0,6.0,2016/17
+365,Chelsea,Watford,8.0,3.0,2016/17
+366,Arsenal,Sunderland,17.0,3.0,2016/17
+367,Man City,West Brom,7.0,1.0,2016/17
+368,Southampton,Man United,7.0,3.0,2016/17
+369,Leicester,Tottenham,4.0,4.0,2016/17
+370,Arsenal,Everton,4.0,6.0,2016/17
+371,Burnley,West Ham,2.0,5.0,2016/17
+372,Chelsea,Sunderland,11.0,1.0,2016/17
+373,Hull,Tottenham,2.0,3.0,2016/17
+374,Leicester,Bournemouth,9.0,1.0,2016/17
+375,Liverpool,Middlesbrough,3.0,3.0,2016/17
+376,Man United,Crystal Palace,3.0,6.0,2016/17
+377,Southampton,Stoke,4.0,10.0,2016/17
+378,Swansea,West Brom,7.0,4.0,2016/17
+379,Watford,Man City,4.0,5.0,2016/17
+0,Bournemouth,Aston Villa,6.0,3.0,2015/16
+1,Chelsea,Swansea,4.0,8.0,2015/16
+2,Everton,Watford,8.0,2.0,2015/16
+3,Leicester,Sunderland,6.0,3.0,2015/16
+4,Man United,Tottenham,1.0,2.0,2015/16
+5,Norwich,Crystal Palace,1.0,4.0,2015/16
+6,Arsenal,West Ham,5.0,4.0,2015/16
+7,Newcastle,Southampton,6.0,6.0,2015/16
+8,Stoke,Liverpool,3.0,5.0,2015/16
+9,West Brom,Man City,6.0,6.0,2015/16
+10,Aston Villa,Man United,3.0,5.0,2015/16
+11,Southampton,Everton,9.0,9.0,2015/16
+12,Sunderland,Norwich,6.0,6.0,2015/16
+13,Swansea,Newcastle,4.0,4.0,2015/16
+14,Tottenham,Stoke,4.0,3.0,2015/16
+15,Watford,West Brom,2.0,4.0,2015/16
+16,West Ham,Leicester,8.0,4.0,2015/16
+17,Crystal Palace,Arsenal,6.0,6.0,2015/16
+18,Man City,Chelsea,5.0,1.0,2015/16
+19,Liverpool,Bournemouth,6.0,8.0,2015/16
+20,Crystal Palace,Aston Villa,6.0,4.0,2015/16
+21,Leicester,Tottenham,2.0,7.0,2015/16
+22,Man United,Newcastle,11.0,5.0,2015/16
+23,Norwich,Stoke,9.0,0.0,2015/16
+24,Sunderland,Swansea,3.0,4.0,2015/16
+25,West Ham,Bournemouth,5.0,4.0,2015/16
+26,Everton,Man City,8.0,7.0,2015/16
+27,Watford,Southampton,5.0,2.0,2015/16
+28,West Brom,Chelsea,8.0,7.0,2015/16
+29,Arsenal,Liverpool,7.0,8.0,2015/16
+30,Aston Villa,Sunderland,5.0,4.0,2015/16
+31,Bournemouth,Leicester,4.0,4.0,2015/16
+32,Chelsea,Crystal Palace,7.0,7.0,2015/16
+33,Liverpool,West Ham,5.0,7.0,2015/16
+34,Man City,Watford,9.0,3.0,2015/16
+35,Newcastle,Arsenal,0.0,9.0,2015/16
+36,Stoke,West Brom,6.0,5.0,2015/16
+37,Tottenham,Everton,6.0,2.0,2015/16
+38,Southampton,Norwich,6.0,4.0,2015/16
+39,Swansea,Man United,0.0,1.0,2015/16
+40,Arsenal,Stoke,13.0,1.0,2015/16
+41,Crystal Palace,Man City,4.0,4.0,2015/16
+42,Everton,Chelsea,7.0,14.0,2015/16
+43,Man United,Liverpool,4.0,4.0,2015/16
+44,Norwich,Bournemouth,4.0,4.0,2015/16
+45,Watford,Swansea,1.0,3.0,2015/16
+46,West Brom,Southampton,4.0,5.0,2015/16
+47,Leicester,Aston Villa,4.0,5.0,2015/16
+48,Sunderland,Tottenham,6.0,8.0,2015/16
+49,West Ham,Newcastle,6.0,7.0,2015/16
+50,Aston Villa,West Brom,2.0,7.0,2015/16
+51,Bournemouth,Sunderland,7.0,3.0,2015/16
+52,Chelsea,Arsenal,5.0,5.0,2015/16
+53,Man City,West Ham,16.0,3.0,2015/16
+54,Newcastle,Watford,5.0,5.0,2015/16
+55,Stoke,Leicester,3.0,4.0,2015/16
+56,Swansea,Everton,2.0,4.0,2015/16
+57,Liverpool,Norwich,6.0,2.0,2015/16
+58,Southampton,Man United,5.0,5.0,2015/16
+59,Tottenham,Crystal Palace,6.0,5.0,2015/16
+60,Leicester,Arsenal,6.0,5.0,2015/16
+61,Liverpool,Aston Villa,11.0,1.0,2015/16
+62,Man United,Sunderland,5.0,2.0,2015/16
+63,Newcastle,Chelsea,4.0,6.0,2015/16
+64,Southampton,Swansea,4.0,3.0,2015/16
+65,Stoke,Bournemouth,3.0,7.0,2015/16
+66,Tottenham,Man City,5.0,9.0,2015/16
+67,West Ham,Norwich,7.0,5.0,2015/16
+68,Watford,Crystal Palace,6.0,4.0,2015/16
+69,West Brom,Everton,6.0,4.0,2015/16
+70,Aston Villa,Stoke,9.0,5.0,2015/16
+71,Bournemouth,Watford,5.0,3.0,2015/16
+72,Chelsea,Southampton,4.0,6.0,2015/16
+73,Crystal Palace,West Brom,8.0,3.0,2015/16
+74,Man City,Newcastle,6.0,3.0,2015/16
+75,Norwich,Leicester,16.0,8.0,2015/16
+76,Sunderland,West Ham,1.0,8.0,2015/16
+77,Arsenal,Man United,3.0,6.0,2015/16
+78,Everton,Liverpool,5.0,11.0,2015/16
+79,Swansea,Tottenham,5.0,6.0,2015/16
+80,Chelsea,Aston Villa,4.0,4.0,2015/16
+81,Crystal Palace,West Ham,1.0,9.0,2015/16
+82,Everton,Man United,5.0,3.0,2015/16
+83,Man City,Bournemouth,1.0,7.0,2015/16
+84,Southampton,Leicester,6.0,7.0,2015/16
+85,Tottenham,Liverpool,8.0,6.0,2015/16
+86,Watford,Arsenal,3.0,9.0,2015/16
+87,West Brom,Sunderland,1.0,5.0,2015/16
+88,Newcastle,Norwich,3.0,7.0,2015/16
+89,Swansea,Stoke,1.0,2.0,2015/16
+90,Arsenal,Everton,7.0,5.0,2015/16
+91,Aston Villa,Swansea,4.0,6.0,2015/16
+92,Leicester,Crystal Palace,3.0,2.0,2015/16
+93,Norwich,West Brom,13.0,3.0,2015/16
+94,Stoke,Watford,11.0,5.0,2015/16
+95,West Ham,Chelsea,7.0,4.0,2015/16
+96,Bournemouth,Tottenham,4.0,5.0,2015/16
+97,Liverpool,Southampton,10.0,7.0,2015/16
+98,Man United,Man City,6.0,4.0,2015/16
+99,Sunderland,Newcastle,1.0,10.0,2015/16
+100,Chelsea,Liverpool,1.0,7.0,2015/16
+101,Crystal Palace,Man United,7.0,3.0,2015/16
+102,Man City,Norwich,12.0,4.0,2015/16
+103,Newcastle,Stoke,11.0,4.0,2015/16
+104,Swansea,Arsenal,4.0,4.0,2015/16
+105,Watford,West Ham,7.0,2.0,2015/16
+106,West Brom,Leicester,6.0,4.0,2015/16
+107,Everton,Sunderland,6.0,1.0,2015/16
+108,Southampton,Bournemouth,4.0,6.0,2015/16
+109,Tottenham,Aston Villa,4.0,3.0,2015/16
+110,Bournemouth,Newcastle,16.0,0.0,2015/16
+111,Leicester,Watford,4.0,2.0,2015/16
+112,Man United,West Brom,5.0,1.0,2015/16
+113,Norwich,Swansea,5.0,2.0,2015/16
+114,Stoke,Chelsea,1.0,9.0,2015/16
+115,Sunderland,Southampton,10.0,11.0,2015/16
+116,West Ham,Everton,3.0,5.0,2015/16
+117,Arsenal,Tottenham,7.0,6.0,2015/16
+118,Aston Villa,Man City,3.0,8.0,2015/16
+119,Liverpool,Crystal Palace,14.0,6.0,2015/16
+120,Chelsea,Norwich,6.0,5.0,2015/16
+121,Everton,Aston Villa,2.0,3.0,2015/16
+122,Man City,Liverpool,11.0,5.0,2015/16
+123,Newcastle,Leicester,4.0,9.0,2015/16
+124,Southampton,Stoke,7.0,3.0,2015/16
+125,Swansea,Bournemouth,4.0,5.0,2015/16
+126,Watford,Man United,4.0,10.0,2015/16
+127,West Brom,Arsenal,3.0,5.0,2015/16
+128,Tottenham,West Ham,7.0,6.0,2015/16
+129,Crystal Palace,Sunderland,11.0,2.0,2015/16
+130,Aston Villa,Watford,10.0,10.0,2015/16
+131,Bournemouth,Everton,10.0,5.0,2015/16
+132,Crystal Palace,Newcastle,7.0,5.0,2015/16
+133,Leicester,Man United,1.0,8.0,2015/16
+134,Man City,Southampton,6.0,4.0,2015/16
+135,Sunderland,Stoke,9.0,5.0,2015/16
+136,Liverpool,Swansea,8.0,7.0,2015/16
+137,Norwich,Arsenal,3.0,6.0,2015/16
+138,Tottenham,Chelsea,4.0,4.0,2015/16
+139,West Ham,West Brom,5.0,2.0,2015/16
+140,Arsenal,Sunderland,3.0,2.0,2015/16
+141,Chelsea,Bournemouth,11.0,4.0,2015/16
+142,Man United,West Ham,6.0,2.0,2015/16
+143,Southampton,Aston Villa,10.0,4.0,2015/16
+144,Stoke,Man City,1.0,6.0,2015/16
+145,Swansea,Leicester,3.0,8.0,2015/16
+146,Watford,Norwich,4.0,1.0,2015/16
+147,West Brom,Tottenham,3.0,6.0,2015/16
+148,Newcastle,Liverpool,2.0,7.0,2015/16
+149,Everton,Crystal Palace,13.0,6.0,2015/16
+150,Bournemouth,Man United,5.0,7.0,2015/16
+151,Crystal Palace,Southampton,8.0,5.0,2015/16
+152,Man City,Swansea,5.0,5.0,2015/16
+153,Norwich,Everton,5.0,4.0,2015/16
+154,Sunderland,Watford,8.0,3.0,2015/16
+155,West Ham,Stoke,11.0,7.0,2015/16
+156,Aston Villa,Arsenal,5.0,5.0,2015/16
+157,Liverpool,West Brom,4.0,4.0,2015/16
+158,Tottenham,Newcastle,6.0,2.0,2015/16
+159,Leicester,Chelsea,1.0,8.0,2015/16
+160,Chelsea,Sunderland,2.0,2.0,2015/16
+161,Everton,Leicester,10.0,2.0,2015/16
+162,Man United,Norwich,11.0,0.0,2015/16
+163,Newcastle,Aston Villa,3.0,7.0,2015/16
+164,Southampton,Tottenham,4.0,7.0,2015/16
+165,Stoke,Crystal Palace,7.0,3.0,2015/16
+166,West Brom,Bournemouth,4.0,8.0,2015/16
+167,Swansea,West Ham,8.0,9.0,2015/16
+168,Watford,Liverpool,7.0,9.0,2015/16
+169,Arsenal,Man City,4.0,8.0,2015/16
+170,Aston Villa,West Ham,9.0,6.0,2015/16
+171,Bournemouth,Crystal Palace,8.0,9.0,2015/16
+172,Chelsea,Watford,9.0,4.0,2015/16
+173,Liverpool,Leicester,7.0,6.0,2015/16
+174,Man City,Sunderland,5.0,1.0,2015/16
+175,Newcastle,Everton,1.0,7.0,2015/16
+176,Southampton,Arsenal,3.0,4.0,2015/16
+177,Stoke,Man United,1.0,12.0,2015/16
+178,Swansea,West Brom,0.0,7.0,2015/16
+179,Tottenham,Norwich,9.0,4.0,2015/16
+180,Arsenal,Bournemouth,9.0,3.0,2015/16
+181,Crystal Palace,Swansea,7.0,4.0,2015/16
+182,Everton,Stoke,6.0,2.0,2015/16
+183,Man United,Chelsea,5.0,3.0,2015/16
+184,Norwich,Aston Villa,3.0,7.0,2015/16
+185,Watford,Tottenham,5.0,3.0,2015/16
+186,West Brom,Newcastle,18.0,6.0,2015/16
+187,West Ham,Southampton,4.0,7.0,2015/16
+188,Leicester,Man City,1.0,13.0,2015/16
+189,Sunderland,Liverpool,6.0,4.0,2015/16
+190,Arsenal,Newcastle,7.0,4.0,2015/16
+191,Leicester,Bournemouth,7.0,1.0,2015/16
+192,Man United,Swansea,4.0,2.0,2015/16
+193,Norwich,Southampton,4.0,9.0,2015/16
+194,Sunderland,Aston Villa,3.0,3.0,2015/16
+195,Watford,Man City,4.0,5.0,2015/16
+196,West Brom,Stoke,4.0,6.0,2015/16
+197,West Ham,Liverpool,3.0,9.0,2015/16
+198,Crystal Palace,Chelsea,5.0,7.0,2015/16
+199,Everton,Tottenham,4.0,4.0,2015/16
+200,Aston Villa,Crystal Palace,9.0,0.0,2015/16
+201,Bournemouth,West Ham,4.0,7.0,2015/16
+202,Newcastle,Man United,5.0,3.0,2015/16
+203,Chelsea,West Brom,7.0,7.0,2015/16
+204,Liverpool,Arsenal,9.0,3.0,2015/16
+205,Man City,Everton,12.0,5.0,2015/16
+206,Southampton,Watford,8.0,1.0,2015/16
+207,Stoke,Norwich,7.0,3.0,2015/16
+208,Swansea,Sunderland,8.0,6.0,2015/16
+209,Tottenham,Leicester,16.0,8.0,2015/16
+210,Aston Villa,Leicester,3.0,4.0,2015/16
+211,Bournemouth,Norwich,5.0,3.0,2015/16
+212,Chelsea,Everton,6.0,4.0,2015/16
+213,Man City,Crystal Palace,5.0,6.0,2015/16
+214,Newcastle,West Ham,3.0,3.0,2015/16
+215,Southampton,West Brom,1.0,3.0,2015/16
+216,Tottenham,Sunderland,11.0,3.0,2015/16
+217,Liverpool,Man United,5.0,4.0,2015/16
+218,Stoke,Arsenal,6.0,6.0,2015/16
+219,Swansea,Watford,6.0,3.0,2015/16
+220,Crystal Palace,Tottenham,3.0,10.0,2015/16
+221,Leicester,Stoke,8.0,4.0,2015/16
+222,Man United,Southampton,4.0,4.0,2015/16
+223,Norwich,Liverpool,3.0,3.0,2015/16
+224,Sunderland,Bournemouth,3.0,4.0,2015/16
+225,Watford,Newcastle,2.0,7.0,2015/16
+226,West Brom,Aston Villa,2.0,6.0,2015/16
+227,West Ham,Man City,5.0,2.0,2015/16
+228,Arsenal,Chelsea,6.0,7.0,2015/16
+229,Everton,Swansea,7.0,1.0,2015/16
+230,Arsenal,Southampton,13.0,3.0,2015/16
+231,Crystal Palace,Bournemouth,5.0,3.0,2015/16
+232,Leicester,Liverpool,3.0,12.0,2015/16
+233,Man United,Stoke,2.0,5.0,2015/16
+234,Norwich,Tottenham,6.0,8.0,2015/16
+235,Sunderland,Man City,8.0,4.0,2015/16
+236,West Brom,Swansea,7.0,7.0,2015/16
+237,West Ham,Aston Villa,5.0,5.0,2015/16
+238,Everton,Newcastle,3.0,3.0,2015/16
+239,Watford,Chelsea,7.0,7.0,2015/16
+240,Aston Villa,Norwich,2.0,11.0,2015/16
+241,Liverpool,Sunderland,7.0,2.0,2015/16
+242,Man City,Leicester,11.0,4.0,2015/16
+243,Newcastle,West Brom,8.0,4.0,2015/16
+244,Southampton,West Ham,4.0,5.0,2015/16
+245,Stoke,Everton,6.0,4.0,2015/16
+246,Swansea,Crystal Palace,9.0,5.0,2015/16
+247,Tottenham,Watford,15.0,1.0,2015/16
+248,Bournemouth,Arsenal,7.0,3.0,2015/16
+249,Chelsea,Man United,10.0,11.0,2015/16
+250,Bournemouth,Stoke,9.0,2.0,2015/16
+251,Chelsea,Newcastle,8.0,3.0,2015/16
+252,Crystal Palace,Watford,8.0,5.0,2015/16
+253,Everton,West Brom,14.0,1.0,2015/16
+254,Norwich,West Ham,3.0,3.0,2015/16
+255,Sunderland,Man United,6.0,8.0,2015/16
+256,Swansea,Southampton,5.0,4.0,2015/16
+257,Arsenal,Leicester,11.0,1.0,2015/16
+258,Aston Villa,Liverpool,0.0,6.0,2015/16
+259,Man City,Tottenham,7.0,1.0,2015/16
+260,Leicester,Norwich,3.0,4.0,2015/16
+261,Southampton,Chelsea,7.0,8.0,2015/16
+262,Stoke,Aston Villa,11.0,0.0,2015/16
+263,Watford,Bournemouth,4.0,5.0,2015/16
+264,West Brom,Crystal Palace,3.0,6.0,2015/16
+265,West Ham,Sunderland,5.0,6.0,2015/16
+266,Tottenham,Swansea,7.0,7.0,2015/16
+267,Man United,Arsenal,2.0,3.0,2015/16
+268,Aston Villa,Everton,9.0,8.0,2015/16
+269,Bournemouth,Southampton,10.0,2.0,2015/16
+270,Leicester,West Brom,11.0,3.0,2015/16
+271,Norwich,Chelsea,4.0,4.0,2015/16
+272,Sunderland,Crystal Palace,4.0,5.0,2015/16
+273,Arsenal,Swansea,7.0,3.0,2015/16
+274,Liverpool,Man City,3.0,2.0,2015/16
+275,Man United,Watford,9.0,7.0,2015/16
+276,Stoke,Newcastle,5.0,2.0,2015/16
+277,West Ham,Tottenham,6.0,3.0,2015/16
+278,Chelsea,Stoke,8.0,4.0,2015/16
+279,Everton,West Ham,9.0,6.0,2015/16
+280,Man City,Aston Villa,9.0,1.0,2015/16
+281,Newcastle,Bournemouth,5.0,4.0,2015/16
+282,Southampton,Sunderland,12.0,2.0,2015/16
+283,Swansea,Norwich,5.0,0.0,2015/16
+284,Tottenham,Arsenal,9.0,2.0,2015/16
+285,Watford,Leicester,3.0,8.0,2015/16
+286,Crystal Palace,Liverpool,6.0,6.0,2015/16
+287,West Brom,Man United,4.0,5.0,2015/16
+288,Bournemouth,Swansea,5.0,3.0,2015/16
+289,Norwich,Man City,3.0,8.0,2015/16
+290,Stoke,Southampton,1.0,4.0,2015/16
+291,Aston Villa,Tottenham,5.0,8.0,2015/16
+292,Leicester,Newcastle,8.0,4.0,2015/16
+293,Chelsea,West Ham,10.0,9.0,2015/16
+294,Crystal Palace,Leicester,10.0,7.0,2015/16
+295,Everton,Arsenal,7.0,5.0,2015/16
+296,Swansea,Aston Villa,4.0,6.0,2015/16
+297,Watford,Stoke,9.0,2.0,2015/16
+298,West Brom,Norwich,4.0,3.0,2015/16
+299,Man City,Man United,11.0,5.0,2015/16
+300,Newcastle,Sunderland,2.0,5.0,2015/16
+301,Southampton,Liverpool,3.0,5.0,2015/16
+302,Tottenham,Bournemouth,4.0,5.0,2015/16
+303,Arsenal,Watford,8.0,3.0,2015/16
+304,Aston Villa,Chelsea,7.0,2.0,2015/16
+305,Bournemouth,Man City,4.0,4.0,2015/16
+306,Liverpool,Tottenham,12.0,9.0,2015/16
+307,Norwich,Newcastle,6.0,5.0,2015/16
+308,Stoke,Swansea,5.0,5.0,2015/16
+309,Sunderland,West Brom,9.0,3.0,2015/16
+310,West Ham,Crystal Palace,4.0,5.0,2015/16
+311,Leicester,Southampton,7.0,8.0,2015/16
+312,Man United,Everton,5.0,5.0,2015/16
+313,Aston Villa,Bournemouth,3.0,8.0,2015/16
+314,Crystal Palace,Norwich,10.0,4.0,2015/16
+315,Man City,West Brom,8.0,8.0,2015/16
+316,Southampton,Newcastle,11.0,2.0,2015/16
+317,Swansea,Chelsea,1.0,9.0,2015/16
+318,Watford,Everton,7.0,6.0,2015/16
+319,West Ham,Arsenal,7.0,4.0,2015/16
+320,Liverpool,Stoke,6.0,3.0,2015/16
+321,Sunderland,Leicester,1.0,7.0,2015/16
+322,Tottenham,Man United,2.0,7.0,2015/16
+323,Crystal Palace,Everton,10.0,7.0,2015/16
+324,Chelsea,Man City,11.0,3.0,2015/16
+325,Everton,Southampton,3.0,10.0,2015/16
+326,Man United,Aston Villa,14.0,3.0,2015/16
+327,Newcastle,Swansea,3.0,7.0,2015/16
+328,Norwich,Sunderland,14.0,0.0,2015/16
+329,West Brom,Watford,9.0,3.0,2015/16
+330,Arsenal,Crystal Palace,10.0,5.0,2015/16
+331,Bournemouth,Liverpool,5.0,4.0,2015/16
+332,Leicester,West Ham,0.0,5.0,2015/16
+333,Stoke,Tottenham,5.0,3.0,2015/16
+334,Newcastle,Man City,5.0,3.0,2015/16
+335,Liverpool,Everton,9.0,1.0,2015/16
+336,Man United,Crystal Palace,10.0,2.0,2015/16
+337,West Ham,Watford,4.0,2.0,2015/16
+338,Arsenal,West Brom,2.0,6.0,2015/16
+339,Aston Villa,Southampton,6.0,11.0,2015/16
+340,Bournemouth,Chelsea,10.0,7.0,2015/16
+341,Liverpool,Newcastle,5.0,4.0,2015/16
+342,Man City,Stoke,9.0,4.0,2015/16
+343,Leicester,Swansea,4.0,6.0,2015/16
+344,Sunderland,Arsenal,7.0,7.0,2015/16
+345,Tottenham,West Brom,9.0,7.0,2015/16
+346,Arsenal,Norwich,7.0,3.0,2015/16
+347,Everton,Bournemouth,3.0,5.0,2015/16
+348,Newcastle,Crystal Palace,4.0,8.0,2015/16
+349,Stoke,Sunderland,2.0,8.0,2015/16
+350,Watford,Aston Villa,8.0,4.0,2015/16
+351,West Brom,West Ham,8.0,6.0,2015/16
+352,Man United,Leicester,6.0,5.0,2015/16
+353,Southampton,Man City,8.0,2.0,2015/16
+354,Swansea,Liverpool,4.0,7.0,2015/16
+355,Chelsea,Tottenham,7.0,8.0,2015/16
+356,Aston Villa,Newcastle,0.0,5.0,2015/16
+357,Bournemouth,West Brom,5.0,3.0,2015/16
+358,Crystal Palace,Stoke,4.0,3.0,2015/16
+359,Leicester,Everton,12.0,4.0,2015/16
+360,Norwich,Man United,1.0,6.0,2015/16
+361,Sunderland,Chelsea,3.0,3.0,2015/16
+362,West Ham,Swansea,13.0,3.0,2015/16
+363,Liverpool,Watford,8.0,8.0,2015/16
+364,Man City,Arsenal,7.0,2.0,2015/16
+365,Tottenham,Southampton,10.0,2.0,2015/16
+366,West Ham,Man United,6.0,2.0,2015/16
+367,Liverpool,Chelsea,7.0,3.0,2015/16
+368,Norwich,Watford,5.0,1.0,2015/16
+369,Sunderland,Everton,5.0,5.0,2015/16
+370,Arsenal,Aston Villa,5.0,4.0,2015/16
+371,Chelsea,Leicester,7.0,6.0,2015/16
+372,Everton,Norwich,4.0,11.0,2015/16
+373,Newcastle,Tottenham,3.0,8.0,2015/16
+374,Southampton,Crystal Palace,2.0,5.0,2015/16
+375,Stoke,West Ham,4.0,10.0,2015/16
+376,Swansea,Man City,4.0,4.0,2015/16
+377,Watford,Sunderland,7.0,4.0,2015/16
+378,West Brom,Liverpool,7.0,5.0,2015/16
+379,Man United,Bournemouth,7.0,1.0,2015/16
+0,Arsenal,Crystal Palace,9.0,3.0,2014/15
+1,Leicester,Everton,3.0,6.0,2014/15
+2,Man United,Swansea,4.0,0.0,2014/15
+3,QPR,Hull,8.0,9.0,2014/15
+4,Stoke,Aston Villa,2.0,8.0,2014/15
+5,West Brom,Sunderland,6.0,3.0,2014/15
+6,West Ham,Tottenham,8.0,5.0,2014/15
+7,Liverpool,Southampton,2.0,6.0,2014/15
+8,Newcastle,Man City,3.0,3.0,2014/15
+9,Burnley,Chelsea,4.0,3.0,2014/15
+10,Aston Villa,Newcastle,7.0,7.0,2014/15
+11,Chelsea,Leicester,8.0,7.0,2014/15
+12,Crystal Palace,West Ham,6.0,9.0,2014/15
+13,Everton,Arsenal,3.0,3.0,2014/15
+14,Southampton,West Brom,1.0,5.0,2014/15
+15,Swansea,Burnley,2.0,3.0,2014/15
+16,Hull,Stoke,4.0,5.0,2014/15
+17,Sunderland,Man United,4.0,4.0,2014/15
+18,Tottenham,QPR,7.0,6.0,2014/15
+19,Man City,Liverpool,6.0,7.0,2014/15
+20,Burnley,Man United,3.0,6.0,2014/15
+21,Everton,Chelsea,8.0,2.0,2014/15
+22,Man City,Stoke,11.0,4.0,2014/15
+23,Newcastle,Crystal Palace,11.0,4.0,2014/15
+24,QPR,Sunderland,4.0,6.0,2014/15
+25,Swansea,West Brom,0.0,7.0,2014/15
+26,West Ham,Southampton,2.0,9.0,2014/15
+27,Aston Villa,Hull,3.0,7.0,2014/15
+28,Leicester,Arsenal,5.0,10.0,2014/15
+29,Tottenham,Liverpool,7.0,3.0,2014/15
+30,Arsenal,Man City,0.0,3.0,2014/15
+31,Chelsea,Swansea,7.0,4.0,2014/15
+32,Crystal Palace,Burnley,5.0,5.0,2014/15
+33,Liverpool,Aston Villa,7.0,6.0,2014/15
+34,Southampton,Newcastle,5.0,5.0,2014/15
+35,Stoke,Leicester,13.0,3.0,2014/15
+36,Sunderland,Tottenham,5.0,5.0,2014/15
+37,West Brom,Everton,9.0,1.0,2014/15
+38,Man United,QPR,3.0,1.0,2014/15
+39,Hull,West Ham,3.0,10.0,2014/15
+40,Aston Villa,Arsenal,5.0,5.0,2014/15
+41,Burnley,Sunderland,5.0,1.0,2014/15
+42,Newcastle,Hull,4.0,2.0,2014/15
+43,QPR,Stoke,10.0,1.0,2014/15
+44,Swansea,Southampton,2.0,4.0,2014/15
+45,West Ham,Liverpool,7.0,5.0,2014/15
+46,Everton,Crystal Palace,7.0,1.0,2014/15
+47,Leicester,Man United,2.0,4.0,2014/15
+48,Man City,Chelsea,14.0,2.0,2014/15
+49,Tottenham,West Brom,9.0,7.0,2014/15
+50,Arsenal,Tottenham,15.0,5.0,2014/15
+51,Chelsea,Aston Villa,9.0,2.0,2014/15
+52,Crystal Palace,Leicester,6.0,6.0,2014/15
+53,Hull,Man City,3.0,8.0,2014/15
+54,Liverpool,Everton,8.0,2.0,2014/15
+55,Man United,West Ham,7.0,10.0,2014/15
+56,Southampton,QPR,6.0,3.0,2014/15
+57,Sunderland,Swansea,10.0,1.0,2014/15
+58,West Brom,Burnley,10.0,2.0,2014/15
+59,Stoke,Newcastle,2.0,10.0,2014/15
+60,Aston Villa,Man City,0.0,7.0,2014/15
+61,Hull,Crystal Palace,6.0,7.0,2014/15
+62,Leicester,Burnley,9.0,3.0,2014/15
+63,Liverpool,West Brom,5.0,5.0,2014/15
+64,Sunderland,Stoke,7.0,4.0,2014/15
+65,Swansea,Newcastle,3.0,1.0,2014/15
+66,Chelsea,Arsenal,2.0,2.0,2014/15
+67,Man United,Everton,11.0,6.0,2014/15
+68,Tottenham,Southampton,10.0,5.0,2014/15
+69,West Ham,QPR,7.0,5.0,2014/15
+70,Arsenal,Hull,10.0,0.0,2014/15
+71,Burnley,West Ham,5.0,7.0,2014/15
+72,Crystal Palace,Chelsea,3.0,2.0,2014/15
+73,Everton,Aston Villa,3.0,4.0,2014/15
+74,Man City,Tottenham,3.0,4.0,2014/15
+75,Newcastle,Leicester,10.0,7.0,2014/15
+76,Southampton,Sunderland,5.0,6.0,2014/15
+77,QPR,Liverpool,7.0,2.0,2014/15
+78,Stoke,Swansea,3.0,5.0,2014/15
+79,West Brom,Man United,0.0,11.0,2014/15
+80,Liverpool,Hull,14.0,1.0,2014/15
+81,Southampton,Stoke,6.0,3.0,2014/15
+82,Sunderland,Arsenal,3.0,3.0,2014/15
+83,Swansea,Leicester,2.0,2.0,2014/15
+84,West Brom,Crystal Palace,6.0,3.0,2014/15
+85,West Ham,Man City,4.0,8.0,2014/15
+86,Burnley,Everton,5.0,4.0,2014/15
+87,Man United,Chelsea,4.0,7.0,2014/15
+88,Tottenham,Newcastle,10.0,2.0,2014/15
+89,QPR,Aston Villa,2.0,4.0,2014/15
+90,Arsenal,Burnley,18.0,1.0,2014/15
+91,Chelsea,QPR,13.0,2.0,2014/15
+92,Everton,Swansea,11.0,0.0,2014/15
+93,Hull,Southampton,7.0,4.0,2014/15
+94,Leicester,West Brom,8.0,3.0,2014/15
+95,Newcastle,Liverpool,7.0,2.0,2014/15
+96,Stoke,West Ham,9.0,2.0,2014/15
+97,Aston Villa,Tottenham,3.0,9.0,2014/15
+98,Man City,Man United,7.0,4.0,2014/15
+99,Crystal Palace,Sunderland,11.0,2.0,2014/15
+100,Burnley,Hull,7.0,1.0,2014/15
+101,Liverpool,Chelsea,5.0,7.0,2014/15
+102,Man United,Crystal Palace,11.0,4.0,2014/15
+103,QPR,Man City,7.0,7.0,2014/15
+104,Southampton,Leicester,13.0,4.0,2014/15
+105,West Ham,Aston Villa,13.0,2.0,2014/15
+106,Sunderland,Everton,5.0,4.0,2014/15
+107,Swansea,Arsenal,6.0,10.0,2014/15
+108,Tottenham,Stoke,5.0,5.0,2014/15
+109,West Brom,Newcastle,7.0,4.0,2014/15
+110,Arsenal,Man United,11.0,5.0,2014/15
+111,Chelsea,West Brom,15.0,0.0,2014/15
+112,Everton,West Ham,1.0,5.0,2014/15
+113,Leicester,Sunderland,6.0,9.0,2014/15
+114,Man City,Swansea,7.0,3.0,2014/15
+115,Newcastle,QPR,16.0,7.0,2014/15
+116,Stoke,Burnley,14.0,0.0,2014/15
+117,Crystal Palace,Liverpool,4.0,3.0,2014/15
+118,Hull,Tottenham,3.0,9.0,2014/15
+119,Aston Villa,Southampton,2.0,8.0,2014/15
+120,Burnley,Aston Villa,1.0,5.0,2014/15
+121,Liverpool,Stoke,5.0,5.0,2014/15
+122,Man United,Hull,7.0,0.0,2014/15
+123,QPR,Leicester,11.0,5.0,2014/15
+124,Sunderland,Chelsea,2.0,8.0,2014/15
+125,Swansea,Crystal Palace,4.0,6.0,2014/15
+126,West Brom,Arsenal,4.0,4.0,2014/15
+127,West Ham,Newcastle,6.0,2.0,2014/15
+128,Southampton,Man City,8.0,6.0,2014/15
+129,Tottenham,Everton,3.0,4.0,2014/15
+130,Burnley,Newcastle,2.0,5.0,2014/15
+131,Crystal Palace,Aston Villa,8.0,2.0,2014/15
+132,Leicester,Liverpool,7.0,4.0,2014/15
+133,Man United,Stoke,2.0,2.0,2014/15
+134,Swansea,QPR,9.0,2.0,2014/15
+135,West Brom,West Ham,7.0,3.0,2014/15
+136,Arsenal,Southampton,9.0,4.0,2014/15
+137,Chelsea,Tottenham,1.0,6.0,2014/15
+138,Everton,Hull,6.0,4.0,2014/15
+139,Sunderland,Man City,2.0,0.0,2014/15
+140,Hull,West Brom,3.0,2.0,2014/15
+141,Liverpool,Sunderland,5.0,7.0,2014/15
+142,Man City,Everton,11.0,7.0,2014/15
+143,Newcastle,Chelsea,1.0,10.0,2014/15
+144,QPR,Burnley,3.0,11.0,2014/15
+145,Stoke,Arsenal,3.0,9.0,2014/15
+146,Tottenham,Crystal Palace,2.0,12.0,2014/15
+147,Aston Villa,Leicester,5.0,5.0,2014/15
+148,West Ham,Swansea,7.0,4.0,2014/15
+149,Southampton,Man United,5.0,1.0,2014/15
+150,Arsenal,Newcastle,9.0,6.0,2014/15
+151,Burnley,Southampton,2.0,5.0,2014/15
+152,Chelsea,Hull,5.0,4.0,2014/15
+153,Crystal Palace,Stoke,9.0,8.0,2014/15
+154,Leicester,Man City,8.0,2.0,2014/15
+155,Sunderland,West Ham,6.0,8.0,2014/15
+156,West Brom,Aston Villa,4.0,2.0,2014/15
+157,Man United,Liverpool,2.0,7.0,2014/15
+158,Swansea,Tottenham,7.0,9.0,2014/15
+159,Everton,QPR,1.0,8.0,2014/15
+160,Aston Villa,Man United,3.0,9.0,2014/15
+161,Hull,Swansea,4.0,5.0,2014/15
+162,Man City,Crystal Palace,8.0,6.0,2014/15
+163,QPR,West Brom,5.0,11.0,2014/15
+164,Southampton,Everton,4.0,6.0,2014/15
+165,Tottenham,Burnley,9.0,6.0,2014/15
+166,West Ham,Leicester,9.0,4.0,2014/15
+167,Liverpool,Arsenal,10.0,6.0,2014/15
+168,Newcastle,Sunderland,7.0,1.0,2014/15
+169,Stoke,Chelsea,6.0,5.0,2014/15
+170,Arsenal,QPR,6.0,2.0,2014/15
+171,Burnley,Liverpool,8.0,2.0,2014/15
+172,Chelsea,West Ham,8.0,6.0,2014/15
+173,Crystal Palace,Southampton,8.0,4.0,2014/15
+174,Everton,Stoke,9.0,3.0,2014/15
+175,Leicester,Tottenham,11.0,1.0,2014/15
+176,Man United,Newcastle,4.0,5.0,2014/15
+177,Sunderland,Hull,10.0,4.0,2014/15
+178,Swansea,Aston Villa,4.0,0.0,2014/15
+179,West Brom,Man City,10.0,6.0,2014/15
+180,Aston Villa,Sunderland,4.0,4.0,2014/15
+181,Hull,Leicester,7.0,1.0,2014/15
+182,Man City,Burnley,10.0,3.0,2014/15
+183,Newcastle,Everton,8.0,3.0,2014/15
+184,QPR,Crystal Palace,9.0,4.0,2014/15
+185,Southampton,Chelsea,4.0,6.0,2014/15
+186,Stoke,West Brom,5.0,3.0,2014/15
+187,Tottenham,Man United,3.0,6.0,2014/15
+188,West Ham,Arsenal,7.0,8.0,2014/15
+189,Liverpool,Swansea,6.0,3.0,2014/15
+190,Aston Villa,Crystal Palace,5.0,2.0,2014/15
+191,Hull,Everton,4.0,8.0,2014/15
+192,Liverpool,Leicester,4.0,5.0,2014/15
+193,Man City,Sunderland,10.0,4.0,2014/15
+194,Newcastle,Burnley,5.0,5.0,2014/15
+195,QPR,Swansea,4.0,9.0,2014/15
+196,Southampton,Arsenal,2.0,7.0,2014/15
+197,Stoke,Man United,11.0,7.0,2014/15
+198,Tottenham,Chelsea,5.0,3.0,2014/15
+199,West Ham,West Brom,0.0,1.0,2014/15
+200,Burnley,QPR,10.0,6.0,2014/15
+201,Chelsea,Newcastle,7.0,4.0,2014/15
+202,Crystal Palace,Tottenham,4.0,6.0,2014/15
+203,Everton,Man City,4.0,9.0,2014/15
+204,Leicester,Aston Villa,6.0,6.0,2014/15
+205,Sunderland,Liverpool,6.0,6.0,2014/15
+206,Swansea,West Ham,4.0,5.0,2014/15
+207,West Brom,Hull,5.0,2.0,2014/15
+208,Arsenal,Stoke,9.0,1.0,2014/15
+209,Man United,Southampton,3.0,5.0,2014/15
+210,Aston Villa,Liverpool,9.0,5.0,2014/15
+211,Burnley,Crystal Palace,5.0,7.0,2014/15
+212,Leicester,Stoke,6.0,5.0,2014/15
+213,Newcastle,Southampton,9.0,0.0,2014/15
+214,QPR,Man United,3.0,3.0,2014/15
+215,Swansea,Chelsea,1.0,2.0,2014/15
+216,Tottenham,Sunderland,6.0,6.0,2014/15
+217,Man City,Arsenal,16.0,3.0,2014/15
+218,West Ham,Hull,4.0,7.0,2014/15
+219,Everton,West Brom,8.0,1.0,2014/15
+220,Chelsea,Man City,1.0,4.0,2014/15
+221,Crystal Palace,Everton,6.0,1.0,2014/15
+222,Hull,Newcastle,3.0,3.0,2014/15
+223,Liverpool,West Ham,5.0,7.0,2014/15
+224,Man United,Leicester,4.0,3.0,2014/15
+225,Stoke,QPR,3.0,5.0,2014/15
+226,Sunderland,Burnley,6.0,3.0,2014/15
+227,West Brom,Tottenham,6.0,3.0,2014/15
+228,Arsenal,Aston Villa,7.0,7.0,2014/15
+229,Southampton,Swansea,9.0,0.0,2014/15
+230,Aston Villa,Chelsea,7.0,7.0,2014/15
+231,Everton,Liverpool,3.0,6.0,2014/15
+232,Leicester,Crystal Palace,8.0,6.0,2014/15
+233,Man City,Hull,13.0,1.0,2014/15
+234,QPR,Southampton,3.0,4.0,2014/15
+235,Swansea,Sunderland,7.0,1.0,2014/15
+236,Tottenham,Arsenal,10.0,3.0,2014/15
+237,Burnley,West Brom,5.0,6.0,2014/15
+238,Newcastle,Stoke,5.0,8.0,2014/15
+239,West Ham,Man United,9.0,9.0,2014/15
+240,Arsenal,Leicester,6.0,6.0,2014/15
+241,Hull,Aston Villa,3.0,7.0,2014/15
+242,Liverpool,Tottenham,5.0,7.0,2014/15
+243,Sunderland,QPR,8.0,4.0,2014/15
+244,Chelsea,Everton,10.0,2.0,2014/15
+245,Crystal Palace,Newcastle,5.0,2.0,2014/15
+246,Man United,Burnley,5.0,8.0,2014/15
+247,Southampton,West Ham,8.0,2.0,2014/15
+248,Stoke,Man City,3.0,2.0,2014/15
+249,West Brom,Swansea,5.0,4.0,2014/15
+250,Aston Villa,Stoke,11.0,3.0,2014/15
+251,Chelsea,Burnley,7.0,7.0,2014/15
+252,Crystal Palace,Arsenal,10.0,1.0,2014/15
+253,Hull,QPR,5.0,7.0,2014/15
+254,Man City,Newcastle,7.0,3.0,2014/15
+255,Sunderland,West Brom,11.0,2.0,2014/15
+256,Swansea,Man United,4.0,10.0,2014/15
+257,Everton,Leicester,4.0,7.0,2014/15
+258,Southampton,Liverpool,6.0,1.0,2014/15
+259,Tottenham,West Ham,7.0,9.0,2014/15
+260,Burnley,Swansea,6.0,4.0,2014/15
+261,Man United,Sunderland,13.0,1.0,2014/15
+262,Newcastle,Aston Villa,9.0,5.0,2014/15
+263,Stoke,Hull,5.0,2.0,2014/15
+264,West Brom,Southampton,2.0,3.0,2014/15
+265,West Ham,Crystal Palace,11.0,7.0,2014/15
+266,Arsenal,Everton,8.0,9.0,2014/15
+267,Liverpool,Man City,3.0,0.0,2014/15
+268,Aston Villa,West Brom,0.0,3.0,2014/15
+269,Hull,Sunderland,6.0,4.0,2014/15
+270,Southampton,Crystal Palace,10.0,2.0,2014/15
+271,Liverpool,Burnley,6.0,5.0,2014/15
+272,Man City,Leicester,10.0,3.0,2014/15
+273,Newcastle,Man United,4.0,1.0,2014/15
+274,QPR,Arsenal,1.0,6.0,2014/15
+275,Stoke,Everton,5.0,6.0,2014/15
+276,Tottenham,Swansea,6.0,4.0,2014/15
+277,West Ham,Chelsea,5.0,4.0,2014/15
+278,QPR,Tottenham,3.0,5.0,2014/15
+279,Arsenal,West Ham,7.0,5.0,2014/15
+280,Burnley,Man City,2.0,6.0,2014/15
+281,Crystal Palace,QPR,6.0,3.0,2014/15
+282,Leicester,Hull,7.0,5.0,2014/15
+283,Sunderland,Aston Villa,2.0,5.0,2014/15
+284,West Brom,Stoke,7.0,5.0,2014/15
+285,Chelsea,Southampton,9.0,2.0,2014/15
+286,Everton,Newcastle,3.0,4.0,2014/15
+287,Man United,Tottenham,4.0,2.0,2014/15
+288,Swansea,Liverpool,4.0,5.0,2014/15
+289,Aston Villa,Swansea,4.0,9.0,2014/15
+290,Man City,West Brom,9.0,2.0,2014/15
+291,Newcastle,Arsenal,9.0,4.0,2014/15
+292,Southampton,Burnley,10.0,5.0,2014/15
+293,Stoke,Crystal Palace,8.0,4.0,2014/15
+294,Tottenham,Leicester,4.0,4.0,2014/15
+295,West Ham,Sunderland,6.0,4.0,2014/15
+296,Hull,Chelsea,6.0,6.0,2014/15
+297,Liverpool,Man United,2.0,3.0,2014/15
+298,QPR,Everton,1.0,3.0,2014/15
+299,Arsenal,Liverpool,6.0,5.0,2014/15
+300,Chelsea,Stoke,9.0,0.0,2014/15
+301,Everton,Southampton,4.0,10.0,2014/15
+302,Leicester,West Ham,7.0,6.0,2014/15
+303,Man United,Aston Villa,10.0,2.0,2014/15
+304,Swansea,Hull,4.0,7.0,2014/15
+305,West Brom,QPR,2.0,4.0,2014/15
+306,Burnley,Tottenham,5.0,3.0,2014/15
+307,Sunderland,Newcastle,8.0,4.0,2014/15
+308,Crystal Palace,Man City,4.0,13.0,2014/15
+309,Aston Villa,QPR,7.0,3.0,2014/15
+310,Burnley,Arsenal,1.0,6.0,2014/15
+311,Southampton,Hull,2.0,5.0,2014/15
+312,Sunderland,Crystal Palace,8.0,4.0,2014/15
+313,Swansea,Everton,3.0,6.0,2014/15
+314,Tottenham,Aston Villa,9.0,6.0,2014/15
+315,West Brom,Leicester,4.0,6.0,2014/15
+316,West Ham,Stoke,4.0,10.0,2014/15
+317,Man United,Man City,1.0,5.0,2014/15
+318,QPR,Chelsea,5.0,6.0,2014/15
+319,Liverpool,Newcastle,6.0,6.0,2014/15
+320,Chelsea,Man United,3.0,7.0,2014/15
+321,Crystal Palace,West Brom,7.0,6.0,2014/15
+322,Everton,Burnley,5.0,6.0,2014/15
+323,Leicester,Swansea,6.0,3.0,2014/15
+324,Stoke,Southampton,2.0,5.0,2014/15
+325,Man City,West Ham,6.0,3.0,2014/15
+326,Newcastle,Tottenham,4.0,3.0,2014/15
+327,Burnley,Leicester,6.0,4.0,2014/15
+328,Crystal Palace,Hull,0.0,9.0,2014/15
+329,Man City,Aston Villa,7.0,6.0,2014/15
+330,Newcastle,Swansea,9.0,6.0,2014/15
+331,QPR,West Ham,6.0,6.0,2014/15
+332,Southampton,Tottenham,8.0,3.0,2014/15
+333,Stoke,Sunderland,9.0,8.0,2014/15
+334,West Brom,Liverpool,2.0,4.0,2014/15
+335,Arsenal,Chelsea,6.0,2.0,2014/15
+336,Everton,Man United,7.0,7.0,2014/15
+337,Hull,Liverpool,7.0,7.0,2014/15
+338,Leicester,Chelsea,2.0,6.0,2014/15
+339,Aston Villa,Everton,5.0,3.0,2014/15
+340,Leicester,Newcastle,10.0,7.0,2014/15
+341,Liverpool,QPR,9.0,6.0,2014/15
+342,Man United,West Brom,9.0,3.0,2014/15
+343,Sunderland,Southampton,1.0,1.0,2014/15
+344,Swansea,Stoke,6.0,2.0,2014/15
+345,West Ham,Burnley,13.0,3.0,2014/15
+346,Chelsea,Crystal Palace,3.0,6.0,2014/15
+347,Tottenham,Man City,8.0,7.0,2014/15
+348,Hull,Arsenal,0.0,5.0,2014/15
+349,Aston Villa,West Ham,2.0,6.0,2014/15
+350,Crystal Palace,Man United,7.0,6.0,2014/15
+351,Everton,Sunderland,15.0,1.0,2014/15
+352,Hull,Burnley,9.0,3.0,2014/15
+353,Leicester,Southampton,4.0,8.0,2014/15
+354,Newcastle,West Brom,7.0,2.0,2014/15
+355,Stoke,Tottenham,6.0,8.0,2014/15
+356,Chelsea,Liverpool,6.0,4.0,2014/15
+357,Man City,QPR,7.0,4.0,2014/15
+358,Arsenal,Swansea,6.0,1.0,2014/15
+359,Burnley,Stoke,7.0,6.0,2014/15
+360,Liverpool,Crystal Palace,4.0,5.0,2014/15
+361,QPR,Newcastle,3.0,12.0,2014/15
+362,Southampton,Aston Villa,6.0,3.0,2014/15
+363,Sunderland,Leicester,8.0,9.0,2014/15
+364,Tottenham,Hull,6.0,8.0,2014/15
+365,West Ham,Everton,7.0,8.0,2014/15
+366,Man United,Arsenal,5.0,5.0,2014/15
+367,Swansea,Man City,11.0,7.0,2014/15
+368,West Brom,Chelsea,3.0,4.0,2014/15
+369,Arsenal,Sunderland,5.0,2.0,2014/15
+370,Arsenal,West Brom,7.0,3.0,2014/15
+371,Aston Villa,Burnley,7.0,2.0,2014/15
+372,Chelsea,Sunderland,11.0,3.0,2014/15
+373,Crystal Palace,Swansea,7.0,3.0,2014/15
+374,Everton,Tottenham,3.0,5.0,2014/15
+375,Hull,Man United,8.0,1.0,2014/15
+376,Leicester,QPR,5.0,6.0,2014/15
+377,Man City,Southampton,8.0,4.0,2014/15
+378,Newcastle,West Ham,2.0,3.0,2014/15
+379,Stoke,Liverpool,3.0,9.0,2014/15
+380,,,,,2014/15

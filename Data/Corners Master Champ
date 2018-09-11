@@ -1,0 +1,2762 @@
+,HomeTeam,AwayTeam,HC,AC,Season
+0,Nott'm Forest,Millwall,5.0,4.0,2017/18
+1,Sunderland,Derby,6.0,7.0,2017/18
+2,Aston Villa,Hull,5.0,3.0,2017/18
+3,Bristol City,Barnsley,3.0,2.0,2017/18
+4,Burton,Cardiff,4.0,6.0,2017/18
+5,Fulham,Norwich,7.0,1.0,2017/18
+6,Ipswich,Birmingham,8.0,2.0,2017/18
+7,Preston,Sheffield Weds,6.0,3.0,2017/18
+8,QPR,Reading,10.0,1.0,2017/18
+9,Sheffield United,Brentford,6.0,3.0,2017/18
+10,Wolves,Middlesbrough,4.0,4.0,2017/18
+11,Bolton,Leeds,6.0,8.0,2017/18
+12,Barnsley,Ipswich,11.0,7.0,2017/18
+13,Birmingham,Bristol City,2.0,10.0,2017/18
+14,Brentford,Nott'm Forest,12.0,3.0,2017/18
+15,Cardiff,Aston Villa,4.0,7.0,2017/18
+16,Derby,Wolves,10.0,5.0,2017/18
+17,Hull,Burton,5.0,2.0,2017/18
+18,Leeds,Preston,6.0,4.0,2017/18
+19,Middlesbrough,Sheffield United,4.0,3.0,2017/18
+20,Millwall,Bolton,4.0,0.0,2017/18
+21,Reading,Fulham,9.0,3.0,2017/18
+22,Sheffield Weds,QPR,4.0,1.0,2017/18
+23,Norwich,Sunderland,13.0,1.0,2017/18
+24,Barnsley,Nott'm Forest,2.0,9.0,2017/18
+25,Birmingham,Bolton,7.0,4.0,2017/18
+26,Brentford,Bristol City,5.0,3.0,2017/18
+27,Cardiff,Sheffield United,7.0,6.0,2017/18
+28,Derby,Preston,4.0,4.0,2017/18
+29,Hull,Wolves,4.0,4.0,2017/18
+30,Leeds,Fulham,3.0,3.0,2017/18
+31,Middlesbrough,Burton,3.0,7.0,2017/18
+32,Millwall,Ipswich,8.0,3.0,2017/18
+33,Reading,Aston Villa,4.0,1.0,2017/18
+34,Norwich,QPR,8.0,3.0,2017/18
+35,Sheffield Weds,Sunderland,9.0,3.0,2017/18
+36,Burton,Birmingham,4.0,5.0,2017/18
+37,Aston Villa,Norwich,3.0,3.0,2017/18
+38,Bolton,Derby,3.0,2.0,2017/18
+39,Bristol City,Millwall,5.0,16.0,2017/18
+40,Fulham,Sheffield Weds,6.0,3.0,2017/18
+41,Ipswich,Brentford,6.0,11.0,2017/18
+42,Nott'm Forest,Middlesbrough,5.0,5.0,2017/18
+43,Preston,Reading,4.0,5.0,2017/18
+44,QPR,Hull,11.0,5.0,2017/18
+45,Sheffield United,Barnsley,12.0,2.0,2017/18
+46,Sunderland,Leeds,7.0,4.0,2017/18
+47,Wolves,Cardiff,2.0,4.0,2017/18
+48,Bristol City,Aston Villa,8.0,1.0,2017/18
+49,Hull,Bolton,5.0,5.0,2017/18
+50,Barnsley,Sunderland,7.0,3.0,2017/18
+51,Birmingham,Reading,4.0,3.0,2017/18
+52,Brentford,Wolves,8.0,6.0,2017/18
+53,Burton,Sheffield Weds,6.0,5.0,2017/18
+54,Cardiff,QPR,8.0,2.0,2017/18
+55,Ipswich,Fulham,5.0,6.0,2017/18
+56,Middlesbrough,Preston,3.0,8.0,2017/18
+57,Millwall,Norwich,5.0,6.0,2017/18
+58,Nott'm Forest,Leeds,4.0,2.0,2017/18
+59,Sheffield United,Derby,6.0,2.0,2017/18
+60,Derby,Hull,3.0,9.0,2017/18
+61,Aston Villa,Brentford,5.0,4.0,2017/18
+62,Bolton,Middlesbrough,4.0,7.0,2017/18
+63,Fulham,Cardiff,5.0,2.0,2017/18
+64,Leeds,Burton,10.0,1.0,2017/18
+65,Norwich,Birmingham,5.0,6.0,2017/18
+66,Preston,Barnsley,10.0,2.0,2017/18
+67,QPR,Ipswich,9.0,4.0,2017/18
+68,Reading,Bristol City,3.0,4.0,2017/18
+69,Sheffield Weds,Nott'm Forest,8.0,4.0,2017/18
+70,Sunderland,Sheffield United,2.0,4.0,2017/18
+71,Wolves,Millwall,6.0,4.0,2017/18
+72,Aston Villa,Middlesbrough,6.0,5.0,2017/18
+73,Bolton,Sheffield United,3.0,2.0,2017/18
+74,Leeds,Birmingham,2.0,8.0,2017/18
+75,Norwich,Burton,10.0,3.0,2017/18
+76,Preston,Cardiff,5.0,4.0,2017/18
+77,QPR,Millwall,7.0,5.0,2017/18
+78,Sheffield Weds,Brentford,8.0,8.0,2017/18
+79,Sunderland,Nott'm Forest,6.0,4.0,2017/18
+80,Wolves,Bristol City,9.0,8.0,2017/18
+81,Fulham,Hull,6.0,3.0,2017/18
+82,Barnsley,Aston Villa,6.0,1.0,2017/18
+83,Birmingham,Preston,7.0,5.0,2017/18
+84,Brentford,Reading,3.0,6.0,2017/18
+85,Bristol City,Derby,5.0,6.0,2017/18
+86,Burton,Fulham,2.0,8.0,2017/18
+87,Cardiff,Sheffield Weds,6.0,3.0,2017/18
+88,Hull,Sunderland,11.0,2.0,2017/18
+89,Ipswich,Bolton,6.0,8.0,2017/18
+90,Middlesbrough,QPR,6.0,1.0,2017/18
+91,Millwall,Leeds,14.0,2.0,2017/18
+92,Nott'm Forest,Wolves,1.0,4.0,2017/18
+93,Sheffield United,Norwich,6.0,2.0,2017/18
+94,Aston Villa,Nott'm Forest,3.0,4.0,2017/18
+95,Bolton,Brentford,5.0,6.0,2017/18
+96,Derby,Birmingham,4.0,6.0,2017/18
+97,Fulham,Middlesbrough,6.0,3.0,2017/18
+98,Leeds,Ipswich,6.0,12.0,2017/18
+99,Norwich,Bristol City,3.0,6.0,2017/18
+100,Preston,Millwall,7.0,6.0,2017/18
+101,QPR,Burton,8.0,6.0,2017/18
+102,Reading,Hull,9.0,1.0,2017/18
+103,Sunderland,Cardiff,1.0,8.0,2017/18
+104,Wolves,Barnsley,5.0,8.0,2017/18
+105,Sheffield Weds,Sheffield United,9.0,7.0,2017/18
+106,Barnsley,QPR,2.0,6.0,2017/18
+107,Brentford,Derby,11.0,0.0,2017/18
+108,Bristol City,Bolton,9.0,1.0,2017/18
+109,Burton,Aston Villa,4.0,4.0,2017/18
+110,Cardiff,Leeds,2.0,0.0,2017/18
+111,Hull,Preston,6.0,2.0,2017/18
+112,Ipswich,Sunderland,5.0,4.0,2017/18
+113,Middlesbrough,Norwich,13.0,1.0,2017/18
+114,Millwall,Reading,3.0,4.0,2017/18
+115,Nott'm Forest,Fulham,3.0,3.0,2017/18
+116,Birmingham,Sheffield Weds,4.0,10.0,2017/18
+117,Sheffield United,Wolves,11.0,2.0,2017/18
+118,QPR,Fulham,10.0,2.0,2017/18
+119,Aston Villa,Bolton,5.0,4.0,2017/18
+120,Burton,Wolves,9.0,4.0,2017/18
+121,Cardiff,Derby,8.0,2.0,2017/18
+122,Hull,Birmingham,3.0,4.0,2017/18
+123,Ipswich,Bristol City,1.0,4.0,2017/18
+124,Middlesbrough,Brentford,3.0,7.0,2017/18
+125,Millwall,Barnsley,9.0,2.0,2017/18
+126,Nott'm Forest,Sheffield United,4.0,9.0,2017/18
+127,Preston,Sunderland,2.0,5.0,2017/18
+128,Reading,Norwich,1.0,1.0,2017/18
+129,Sheffield Weds,Leeds,7.0,4.0,2017/18
+130,Birmingham,Cardiff,6.0,8.0,2017/18
+131,Bristol City,Burton,9.0,0.0,2017/18
+132,Barnsley,Middlesbrough,4.0,7.0,2017/18
+133,Bolton,Sheffield Weds,10.0,6.0,2017/18
+134,Brentford,Millwall,6.0,9.0,2017/18
+135,Fulham,Preston,5.0,4.0,2017/18
+136,Leeds,Reading,6.0,5.0,2017/18
+137,Norwich,Hull,10.0,7.0,2017/18
+138,Sheffield United,Ipswich,8.0,4.0,2017/18
+139,Sunderland,QPR,15.0,9.0,2017/18
+140,Wolves,Aston Villa,6.0,2.0,2017/18
+141,Derby,Nott'm Forest,7.0,7.0,2017/18
+142,Aston Villa,Fulham,2.0,5.0,2017/18
+143,Barnsley,Hull,3.0,7.0,2017/18
+144,Bolton,QPR,4.0,8.0,2017/18
+145,Brentford,Sunderland,6.0,9.0,2017/18
+146,Bristol City,Leeds,6.0,3.0,2017/18
+147,Derby,Sheffield Weds,6.0,4.0,2017/18
+148,Middlesbrough,Cardiff,8.0,2.0,2017/18
+149,Millwall,Birmingham,6.0,3.0,2017/18
+150,Nott'm Forest,Burton,4.0,6.0,2017/18
+151,Sheffield United,Reading,4.0,4.0,2017/18
+152,Wolves,Preston,3.0,3.0,2017/18
+153,Ipswich,Norwich,6.0,5.0,2017/18
+154,Leeds,Sheffield United,0.0,5.0,2017/18
+155,Burton,Ipswich,4.0,5.0,2017/18
+156,Cardiff,Millwall,5.0,6.0,2017/18
+157,Fulham,Bolton,11.0,5.0,2017/18
+158,Hull,Nott'm Forest,4.0,4.0,2017/18
+159,Norwich,Derby,6.0,3.0,2017/18
+160,Preston,Brentford,4.0,5.0,2017/18
+161,QPR,Wolves,3.0,4.0,2017/18
+162,Reading,Middlesbrough,3.0,3.0,2017/18
+163,Sheffield Weds,Barnsley,7.0,5.0,2017/18
+164,Sunderland,Bristol City,6.0,5.0,2017/18
+165,Birmingham,Aston Villa,3.0,4.0,2017/18
+166,Burton,Barnsley,5.0,4.0,2017/18
+167,Cardiff,Ipswich,5.0,7.0,2017/18
+168,Fulham,Bristol City,2.0,4.0,2017/18
+169,Hull,Middlesbrough,5.0,5.0,2017/18
+170,Leeds,Derby,5.0,8.0,2017/18
+171,Norwich,Wolves,6.0,7.0,2017/18
+172,QPR,Sheffield United,4.0,6.0,2017/18
+173,Reading,Nott'm Forest,4.0,4.0,2017/18
+174,Sheffield Weds,Millwall,8.0,5.0,2017/18
+175,Sunderland,Bolton,11.0,9.0,2017/18
+176,Birmingham,Brentford,7.0,4.0,2017/18
+177,Preston,Aston Villa,3.0,1.0,2017/18
+178,Wolves,Fulham,4.0,1.0,2017/18
+179,Aston Villa,Sheffield Weds,6.0,2.0,2017/18
+180,Barnsley,Birmingham,8.0,2.0,2017/18
+181,Bolton,Norwich,4.0,5.0,2017/18
+182,Brentford,Leeds,5.0,2.0,2017/18
+183,Bristol City,Cardiff,11.0,3.0,2017/18
+184,Derby,Reading,9.0,0.0,2017/18
+185,Ipswich,Preston,2.0,1.0,2017/18
+186,Millwall,Burton,5.0,1.0,2017/18
+187,Nott'm Forest,QPR,6.0,3.0,2017/18
+188,Sheffield United,Hull,10.0,0.0,2017/18
+189,Middlesbrough,Sunderland,1.0,5.0,2017/18
+190,Burton,Sheffield United,4.0,5.0,2017/18
+191,Preston,Bolton,5.0,6.0,2017/18
+192,Birmingham,Nott'm Forest,5.0,12.0,2017/18
+193,Cardiff,Brentford,3.0,10.0,2017/18
+194,Fulham,Derby,10.0,2.0,2017/18
+195,Hull,Ipswich,3.0,6.0,2017/18
+196,Norwich,Barnsley,6.0,5.0,2017/18
+197,QPR,Aston Villa,4.0,6.0,2017/18
+198,Reading,Wolves,6.0,8.0,2017/18
+199,Sheffield Weds,Bristol City,6.0,2.0,2017/18
+200,Sunderland,Millwall,6.0,2.0,2017/18
+201,Leeds,Middlesbrough,3.0,10.0,2017/18
+202,Aston Villa,Sunderland,2.0,2.0,2017/18
+203,Barnsley,Cardiff,4.0,4.0,2017/18
+204,Bolton,Reading,6.0,9.0,2017/18
+205,Brentford,Burton,10.0,5.0,2017/18
+206,Bristol City,Preston,5.0,0.0,2017/18
+207,Derby,QPR,4.0,2.0,2017/18
+208,Millwall,Hull,6.0,4.0,2017/18
+209,Nott'm Forest,Norwich,5.0,4.0,2017/18
+210,Sheffield United,Fulham,4.0,3.0,2017/18
+211,Ipswich,Sheffield Weds,4.0,7.0,2017/18
+212,Middlesbrough,Birmingham,9.0,5.0,2017/18
+213,Wolves,Leeds,1.0,2.0,2017/18
+214,Aston Villa,Ipswich,4.0,6.0,2017/18
+215,Barnsley,Leeds,5.0,12.0,2017/18
+216,Burton,Sunderland,7.0,7.0,2017/18
+217,Fulham,Millwall,10.0,4.0,2017/18
+218,Hull,Bristol City,2.0,2.0,2017/18
+219,Middlesbrough,Derby,11.0,6.0,2017/18
+220,Norwich,Preston,4.0,5.0,2017/18
+221,Reading,Sheffield Weds,7.0,2.0,2017/18
+222,Sheffield United,Birmingham,9.0,1.0,2017/18
+223,Wolves,Bolton,7.0,4.0,2017/18
+224,Nott'm Forest,Cardiff,8.0,4.0,2017/18
+225,QPR,Brentford,7.0,9.0,2017/18
+226,Derby,Ipswich,10.0,3.0,2017/18
+227,Reading,Barnsley,5.0,4.0,2017/18
+228,Cardiff,Norwich,3.0,7.0,2017/18
+229,Leeds,Aston Villa,5.0,1.0,2017/18
+230,Bolton,Barnsley,4.0,4.0,2017/18
+231,Brentford,Fulham,6.0,3.0,2017/18
+232,Bristol City,Middlesbrough,0.0,5.0,2017/18
+233,Derby,Burton,5.0,4.0,2017/18
+234,Ipswich,Nott'm Forest,1.0,8.0,2017/18
+235,Millwall,Sheffield United,3.0,4.0,2017/18
+236,Preston,QPR,9.0,3.0,2017/18
+237,Sheffield Weds,Hull,6.0,2.0,2017/18
+238,Sunderland,Reading,3.0,7.0,2017/18
+239,Birmingham,Wolves,3.0,1.0,2017/18
+240,Sheffield United,Bristol City,7.0,4.0,2017/18
+241,Aston Villa,Millwall,11.0,5.0,2017/18
+242,Barnsley,Derby,6.0,4.0,2017/18
+243,Burton,Preston,5.0,7.0,2017/18
+244,Fulham,Birmingham,11.0,7.0,2017/18
+245,Hull,Brentford,9.0,5.0,2017/18
+246,Middlesbrough,Ipswich,4.0,4.0,2017/18
+247,Norwich,Sheffield Weds,3.0,4.0,2017/18
+248,Nott'm Forest,Bolton,5.0,3.0,2017/18
+249,QPR,Leeds,2.0,5.0,2017/18
+250,Wolves,Sunderland,8.0,2.0,2017/18
+251,Reading,Cardiff,8.0,3.0,2017/18
+252,Sheffield Weds,Wolves,7.0,2.0,2017/18
+253,Birmingham,QPR,7.0,3.0,2017/18
+254,Bolton,Burton,8.0,3.0,2017/18
+255,Brentford,Barnsley,13.0,3.0,2017/18
+256,Bristol City,Nott'm Forest,6.0,3.0,2017/18
+257,Cardiff,Hull,3.0,2.0,2017/18
+258,Derby,Aston Villa,7.0,8.0,2017/18
+259,Ipswich,Reading,8.0,14.0,2017/18
+260,Leeds,Norwich,5.0,4.0,2017/18
+261,Millwall,Middlesbrough,7.0,2.0,2017/18
+262,Preston,Sheffield United,6.0,7.0,2017/18
+263,Sunderland,Fulham,1.0,9.0,2017/18
+264,Norwich,Brentford,2.0,3.0,2017/18
+265,Aston Villa,Sheffield United,2.0,4.0,2017/18
+266,Bolton,Cardiff,3.0,6.0,2017/18
+267,Derby,Millwall,6.0,11.0,2017/18
+268,Fulham,Barnsley,10.0,4.0,2017/18
+269,Leeds,Hull,2.0,8.0,2017/18
+270,Preston,Nott'm Forest,9.0,5.0,2017/18
+271,QPR,Bristol City,5.0,8.0,2017/18
+272,Reading,Burton,3.0,3.0,2017/18
+273,Sheffield Weds,Middlesbrough,4.0,4.0,2017/18
+274,Sunderland,Birmingham,6.0,2.0,2017/18
+275,Wolves,Ipswich,4.0,5.0,2017/18
+276,Barnsley,Preston,1.0,4.0,2017/18
+277,Birmingham,Norwich,4.0,4.0,2017/18
+278,Brentford,Aston Villa,10.0,5.0,2017/18
+279,Bristol City,Reading,6.0,5.0,2017/18
+280,Burton,Leeds,0.0,3.0,2017/18
+281,Cardiff,Fulham,7.0,2.0,2017/18
+282,Hull,Derby,4.0,3.0,2017/18
+283,Ipswich,QPR,5.0,6.0,2017/18
+284,Middlesbrough,Bolton,2.0,4.0,2017/18
+285,Millwall,Wolves,7.0,8.0,2017/18
+286,Nott'm Forest,Sheffield Weds,4.0,8.0,2017/18
+287,Sheffield United,Sunderland,6.0,0.0,2017/18
+288,Cardiff,Preston,4.0,7.0,2017/18
+289,Millwall,QPR,6.0,3.0,2017/18
+290,Barnsley,Reading,7.0,5.0,2017/18
+291,Birmingham,Leeds,8.0,3.0,2017/18
+292,Brentford,Sheffield Weds,7.0,5.0,2017/18
+293,Bristol City,Wolves,6.0,3.0,2017/18
+294,Burton,Norwich,3.0,4.0,2017/18
+295,Hull,Fulham,4.0,6.0,2017/18
+296,Ipswich,Derby,9.0,5.0,2017/18
+297,Middlesbrough,Aston Villa,5.0,9.0,2017/18
+298,Nott'm Forest,Sunderland,5.0,1.0,2017/18
+299,Sheffield United,Bolton,8.0,5.0,2017/18
+300,Aston Villa,Bristol City,5.0,3.0,2017/18
+301,Bolton,Hull,5.0,9.0,2017/18
+302,Derby,Sheffield United,2.0,13.0,2017/18
+303,Leeds,Nott'm Forest,2.0,8.0,2017/18
+304,Norwich,Millwall,5.0,4.0,2017/18
+305,Preston,Middlesbrough,7.0,4.0,2017/18
+306,QPR,Cardiff,4.0,5.0,2017/18
+307,Sheffield Weds,Burton,6.0,1.0,2017/18
+308,Sunderland,Barnsley,7.0,7.0,2017/18
+309,Fulham,Ipswich,8.0,2.0,2017/18
+310,Reading,Birmingham,9.0,7.0,2017/18
+311,Wolves,Brentford,6.0,7.0,2017/18
+312,Sheffield United,Sheffield Weds,8.0,2.0,2017/18
+313,Barnsley,Wolves,1.0,6.0,2017/18
+314,Birmingham,Derby,6.0,4.0,2017/18
+315,Brentford,Bolton,6.0,6.0,2017/18
+316,Bristol City,Norwich,8.0,4.0,2017/18
+317,Burton,QPR,5.0,3.0,2017/18
+318,Cardiff,Sunderland,8.0,1.0,2017/18
+319,Hull,Reading,6.0,7.0,2017/18
+320,Ipswich,Leeds,4.0,1.0,2017/18
+321,Middlesbrough,Fulham,5.0,1.0,2017/18
+322,Millwall,Preston,3.0,4.0,2017/18
+323,Nott'm Forest,Aston Villa,4.0,2.0,2017/18
+324,Derby,Bristol City,6.0,3.0,2017/18
+325,Aston Villa,Barnsley,8.0,6.0,2017/18
+326,Bolton,Ipswich,3.0,3.0,2017/18
+327,Fulham,Burton,3.0,1.0,2017/18
+328,Leeds,Millwall,1.0,9.0,2017/18
+329,Norwich,Sheffield United,6.0,2.0,2017/18
+330,Preston,Birmingham,4.0,8.0,2017/18
+331,QPR,Middlesbrough,3.0,2.0,2017/18
+332,Reading,Brentford,7.0,4.0,2017/18
+333,Sheffield Weds,Cardiff,3.0,5.0,2017/18
+334,Sunderland,Hull,4.0,7.0,2017/18
+335,Wolves,Nott'm Forest,5.0,4.0,2017/18
+336,Barnsley,Fulham,6.0,3.0,2017/18
+337,Brentford,Norwich,6.0,4.0,2017/18
+338,Bristol City,QPR,6.0,7.0,2017/18
+339,Ipswich,Wolves,5.0,4.0,2017/18
+340,Birmingham,Sunderland,3.0,5.0,2017/18
+341,Burton,Reading,3.0,6.0,2017/18
+342,Hull,Leeds,7.0,3.0,2017/18
+343,Middlesbrough,Sheffield Weds,9.0,3.0,2017/18
+344,Millwall,Derby,4.0,5.0,2017/18
+345,Nott'm Forest,Preston,4.0,5.0,2017/18
+346,Sheffield United,Aston Villa,9.0,7.0,2017/18
+347,Bolton,Bristol City,3.0,6.0,2017/18
+348,Aston Villa,Burton,7.0,5.0,2017/18
+349,Derby,Brentford,6.0,5.0,2017/18
+350,Fulham,Nott'm Forest,10.0,6.0,2017/18
+351,Leeds,Cardiff,5.0,5.0,2017/18
+352,Norwich,Middlesbrough,5.0,4.0,2017/18
+353,Preston,Hull,5.0,4.0,2017/18
+354,QPR,Barnsley,4.0,4.0,2017/18
+355,Reading,Millwall,6.0,6.0,2017/18
+356,Sheffield Weds,Birmingham,5.0,3.0,2017/18
+357,Sunderland,Ipswich,12.0,2.0,2017/18
+358,Wolves,Sheffield United,5.0,1.0,2017/18
+359,Millwall,Cardiff,6.0,6.0,2017/18
+360,Barnsley,Sheffield Weds,5.0,8.0,2017/18
+361,Bolton,Fulham,5.0,8.0,2017/18
+362,Brentford,Preston,11.0,5.0,2017/18
+363,Bristol City,Sunderland,2.0,4.0,2017/18
+364,Derby,Norwich,3.0,1.0,2017/18
+365,Ipswich,Burton,2.0,5.0,2017/18
+366,Middlesbrough,Reading,6.0,8.0,2017/18
+367,Nott'm Forest,Hull,2.0,2.0,2017/18
+368,Sheffield United,Leeds,8.0,5.0,2017/18
+369,Wolves,QPR,6.0,5.0,2017/18
+370,Aston Villa,Birmingham,10.0,6.0,2017/18
+371,Cardiff,Bolton,4.0,3.0,2017/18
+372,Sheffield Weds,Derby,1.0,7.0,2017/18
+373,Birmingham,Millwall,7.0,7.0,2017/18
+374,Burton,Nott'm Forest,5.0,2.0,2017/18
+375,Cardiff,Middlesbrough,5.0,3.0,2017/18
+376,Fulham,Aston Villa,1.0,0.0,2017/18
+377,Preston,Wolves,4.0,5.0,2017/18
+378,QPR,Bolton,9.0,5.0,2017/18
+379,Sunderland,Brentford,6.0,7.0,2017/18
+380,Leeds,Bristol City,5.0,6.0,2017/18
+381,Norwich,Ipswich,4.0,5.0,2017/18
+382,Aston Villa,Preston,3.0,7.0,2017/18
+383,Barnsley,Burton,5.0,0.0,2017/18
+384,Bolton,Sunderland,3.0,7.0,2017/18
+385,Brentford,Birmingham,6.0,3.0,2017/18
+386,Middlesbrough,Hull,4.0,4.0,2017/18
+387,Millwall,Sheffield Weds,4.0,3.0,2017/18
+388,Nott'm Forest,Reading,5.0,5.0,2017/18
+389,Sheffield United,QPR,9.0,4.0,2017/18
+390,Bristol City,Fulham,8.0,5.0,2017/18
+391,Derby,Leeds,10.0,2.0,2017/18
+392,Ipswich,Cardiff,8.0,5.0,2017/18
+393,Wolves,Norwich,3.0,4.0,2017/18
+394,Hull,Sheffield United,1.0,7.0,2017/18
+395,Birmingham,Barnsley,5.0,2.0,2017/18
+396,Burton,Millwall,7.0,5.0,2017/18
+397,Fulham,Wolves,3.0,0.0,2017/18
+398,Leeds,Brentford,5.0,9.0,2017/18
+399,Norwich,Bolton,8.0,4.0,2017/18
+400,Preston,Ipswich,9.0,1.0,2017/18
+401,QPR,Nott'm Forest,7.0,2.0,2017/18
+402,Reading,Derby,8.0,3.0,2017/18
+403,Sheffield Weds,Aston Villa,7.0,6.0,2017/18
+404,Sunderland,Middlesbrough,4.0,2.0,2017/18
+405,Cardiff,Bristol City,4.0,2.0,2017/18
+406,Hull,Barnsley,7.0,0.0,2017/18
+407,Reading,Sheffield United,6.0,4.0,2017/18
+408,Middlesbrough,Leeds,13.0,5.0,2017/18
+409,Bolton,Preston,4.0,4.0,2017/18
+410,Bristol City,Sheffield Weds,3.0,3.0,2017/18
+411,Derby,Fulham,7.0,6.0,2017/18
+412,Millwall,Sunderland,8.0,3.0,2017/18
+413,Nott'm Forest,Birmingham,2.0,8.0,2017/18
+414,Birmingham,Middlesbrough,5.0,5.0,2017/18
+415,Burton,Brentford,3.0,4.0,2017/18
+416,Cardiff,Barnsley,2.0,6.0,2017/18
+417,Fulham,Sheffield United,3.0,3.0,2017/18
+418,Hull,Millwall,9.0,5.0,2017/18
+419,Norwich,Nott'm Forest,7.0,4.0,2017/18
+420,Preston,Bristol City,6.0,6.0,2017/18
+421,QPR,Derby,5.0,2.0,2017/18
+422,Reading,Bolton,2.0,10.0,2017/18
+423,Sheffield Weds,Ipswich,4.0,6.0,2017/18
+424,Sunderland,Aston Villa,3.0,8.0,2017/18
+425,Leeds,Wolves,3.0,9.0,2017/18
+426,Aston Villa,Wolves,2.0,4.0,2017/18
+427,Burton,Bristol City,5.0,3.0,2017/18
+428,Cardiff,Birmingham,6.0,12.0,2017/18
+429,Hull,Norwich,5.0,4.0,2017/18
+430,Ipswich,Sheffield United,7.0,2.0,2017/18
+431,Middlesbrough,Barnsley,3.0,5.0,2017/18
+432,Millwall,Brentford,5.0,7.0,2017/18
+433,Preston,Fulham,6.0,8.0,2017/18
+434,QPR,Sunderland,5.0,6.0,2017/18
+435,Reading,Leeds,13.0,7.0,2017/18
+436,Sheffield Weds,Bolton,2.0,4.0,2017/18
+437,Nott'm Forest,Derby,6.0,6.0,2017/18
+438,Aston Villa,QPR,14.0,2.0,2017/18
+439,Barnsley,Norwich,4.0,4.0,2017/18
+440,Brentford,Cardiff,7.0,6.0,2017/18
+441,Ipswich,Hull,5.0,1.0,2017/18
+442,Sheffield United,Burton,7.0,7.0,2017/18
+443,Wolves,Reading,8.0,2.0,2017/18
+444,Barnsley,Millwall,9.0,3.0,2017/18
+445,Birmingham,Hull,8.0,5.0,2017/18
+446,Bolton,Aston Villa,9.0,6.0,2017/18
+447,Brentford,Middlesbrough,9.0,4.0,2017/18
+448,Bristol City,Ipswich,2.0,4.0,2017/18
+449,Fulham,QPR,8.0,2.0,2017/18
+450,Leeds,Sheffield Weds,10.0,4.0,2017/18
+451,Norwich,Reading,8.0,2.0,2017/18
+452,Sheffield United,Nott'm Forest,3.0,5.0,2017/18
+453,Sunderland,Preston,4.0,5.0,2017/18
+454,Wolves,Burton,4.0,4.0,2017/18
+455,Barnsley,Bristol City,6.0,8.0,2017/18
+456,Brentford,Sheffield United,4.0,2.0,2017/18
+457,Cardiff,Burton,6.0,4.0,2017/18
+458,Derby,Sunderland,3.0,7.0,2017/18
+459,Leeds,Bolton,9.0,5.0,2017/18
+460,Middlesbrough,Wolves,6.0,2.0,2017/18
+461,Millwall,Nott'm Forest,6.0,6.0,2017/18
+462,Norwich,Fulham,5.0,2.0,2017/18
+463,Reading,QPR,4.0,7.0,2017/18
+464,Sheffield Weds,Preston,2.0,4.0,2017/18
+465,Birmingham,Ipswich,7.0,6.0,2017/18
+466,Hull,Aston Villa,4.0,8.0,2017/18
+467,Bristol City,Brentford,1.0,9.0,2017/18
+468,Burton,Middlesbrough,5.0,5.0,2017/18
+469,Ipswich,Millwall,4.0,5.0,2017/18
+470,Preston,Derby,7.0,2.0,2017/18
+471,QPR,Norwich,3.0,9.0,2017/18
+472,Sheffield United,Cardiff,10.0,1.0,2017/18
+473,Sunderland,Sheffield Weds,8.0,3.0,2017/18
+474,Aston Villa,Reading,6.0,2.0,2017/18
+475,Bolton,Birmingham,8.0,6.0,2017/18
+476,Fulham,Leeds,6.0,5.0,2017/18
+477,Wolves,Hull,5.0,1.0,2017/18
+478,Cardiff,Wolves,8.0,3.0,2017/18
+479,Barnsley,Sheffield United,3.0,11.0,2017/18
+480,Birmingham,Burton,9.0,3.0,2017/18
+481,Brentford,Ipswich,6.0,4.0,2017/18
+482,Derby,Bolton,5.0,5.0,2017/18
+483,Hull,QPR,4.0,10.0,2017/18
+484,Leeds,Sunderland,6.0,13.0,2017/18
+485,Middlesbrough,Nott'm Forest,5.0,8.0,2017/18
+486,Millwall,Bristol City,3.0,7.0,2017/18
+487,Norwich,Aston Villa,5.0,7.0,2017/18
+488,Reading,Preston,2.0,4.0,2017/18
+489,Sheffield Weds,Fulham,1.0,11.0,2017/18
+490,Aston Villa,Cardiff,8.0,3.0,2017/18
+491,Bolton,Millwall,6.0,5.0,2017/18
+492,Bristol City,Birmingham,4.0,6.0,2017/18
+493,Burton,Hull,2.0,4.0,2017/18
+494,Fulham,Reading,6.0,2.0,2017/18
+495,Ipswich,Barnsley,5.0,5.0,2017/18
+496,Nott'm Forest,Brentford,4.0,8.0,2017/18
+497,Preston,Leeds,9.0,9.0,2017/18
+498,QPR,Sheffield Weds,7.0,4.0,2017/18
+499,Sheffield United,Middlesbrough,5.0,1.0,2017/18
+500,Sunderland,Norwich,5.0,6.0,2017/18
+501,Wolves,Derby,7.0,3.0,2017/18
+502,Aston Villa,Leeds,5.0,4.0,2017/18
+503,Barnsley,Bolton,4.0,9.0,2017/18
+504,Burton,Derby,2.0,5.0,2017/18
+505,Fulham,Brentford,4.0,7.0,2017/18
+506,Hull,Sheffield Weds,11.0,5.0,2017/18
+507,Middlesbrough,Bristol City,4.0,2.0,2017/18
+508,Norwich,Cardiff,10.0,6.0,2017/18
+509,Nott'm Forest,Ipswich,8.0,9.0,2017/18
+510,QPR,Preston,5.0,10.0,2017/18
+511,Reading,Sunderland,3.0,8.0,2017/18
+512,Sheffield United,Millwall,8.0,9.0,2017/18
+513,Wolves,Birmingham,4.0,4.0,2017/18
+514,Millwall,Fulham,2.0,1.0,2017/18
+515,Birmingham,Sheffield United,4.0,3.0,2017/18
+516,Bolton,Wolves,2.0,5.0,2017/18
+517,Brentford,QPR,11.0,4.0,2017/18
+518,Bristol City,Hull,6.0,1.0,2017/18
+519,Cardiff,Nott'm Forest,6.0,2.0,2017/18
+520,Derby,Middlesbrough,12.0,6.0,2017/18
+521,Ipswich,Aston Villa,4.0,8.0,2017/18
+522,Leeds,Barnsley,5.0,9.0,2017/18
+523,Preston,Norwich,5.0,5.0,2017/18
+524,Sheffield Weds,Reading,4.0,2.0,2017/18
+525,Sunderland,Burton,2.0,8.0,2017/18
+526,Derby,Cardiff,9.0,6.0,2017/18
+527,Nott'm Forest,Barnsley,8.0,5.0,2017/18
+528,Fulham,Sunderland,4.0,2.0,2017/18
+529,Aston Villa,Derby,9.0,2.0,2017/18
+530,Barnsley,Brentford,3.0,2.0,2017/18
+531,Burton,Bolton,8.0,5.0,2017/18
+532,Hull,Cardiff,3.0,5.0,2017/18
+533,Middlesbrough,Millwall,3.0,8.0,2017/18
+534,Norwich,Leeds,9.0,3.0,2017/18
+535,Nott'm Forest,Bristol City,6.0,2.0,2017/18
+536,QPR,Birmingham,3.0,11.0,2017/18
+537,Reading,Ipswich,12.0,4.0,2017/18
+538,Sheffield United,Preston,13.0,3.0,2017/18
+539,Wolves,Sheffield Weds,9.0,4.0,2017/18
+540,Birmingham,Fulham,3.0,4.0,2017/18
+541,Bolton,Nott'm Forest,6.0,2.0,2017/18
+542,Brentford,Hull,14.0,1.0,2017/18
+543,Bristol City,Sheffield United,2.0,3.0,2017/18
+544,Cardiff,Reading,4.0,2.0,2017/18
+545,Derby,Barnsley,5.0,3.0,2017/18
+546,Ipswich,Middlesbrough,6.0,11.0,2017/18
+547,Leeds,QPR,9.0,4.0,2017/18
+548,Millwall,Aston Villa,5.0,5.0,2017/18
+549,Preston,Burton,6.0,8.0,2017/18
+550,Sheffield Weds,Norwich,1.0,10.0,2017/18
+551,Sunderland,Wolves,7.0,7.0,2017/18
+0,Fulham,Newcastle,2.0,2.0,2016/17
+1,Birmingham,Cardiff,5.0,5.0,2016/17
+2,Blackburn,Norwich,7.0,3.0,2016/17
+3,Bristol City,Wigan,10.0,2.0,2016/17
+4,Derby,Brighton,1.0,7.0,2016/17
+5,Huddersfield,Brentford,5.0,2.0,2016/17
+6,Ipswich,Barnsley,5.0,4.0,2016/17
+7,Nott'm Forest,Burton,8.0,6.0,2016/17
+8,Reading,Preston,6.0,1.0,2016/17
+9,Rotherham,Wolves,3.0,6.0,2016/17
+10,QPR,Leeds,5.0,5.0,2016/17
+11,Sheffield Weds,Aston Villa,12.0,9.0,2016/17
+12,Brighton,Nott'm Forest,6.0,7.0,2016/17
+13,Aston Villa,Rotherham,4.0,6.0,2016/17
+14,Barnsley,Derby,8.0,8.0,2016/17
+15,Brentford,Ipswich,4.0,6.0,2016/17
+16,Burton,Bristol City,7.0,8.0,2016/17
+17,Leeds,Birmingham,7.0,4.0,2016/17
+18,Newcastle,Huddersfield,4.0,1.0,2016/17
+19,Norwich,Sheffield Weds,10.0,4.0,2016/17
+20,Preston,Fulham,6.0,8.0,2016/17
+21,Wigan,Blackburn,5.0,4.0,2016/17
+22,Wolves,Reading,5.0,5.0,2016/17
+23,Cardiff,QPR,3.0,1.0,2016/17
+24,Aston Villa,Huddersfield,4.0,6.0,2016/17
+25,Brentford,Nott'm Forest,4.0,8.0,2016/17
+26,Brighton,Rotherham,4.0,4.0,2016/17
+27,Burton,Sheffield Weds,5.0,7.0,2016/17
+28,Leeds,Fulham,9.0,4.0,2016/17
+29,Norwich,Bristol City,9.0,6.0,2016/17
+30,Preston,Derby,5.0,5.0,2016/17
+31,Wigan,Birmingham,10.0,2.0,2016/17
+32,Wolves,Ipswich,2.0,5.0,2016/17
+33,Barnsley,QPR,4.0,1.0,2016/17
+34,Cardiff,Blackburn,4.0,4.0,2016/17
+35,Newcastle,Reading,2.0,9.0,2016/17
+36,Birmingham,Wolves,10.0,12.0,2016/17
+37,Blackburn,Burton,6.0,12.0,2016/17
+38,Bristol City,Newcastle,6.0,3.0,2016/17
+39,Derby,Aston Villa,5.0,7.0,2016/17
+40,Fulham,Cardiff,4.0,4.0,2016/17
+41,Huddersfield,Barnsley,7.0,4.0,2016/17
+42,Nott'm Forest,Wigan,5.0,5.0,2016/17
+43,QPR,Preston,10.0,5.0,2016/17
+44,Reading,Brighton,9.0,5.0,2016/17
+45,Rotherham,Brentford,6.0,11.0,2016/17
+46,Sheffield Weds,Leeds,6.0,4.0,2016/17
+47,Ipswich,Norwich,7.0,3.0,2016/17
+48,Burton,Derby,2.0,3.0,2016/17
+49,Barnsley,Rotherham,6.0,5.0,2016/17
+50,Birmingham,Norwich,5.0,8.0,2016/17
+51,Blackburn,Fulham,4.0,3.0,2016/17
+52,Brentford,Sheffield Weds,5.0,3.0,2016/17
+53,Bristol City,Aston Villa,3.0,4.0,2016/17
+54,Cardiff,Reading,4.0,3.0,2016/17
+55,Huddersfield,Wolves,2.0,5.0,2016/17
+56,Ipswich,Preston,3.0,4.0,2016/17
+57,Newcastle,Brighton,2.0,3.0,2016/17
+58,Nott'm Forest,Leeds,4.0,6.0,2016/17
+59,Wigan,QPR,3.0,0.0,2016/17
+60,Reading,Ipswich,5.0,5.0,2016/17
+61,Brighton,Brentford,7.0,2.0,2016/17
+62,Derby,Newcastle,2.0,5.0,2016/17
+63,Fulham,Birmingham,3.0,9.0,2016/17
+64,Leeds,Huddersfield,4.0,4.0,2016/17
+65,Norwich,Cardiff,7.0,5.0,2016/17
+66,Preston,Barnsley,7.0,8.0,2016/17
+67,QPR,Blackburn,7.0,8.0,2016/17
+68,Rotherham,Bristol City,5.0,11.0,2016/17
+69,Sheffield Weds,Wigan,6.0,5.0,2016/17
+70,Wolves,Burton,5.0,5.0,2016/17
+71,Aston Villa,Nott'm Forest,10.0,2.0,2016/17
+72,Brighton,Huddersfield,5.0,3.0,2016/17
+73,Derby,Ipswich,4.0,0.0,2016/17
+74,Fulham,Burton,9.0,3.0,2016/17
+75,Leeds,Blackburn,7.0,8.0,2016/17
+76,Norwich,Wigan,4.0,8.0,2016/17
+77,Preston,Cardiff,6.0,8.0,2016/17
+78,QPR,Newcastle,4.0,8.0,2016/17
+79,Reading,Birmingham,12.0,6.0,2016/17
+80,Sheffield Weds,Bristol City,7.0,4.0,2016/17
+81,Wolves,Barnsley,5.0,2.0,2016/17
+82,Aston Villa,Brentford,5.0,7.0,2016/17
+83,Rotherham,Nott'm Forest,4.0,8.0,2016/17
+84,Barnsley,Reading,10.0,4.0,2016/17
+85,Birmingham,Sheffield Weds,4.0,2.0,2016/17
+86,Blackburn,Rotherham,6.0,4.0,2016/17
+87,Brentford,Preston,5.0,6.0,2016/17
+88,Bristol City,Derby,3.0,5.0,2016/17
+89,Burton,Brighton,1.0,8.0,2016/17
+90,Cardiff,Leeds,12.0,4.0,2016/17
+91,Huddersfield,QPR,4.0,3.0,2016/17
+92,Ipswich,Aston Villa,10.0,7.0,2016/17
+93,Newcastle,Wolves,5.0,3.0,2016/17
+94,Nott'm Forest,Norwich,5.0,9.0,2016/17
+95,Wigan,Fulham,10.0,5.0,2016/17
+96,Preston,Wigan,5.0,1.0,2016/17
+97,Aston Villa,Newcastle,8.0,5.0,2016/17
+98,Brighton,Barnsley,4.0,2.0,2016/17
+99,Derby,Blackburn,5.0,4.0,2016/17
+100,Fulham,Bristol City,7.0,5.0,2016/17
+101,Leeds,Ipswich,7.0,4.0,2016/17
+102,Norwich,Burton,8.0,6.0,2016/17
+103,QPR,Birmingham,6.0,4.0,2016/17
+104,Reading,Huddersfield,5.0,3.0,2016/17
+105,Rotherham,Cardiff,11.0,7.0,2016/17
+106,Sheffield Weds,Nott'm Forest,7.0,6.0,2016/17
+107,Wolves,Brentford,4.0,6.0,2016/17
+108,Barnsley,Aston Villa,9.0,5.0,2016/17
+109,Birmingham,Preston,8.0,3.0,2016/17
+110,Blackburn,Sheffield Weds,2.0,2.0,2016/17
+111,Brentford,Reading,8.0,7.0,2016/17
+112,Bristol City,Leeds,2.0,6.0,2016/17
+113,Burton,QPR,2.0,9.0,2016/17
+114,Cardiff,Derby,3.0,4.0,2016/17
+115,Huddersfield,Rotherham,9.0,3.0,2016/17
+116,Ipswich,Brighton,2.0,5.0,2016/17
+117,Nott'm Forest,Fulham,2.0,9.0,2016/17
+118,Wigan,Wolves,1.0,3.0,2016/17
+119,Newcastle,Norwich,5.0,2.0,2016/17
+120,Birmingham,Blackburn,5.0,8.0,2016/17
+121,Brentford,Wigan,12.0,4.0,2016/17
+122,Bristol City,Nott'm Forest,5.0,3.0,2016/17
+123,Burton,Cardiff,4.0,9.0,2016/17
+124,Fulham,QPR,12.0,4.0,2016/17
+125,Ipswich,Huddersfield,6.0,5.0,2016/17
+126,Leeds,Barnsley,6.0,5.0,2016/17
+127,Preston,Aston Villa,9.0,7.0,2016/17
+128,Reading,Derby,6.0,5.0,2016/17
+129,Rotherham,Newcastle,14.0,10.0,2016/17
+130,Sheffield Weds,Brighton,7.0,3.0,2016/17
+131,Wolves,Norwich,5.0,2.0,2016/17
+132,Cardiff,Bristol City,3.0,1.0,2016/17
+133,Nott'm Forest,Birmingham,3.0,4.0,2016/17
+134,Aston Villa,Wolves,6.0,5.0,2016/17
+135,Barnsley,Fulham,4.0,5.0,2016/17
+136,Blackburn,Ipswich,2.0,9.0,2016/17
+137,Brighton,Preston,6.0,1.0,2016/17
+138,Derby,Leeds,6.0,5.0,2016/17
+139,Newcastle,Brentford,5.0,5.0,2016/17
+140,Norwich,Rotherham,8.0,4.0,2016/17
+141,QPR,Reading,9.0,3.0,2016/17
+142,Wigan,Burton,6.0,3.0,2016/17
+143,Huddersfield,Sheffield Weds,9.0,4.0,2016/17
+144,Barnsley,Newcastle,0.0,4.0,2016/17
+145,Birmingham,Rotherham,4.0,1.0,2016/17
+146,Blackburn,Nott'm Forest,1.0,2.0,2016/17
+147,Brighton,Wolves,9.0,10.0,2016/17
+148,Derby,Brentford,6.0,3.0,2016/17
+149,Fulham,Norwich,8.0,9.0,2016/17
+150,Ipswich,Burton,7.0,12.0,2016/17
+151,Leeds,Wigan,4.0,5.0,2016/17
+152,QPR,Bristol City,12.0,11.0,2016/17
+153,Reading,Aston Villa,7.0,2.0,2016/17
+154,Cardiff,Sheffield Weds,4.0,5.0,2016/17
+155,Preston,Huddersfield,4.0,11.0,2016/17
+156,Burton,Birmingham,2.0,4.0,2016/17
+157,Aston Villa,Fulham,6.0,8.0,2016/17
+158,Brentford,Barnsley,9.0,3.0,2016/17
+159,Bristol City,Blackburn,4.0,7.0,2016/17
+160,Huddersfield,Derby,6.0,5.0,2016/17
+161,Newcastle,Ipswich,6.0,3.0,2016/17
+162,Norwich,Preston,12.0,4.0,2016/17
+163,Nott'm Forest,Cardiff,1.0,3.0,2016/17
+164,Rotherham,Reading,7.0,6.0,2016/17
+165,Sheffield Weds,QPR,5.0,8.0,2016/17
+166,Wigan,Brighton,7.0,8.0,2016/17
+167,Wolves,Leeds,5.0,2.0,2016/17
+168,QPR,Brentford,5.0,6.0,2016/17
+169,Barnsley,Bristol City,5.0,3.0,2016/17
+170,Blackburn,Wolves,6.0,3.0,2016/17
+171,Brighton,Norwich,2.0,2.0,2016/17
+172,Cardiff,Wigan,6.0,2.0,2016/17
+173,Derby,Sheffield Weds,9.0,8.0,2016/17
+174,Fulham,Huddersfield,6.0,6.0,2016/17
+175,Ipswich,Rotherham,5.0,2.0,2016/17
+176,Leeds,Burton,5.0,8.0,2016/17
+177,Preston,Newcastle,8.0,0.0,2016/17
+178,Reading,Nott'm Forest,8.0,8.0,2016/17
+179,Birmingham,Aston Villa,4.0,3.0,2016/17
+180,Brentford,Fulham,12.0,4.0,2016/17
+181,Aston Villa,Blackburn,5.0,5.0,2016/17
+182,Bristol City,Brighton,4.0,3.0,2016/17
+183,Burton,Barnsley,9.0,3.0,2016/17
+184,Huddersfield,Birmingham,9.0,3.0,2016/17
+185,Newcastle,Cardiff,10.0,4.0,2016/17
+186,Norwich,Leeds,4.0,5.0,2016/17
+187,Nott'm Forest,QPR,5.0,4.0,2016/17
+188,Rotherham,Preston,5.0,4.0,2016/17
+189,Sheffield Weds,Ipswich,8.0,2.0,2016/17
+190,Wigan,Reading,6.0,5.0,2016/17
+191,Wolves,Derby,7.0,9.0,2016/17
+192,Brighton,Aston Villa,2.0,12.0,2016/17
+193,Barnsley,Wigan,6.0,4.0,2016/17
+194,Birmingham,Bristol City,2.0,11.0,2016/17
+195,Blackburn,Brentford,5.0,5.0,2016/17
+196,Cardiff,Huddersfield,5.0,6.0,2016/17
+197,Derby,Rotherham,5.0,7.0,2016/17
+198,Fulham,Sheffield Weds,5.0,0.0,2016/17
+199,Ipswich,Nott'm Forest,11.0,4.0,2016/17
+200,Preston,Wolves,4.0,4.0,2016/17
+201,QPR,Norwich,9.0,5.0,2016/17
+202,Reading,Burton,3.0,4.0,2016/17
+203,Leeds,Newcastle,10.0,6.0,2016/17
+204,Barnsley,Nott'm Forest,6.0,2.0,2016/17
+205,Aston Villa,Cardiff,2.0,6.0,2016/17
+206,Brentford,Birmingham,9.0,2.0,2016/17
+207,Brighton,Fulham,3.0,7.0,2016/17
+208,Derby,Norwich,5.0,1.0,2016/17
+209,Ipswich,QPR,4.0,4.0,2016/17
+210,Newcastle,Blackburn,8.0,9.0,2016/17
+211,Preston,Burton,8.0,5.0,2016/17
+212,Reading,Bristol City,3.0,6.0,2016/17
+213,Rotherham,Leeds,6.0,4.0,2016/17
+214,Wolves,Sheffield Weds,8.0,5.0,2016/17
+215,Huddersfield,Wigan,9.0,1.0,2016/17
+216,QPR,Wolves,7.0,5.0,2016/17
+217,Nott'm Forest,Newcastle,6.0,1.0,2016/17
+218,Birmingham,Barnsley,6.0,6.0,2016/17
+219,Blackburn,Huddersfield,2.0,13.0,2016/17
+220,Bristol City,Ipswich,4.0,0.0,2016/17
+221,Burton,Rotherham,7.0,3.0,2016/17
+222,Cardiff,Brighton,1.0,6.0,2016/17
+223,Fulham,Reading,7.0,2.0,2016/17
+224,Leeds,Aston Villa,4.0,5.0,2016/17
+225,Norwich,Brentford,0.0,4.0,2016/17
+226,Sheffield Weds,Preston,3.0,6.0,2016/17
+227,Wigan,Derby,9.0,2.0,2016/17
+228,Brighton,Leeds,7.0,1.0,2016/17
+229,Aston Villa,Wigan,4.0,5.0,2016/17
+230,Barnsley,Norwich,3.0,7.0,2016/17
+231,Brentford,Burton,8.0,3.0,2016/17
+232,Huddersfield,Bristol City,8.0,2.0,2016/17
+233,Ipswich,Cardiff,5.0,5.0,2016/17
+234,Newcastle,Birmingham,7.0,1.0,2016/17
+235,Preston,Blackburn,7.0,7.0,2016/17
+236,Reading,Sheffield Weds,1.0,4.0,2016/17
+237,Rotherham,QPR,5.0,5.0,2016/17
+238,Wolves,Fulham,7.0,9.0,2016/17
+239,Derby,Nott'm Forest,5.0,2.0,2016/17
+240,Birmingham,Ipswich,8.0,8.0,2016/17
+241,Blackburn,Brighton,4.0,2.0,2016/17
+242,Bristol City,Brentford,6.0,5.0,2016/17
+243,Burton,Huddersfield,6.0,2.0,2016/17
+244,Cardiff,Wolves,7.0,2.0,2016/17
+245,Fulham,Rotherham,14.0,2.0,2016/17
+246,Leeds,Reading,0.0,6.0,2016/17
+247,Norwich,Aston Villa,8.0,1.0,2016/17
+248,Sheffield Weds,Barnsley,3.0,5.0,2016/17
+249,Nott'm Forest,Preston,6.0,3.0,2016/17
+250,QPR,Derby,10.0,2.0,2016/17
+251,Wigan,Newcastle,5.0,6.0,2016/17
+252,Norwich,Huddersfield,8.0,3.0,2016/17
+253,Birmingham,Brighton,1.0,4.0,2016/17
+254,Blackburn,Reading,8.0,6.0,2016/17
+255,Bristol City,Preston,3.0,3.0,2016/17
+256,Burton,Newcastle,7.0,5.0,2016/17
+257,Cardiff,Barnsley,12.0,3.0,2016/17
+258,Fulham,Derby,4.0,4.0,2016/17
+259,Leeds,Brentford,5.0,7.0,2016/17
+260,Nott'm Forest,Wolves,5.0,2.0,2016/17
+261,Sheffield Weds,Rotherham,7.0,9.0,2016/17
+262,Wigan,Ipswich,5.0,4.0,2016/17
+263,QPR,Aston Villa,2.0,8.0,2016/17
+264,Aston Villa,Burton,2.0,8.0,2016/17
+265,Barnsley,Blackburn,0.0,9.0,2016/17
+266,Brentford,Cardiff,9.0,3.0,2016/17
+267,Huddersfield,Nott'm Forest,5.0,1.0,2016/17
+268,Ipswich,Fulham,4.0,7.0,2016/17
+269,Newcastle,Sheffield Weds,11.0,5.0,2016/17
+270,Preston,Leeds,2.0,4.0,2016/17
+271,Reading,Norwich,5.0,6.0,2016/17
+272,Rotherham,Wigan,7.0,6.0,2016/17
+273,Wolves,Bristol City,9.0,5.0,2016/17
+274,Brighton,QPR,13.0,5.0,2016/17
+275,Derby,Birmingham,5.0,1.0,2016/17
+276,Aston Villa,Leeds,4.0,7.0,2016/17
+277,Rotherham,Burton,7.0,3.0,2016/17
+278,Ipswich,Bristol City,4.0,4.0,2016/17
+279,Newcastle,Nott'm Forest,9.0,1.0,2016/17
+280,Barnsley,Birmingham,6.0,8.0,2016/17
+281,Brentford,Norwich,8.0,1.0,2016/17
+282,Derby,Wigan,10.0,2.0,2016/17
+283,Huddersfield,Blackburn,5.0,1.0,2016/17
+284,Preston,Sheffield Weds,5.0,1.0,2016/17
+285,Wolves,QPR,5.0,1.0,2016/17
+286,Birmingham,Brentford,8.0,7.0,2016/17
+287,Blackburn,Newcastle,1.0,6.0,2016/17
+288,Bristol City,Reading,1.0,2.0,2016/17
+289,Burton,Preston,6.0,1.0,2016/17
+290,Cardiff,Aston Villa,7.0,9.0,2016/17
+291,Fulham,Brighton,10.0,2.0,2016/17
+292,Leeds,Rotherham,4.0,7.0,2016/17
+293,Norwich,Derby,10.0,4.0,2016/17
+294,Nott'm Forest,Barnsley,4.0,7.0,2016/17
+295,QPR,Ipswich,6.0,6.0,2016/17
+296,Sheffield Weds,Wolves,4.0,5.0,2016/17
+297,Wigan,Huddersfield,5.0,4.0,2016/17
+298,Reading,QPR,4.0,8.0,2016/17
+299,Leeds,Derby,16.0,3.0,2016/17
+300,Birmingham,Nott'm Forest,7.0,4.0,2016/17
+301,Brentford,Newcastle,7.0,5.0,2016/17
+302,Bristol City,Cardiff,5.0,2.0,2016/17
+303,Burton,Wigan,12.0,3.0,2016/17
+304,Fulham,Barnsley,9.0,0.0,2016/17
+305,Ipswich,Blackburn,4.0,2.0,2016/17
+306,Preston,Brighton,7.0,6.0,2016/17
+307,Rotherham,Norwich,3.0,7.0,2016/17
+308,Sheffield Weds,Huddersfield,1.0,5.0,2016/17
+309,Wolves,Aston Villa,5.0,3.0,2016/17
+310,Brighton,Sheffield Weds,0.0,10.0,2016/17
+311,Aston Villa,Preston,6.0,4.0,2016/17
+312,Barnsley,Leeds,5.0,11.0,2016/17
+313,Blackburn,Birmingham,4.0,9.0,2016/17
+314,Cardiff,Burton,7.0,1.0,2016/17
+315,Derby,Reading,3.0,3.0,2016/17
+316,Huddersfield,Ipswich,5.0,3.0,2016/17
+317,Newcastle,Rotherham,9.0,6.0,2016/17
+318,Norwich,Wolves,3.0,4.0,2016/17
+319,Nott'm Forest,Bristol City,4.0,9.0,2016/17
+320,QPR,Fulham,5.0,8.0,2016/17
+321,Wigan,Brentford,5.0,4.0,2016/17
+322,Brighton,Cardiff,8.0,5.0,2016/17
+323,Reading,Fulham,5.0,5.0,2016/17
+324,Leeds,Nott'm Forest,4.0,3.0,2016/17
+325,Norwich,Birmingham,4.0,5.0,2016/17
+326,Preston,Ipswich,5.0,4.0,2016/17
+327,QPR,Burton,5.0,3.0,2016/17
+328,Reading,Cardiff,2.0,6.0,2016/17
+329,Rotherham,Barnsley,5.0,3.0,2016/17
+330,Barnsley,Wolves,4.0,4.0,2016/17
+331,Birmingham,Reading,2.0,3.0,2016/17
+332,Brentford,Aston Villa,8.0,5.0,2016/17
+333,Bristol City,Sheffield Weds,3.0,3.0,2016/17
+334,Cardiff,Preston,9.0,3.0,2016/17
+335,Ipswich,Derby,7.0,5.0,2016/17
+336,Nott'm Forest,Rotherham,6.0,5.0,2016/17
+337,Blackburn,Leeds,6.0,5.0,2016/17
+338,Burton,Fulham,5.0,8.0,2016/17
+339,Newcastle,QPR,4.0,4.0,2016/17
+340,Huddersfield,Brighton,9.0,2.0,2016/17
+341,Wigan,Sheffield Weds,4.0,5.0,2016/17
+342,Barnsley,Preston,6.0,3.0,2016/17
+343,Birmingham,Fulham,8.0,4.0,2016/17
+344,Blackburn,QPR,3.0,6.0,2016/17
+345,Bristol City,Rotherham,5.0,5.0,2016/17
+346,Burton,Wolves,9.0,3.0,2016/17
+347,Cardiff,Norwich,3.0,4.0,2016/17
+348,Ipswich,Reading,5.0,4.0,2016/17
+349,Newcastle,Derby,5.0,5.0,2016/17
+350,Nott'm Forest,Aston Villa,6.0,6.0,2016/17
+351,Brentford,Brighton,7.0,7.0,2016/17
+352,Huddersfield,Leeds,7.0,5.0,2016/17
+353,Wigan,Norwich,7.0,6.0,2016/17
+354,Sheffield Weds,Birmingham,6.0,6.0,2016/17
+355,Aston Villa,Ipswich,9.0,4.0,2016/17
+356,Brighton,Burton,3.0,5.0,2016/17
+357,Derby,Bristol City,8.0,3.0,2016/17
+358,Fulham,Wigan,7.0,2.0,2016/17
+359,Leeds,Cardiff,5.0,3.0,2016/17
+360,Norwich,Nott'm Forest,8.0,1.0,2016/17
+361,Preston,Brentford,2.0,6.0,2016/17
+362,QPR,Huddersfield,7.0,3.0,2016/17
+363,Reading,Barnsley,12.0,3.0,2016/17
+364,Rotherham,Blackburn,9.0,9.0,2016/17
+365,Wolves,Newcastle,5.0,3.0,2016/17
+366,Aston Villa,Barnsley,10.0,2.0,2016/17
+367,Brighton,Ipswich,3.0,6.0,2016/17
+368,Derby,Cardiff,9.0,5.0,2016/17
+369,Fulham,Nott'm Forest,6.0,1.0,2016/17
+370,Leeds,Bristol City,4.0,5.0,2016/17
+371,Norwich,Newcastle,2.0,6.0,2016/17
+372,Preston,Birmingham,4.0,3.0,2016/17
+373,Reading,Brentford,4.0,9.0,2016/17
+374,Rotherham,Huddersfield,4.0,13.0,2016/17
+375,Sheffield Weds,Blackburn,7.0,5.0,2016/17
+376,Wolves,Wigan,5.0,4.0,2016/17
+377,Barnsley,Brighton,5.0,3.0,2016/17
+378,Birmingham,QPR,6.0,4.0,2016/17
+379,Burton,Norwich,3.0,6.0,2016/17
+380,Cardiff,Rotherham,3.0,1.0,2016/17
+381,Ipswich,Leeds,9.0,1.0,2016/17
+382,Nott'm Forest,Sheffield Weds,1.0,4.0,2016/17
+383,Wigan,Preston,5.0,3.0,2016/17
+384,Newcastle,Aston Villa,6.0,4.0,2016/17
+385,Derby,Burton,11.0,0.0,2016/17
+386,Huddersfield,Reading,8.0,3.0,2016/17
+387,QPR,Wigan,4.0,6.0,2016/17
+388,Sheffield Weds,Brentford,16.0,3.0,2016/17
+389,Bristol City,Fulham,5.0,5.0,2016/17
+390,Burton,Blackburn,1.0,8.0,2016/17
+391,Wolves,Birmingham,10.0,2.0,2016/17
+392,Aston Villa,Derby,4.0,8.0,2016/17
+393,Barnsley,Huddersfield,5.0,10.0,2016/17
+394,Brentford,Rotherham,9.0,7.0,2016/17
+395,Brighton,Reading,6.0,5.0,2016/17
+396,Cardiff,Fulham,3.0,4.0,2016/17
+397,Leeds,Sheffield Weds,2.0,5.0,2016/17
+398,Newcastle,Bristol City,13.0,4.0,2016/17
+399,Preston,QPR,8.0,1.0,2016/17
+400,Wigan,Nott'm Forest,5.0,7.0,2016/17
+401,Norwich,Ipswich,14.0,1.0,2016/17
+402,Aston Villa,Bristol City,5.0,8.0,2016/17
+403,Blackburn,Derby,5.0,3.0,2016/17
+404,Brighton,Newcastle,3.0,6.0,2016/17
+405,Birmingham,Leeds,8.0,0.0,2016/17
+406,Blackburn,Wigan,8.0,5.0,2016/17
+407,Bristol City,Burton,7.0,5.0,2016/17
+408,Derby,Barnsley,9.0,6.0,2016/17
+409,Fulham,Preston,9.0,1.0,2016/17
+410,Huddersfield,Newcastle,9.0,3.0,2016/17
+411,Ipswich,Brentford,2.0,10.0,2016/17
+412,Nott'm Forest,Brighton,4.0,5.0,2016/17
+413,QPR,Cardiff,5.0,6.0,2016/17
+414,Reading,Wolves,2.0,6.0,2016/17
+415,Rotherham,Aston Villa,5.0,5.0,2016/17
+416,Sheffield Weds,Norwich,3.0,3.0,2016/17
+417,Birmingham,Wigan,6.0,3.0,2016/17
+418,Blackburn,Cardiff,9.0,2.0,2016/17
+419,Bristol City,Norwich,8.0,2.0,2016/17
+420,Derby,Preston,3.0,3.0,2016/17
+421,Fulham,Leeds,14.0,4.0,2016/17
+422,Huddersfield,Aston Villa,2.0,4.0,2016/17
+423,Ipswich,Wolves,7.0,8.0,2016/17
+424,Nott'm Forest,Brentford,6.0,1.0,2016/17
+425,QPR,Barnsley,8.0,4.0,2016/17
+426,Reading,Newcastle,7.0,5.0,2016/17
+427,Rotherham,Brighton,2.0,8.0,2016/17
+428,Sheffield Weds,Burton,11.0,4.0,2016/17
+429,Brighton,Derby,8.0,2.0,2016/17
+430,Aston Villa,Sheffield Weds,5.0,4.0,2016/17
+431,Barnsley,Ipswich,4.0,8.0,2016/17
+432,Brentford,Huddersfield,7.0,6.0,2016/17
+433,Burton,Nott'm Forest,4.0,5.0,2016/17
+434,Cardiff,Birmingham,7.0,3.0,2016/17
+435,Leeds,QPR,6.0,5.0,2016/17
+436,Newcastle,Fulham,8.0,4.0,2016/17
+437,Norwich,Blackburn,3.0,1.0,2016/17
+438,Preston,Reading,1.0,5.0,2016/17
+439,Wigan,Bristol City,8.0,9.0,2016/17
+440,Wolves,Rotherham,8.0,3.0,2016/17
+441,Brentford,Wolves,3.0,7.0,2016/17
+442,Fulham,Blackburn,7.0,6.0,2016/17
+443,Bristol City,Huddersfield,1.0,1.0,2016/17
+444,Sheffield Weds,Reading,11.0,3.0,2016/17
+445,Birmingham,Newcastle,3.0,5.0,2016/17
+446,Blackburn,Preston,3.0,5.0,2016/17
+447,Burton,Brentford,5.0,6.0,2016/17
+448,Cardiff,Ipswich,3.0,4.0,2016/17
+449,Fulham,Wolves,5.0,2.0,2016/17
+450,Leeds,Brighton,3.0,8.0,2016/17
+451,Norwich,Barnsley,4.0,7.0,2016/17
+452,Nott'm Forest,Derby,5.0,5.0,2016/17
+453,QPR,Rotherham,2.0,2.0,2016/17
+454,Wigan,Aston Villa,9.0,7.0,2016/17
+455,Derby,QPR,6.0,2.0,2016/17
+456,Aston Villa,Norwich,2.0,10.0,2016/17
+457,Barnsley,Sheffield Weds,3.0,1.0,2016/17
+458,Brentford,Bristol City,6.0,3.0,2016/17
+459,Brighton,Blackburn,5.0,6.0,2016/17
+460,Huddersfield,Burton,9.0,4.0,2016/17
+461,Ipswich,Birmingham,5.0,4.0,2016/17
+462,Newcastle,Wigan,6.0,4.0,2016/17
+463,Preston,Nott'm Forest,4.0,1.0,2016/17
+464,Reading,Leeds,2.0,6.0,2016/17
+465,Rotherham,Fulham,5.0,4.0,2016/17
+466,Wolves,Cardiff,4.0,6.0,2016/17
+467,Aston Villa,QPR,5.0,6.0,2016/17
+468,Barnsley,Cardiff,9.0,2.0,2016/17
+469,Brentford,Leeds,4.0,8.0,2016/17
+470,Brighton,Birmingham,3.0,8.0,2016/17
+471,Derby,Fulham,2.0,2.0,2016/17
+472,Ipswich,Wigan,6.0,5.0,2016/17
+473,Preston,Bristol City,10.0,3.0,2016/17
+474,Reading,Blackburn,1.0,5.0,2016/17
+475,Rotherham,Sheffield Weds,4.0,2.0,2016/17
+476,Wolves,Nott'm Forest,5.0,4.0,2016/17
+477,Huddersfield,Norwich,5.0,3.0,2016/17
+478,Newcastle,Burton,4.0,3.0,2016/17
+479,QPR,Brighton,5.0,8.0,2016/17
+480,Birmingham,Derby,9.0,3.0,2016/17
+481,Blackburn,Barnsley,9.0,5.0,2016/17
+482,Bristol City,Wolves,3.0,5.0,2016/17
+483,Burton,Aston Villa,8.0,3.0,2016/17
+484,Cardiff,Brentford,3.0,4.0,2016/17
+485,Fulham,Ipswich,7.0,4.0,2016/17
+486,Leeds,Preston,4.0,7.0,2016/17
+487,Norwich,Reading,5.0,1.0,2016/17
+488,Nott'm Forest,Huddersfield,7.0,4.0,2016/17
+489,Sheffield Weds,Newcastle,3.0,4.0,2016/17
+490,Wigan,Rotherham,8.0,2.0,2016/17
+491,Wigan,Barnsley,6.0,1.0,2016/17
+492,Brentford,Derby,1.0,6.0,2016/17
+493,Bristol City,QPR,4.0,3.0,2016/17
+494,Burton,Ipswich,7.0,5.0,2016/17
+495,Huddersfield,Preston,6.0,0.0,2016/17
+496,Newcastle,Leeds,19.0,0.0,2016/17
+497,Norwich,Fulham,14.0,2.0,2016/17
+498,Nott'm Forest,Blackburn,7.0,4.0,2016/17
+499,Rotherham,Birmingham,3.0,4.0,2016/17
+500,Sheffield Weds,Cardiff,2.0,3.0,2016/17
+501,Wolves,Brighton,6.0,3.0,2016/17
+502,Aston Villa,Reading,6.0,6.0,2016/17
+503,Barnsley,Brentford,9.0,4.0,2016/17
+504,Birmingham,Burton,3.0,3.0,2016/17
+505,Blackburn,Bristol City,3.0,1.0,2016/17
+506,Brighton,Wigan,10.0,1.0,2016/17
+507,Cardiff,Nott'm Forest,1.0,7.0,2016/17
+508,Derby,Huddersfield,6.0,2.0,2016/17
+509,Fulham,Aston Villa,10.0,5.0,2016/17
+510,Ipswich,Newcastle,2.0,7.0,2016/17
+511,Leeds,Wolves,10.0,5.0,2016/17
+512,Preston,Norwich,6.0,8.0,2016/17
+513,QPR,Sheffield Weds,6.0,6.0,2016/17
+514,Reading,Rotherham,13.0,4.0,2016/17
+515,Norwich,Brighton,2.0,5.0,2016/17
+516,Brentford,QPR,5.0,6.0,2016/17
+517,Bristol City,Barnsley,11.0,4.0,2016/17
+518,Burton,Leeds,6.0,8.0,2016/17
+519,Huddersfield,Fulham,6.0,0.0,2016/17
+520,Nott'm Forest,Reading,11.0,4.0,2016/17
+521,Rotherham,Ipswich,6.0,7.0,2016/17
+522,Sheffield Weds,Derby,2.0,4.0,2016/17
+523,Wigan,Cardiff,10.0,4.0,2016/17
+524,Wolves,Blackburn,0.0,5.0,2016/17
+525,Aston Villa,Birmingham,1.0,3.0,2016/17
+526,Newcastle,Preston,16.0,1.0,2016/17
+527,Wolves,Huddersfield,3.0,4.0,2016/17
+528,Cardiff,Newcastle,5.0,4.0,2016/17
+529,Barnsley,Burton,6.0,3.0,2016/17
+530,Birmingham,Huddersfield,1.0,5.0,2016/17
+531,Blackburn,Aston Villa,7.0,1.0,2016/17
+532,Brighton,Bristol City,4.0,2.0,2016/17
+533,Derby,Wolves,4.0,2.0,2016/17
+534,Fulham,Brentford,11.0,1.0,2016/17
+535,Ipswich,Sheffield Weds,1.0,6.0,2016/17
+536,Leeds,Norwich,4.0,2.0,2016/17
+537,Preston,Rotherham,7.0,5.0,2016/17
+538,QPR,Nott'm Forest,5.0,8.0,2016/17
+539,Reading,Wigan,3.0,8.0,2016/17
+540,Aston Villa,Brighton,7.0,3.0,2016/17
+541,Brentford,Blackburn,10.0,4.0,2016/17
+542,Bristol City,Birmingham,7.0,6.0,2016/17
+543,Burton,Reading,9.0,4.0,2016/17
+544,Huddersfield,Cardiff,2.0,1.0,2016/17
+545,Newcastle,Barnsley,10.0,4.0,2016/17
+546,Norwich,QPR,12.0,4.0,2016/17
+547,Nott'm Forest,Ipswich,5.0,2.0,2016/17
+548,Rotherham,Derby,0.0,6.0,2016/17
+549,Sheffield Weds,Fulham,2.0,10.0,2016/17
+550,Wigan,Leeds,1.0,5.0,2016/17
+551,Wolves,Preston,5.0,3.0,2016/17
+0,Fulham,Newcastle,2.0,2.0,2016/17
+1,Birmingham,Cardiff,5.0,5.0,2016/17
+2,Blackburn,Norwich,7.0,3.0,2016/17
+3,Bristol City,Wigan,10.0,2.0,2016/17
+4,Derby,Brighton,1.0,7.0,2016/17
+5,Huddersfield,Brentford,5.0,2.0,2016/17
+6,Ipswich,Barnsley,5.0,4.0,2016/17
+7,Nott'm Forest,Burton,8.0,6.0,2016/17
+8,Reading,Preston,6.0,1.0,2016/17
+9,Rotherham,Wolves,3.0,6.0,2016/17
+10,QPR,Leeds,5.0,5.0,2016/17
+11,Sheffield Weds,Aston Villa,12.0,9.0,2016/17
+12,Brighton,Nott'm Forest,6.0,7.0,2016/17
+13,Aston Villa,Rotherham,4.0,6.0,2016/17
+14,Barnsley,Derby,8.0,8.0,2016/17
+15,Brentford,Ipswich,4.0,6.0,2016/17
+16,Burton,Bristol City,7.0,8.0,2016/17
+17,Leeds,Birmingham,7.0,4.0,2016/17
+18,Newcastle,Huddersfield,4.0,1.0,2016/17
+19,Norwich,Sheffield Weds,10.0,4.0,2016/17
+20,Preston,Fulham,6.0,8.0,2016/17
+21,Wigan,Blackburn,5.0,4.0,2016/17
+22,Wolves,Reading,5.0,5.0,2016/17
+23,Cardiff,QPR,3.0,1.0,2016/17
+24,Aston Villa,Huddersfield,4.0,6.0,2016/17
+25,Brentford,Nott'm Forest,4.0,8.0,2016/17
+26,Brighton,Rotherham,4.0,4.0,2016/17
+27,Burton,Sheffield Weds,5.0,7.0,2016/17
+28,Leeds,Fulham,9.0,4.0,2016/17
+29,Norwich,Bristol City,9.0,6.0,2016/17
+30,Preston,Derby,5.0,5.0,2016/17
+31,Wigan,Birmingham,10.0,2.0,2016/17
+32,Wolves,Ipswich,2.0,5.0,2016/17
+33,Barnsley,QPR,4.0,1.0,2016/17
+34,Cardiff,Blackburn,4.0,4.0,2016/17
+35,Newcastle,Reading,2.0,9.0,2016/17
+36,Birmingham,Wolves,10.0,12.0,2016/17
+37,Blackburn,Burton,6.0,12.0,2016/17
+38,Bristol City,Newcastle,6.0,3.0,2016/17
+39,Derby,Aston Villa,5.0,7.0,2016/17
+40,Fulham,Cardiff,4.0,4.0,2016/17
+41,Huddersfield,Barnsley,7.0,4.0,2016/17
+42,Nott'm Forest,Wigan,5.0,5.0,2016/17
+43,QPR,Preston,10.0,5.0,2016/17
+44,Reading,Brighton,9.0,5.0,2016/17
+45,Rotherham,Brentford,6.0,11.0,2016/17
+46,Sheffield Weds,Leeds,6.0,4.0,2016/17
+47,Ipswich,Norwich,7.0,3.0,2016/17
+48,Burton,Derby,2.0,3.0,2016/17
+49,Barnsley,Rotherham,6.0,5.0,2016/17
+50,Birmingham,Norwich,5.0,8.0,2016/17
+51,Blackburn,Fulham,4.0,3.0,2016/17
+52,Brentford,Sheffield Weds,5.0,3.0,2016/17
+53,Bristol City,Aston Villa,3.0,4.0,2016/17
+54,Cardiff,Reading,4.0,3.0,2016/17
+55,Huddersfield,Wolves,2.0,5.0,2016/17
+56,Ipswich,Preston,3.0,4.0,2016/17
+57,Newcastle,Brighton,2.0,3.0,2016/17
+58,Nott'm Forest,Leeds,4.0,6.0,2016/17
+59,Wigan,QPR,3.0,0.0,2016/17
+60,Reading,Ipswich,5.0,5.0,2016/17
+61,Brighton,Brentford,7.0,2.0,2016/17
+62,Derby,Newcastle,2.0,5.0,2016/17
+63,Fulham,Birmingham,3.0,9.0,2016/17
+64,Leeds,Huddersfield,4.0,4.0,2016/17
+65,Norwich,Cardiff,7.0,5.0,2016/17
+66,Preston,Barnsley,7.0,8.0,2016/17
+67,QPR,Blackburn,7.0,8.0,2016/17
+68,Rotherham,Bristol City,5.0,11.0,2016/17
+69,Sheffield Weds,Wigan,6.0,5.0,2016/17
+70,Wolves,Burton,5.0,5.0,2016/17
+71,Aston Villa,Nott'm Forest,10.0,2.0,2016/17
+72,Brighton,Huddersfield,5.0,3.0,2016/17
+73,Derby,Ipswich,4.0,0.0,2016/17
+74,Fulham,Burton,9.0,3.0,2016/17
+75,Leeds,Blackburn,7.0,8.0,2016/17
+76,Norwich,Wigan,4.0,8.0,2016/17
+77,Preston,Cardiff,6.0,8.0,2016/17
+78,QPR,Newcastle,4.0,8.0,2016/17
+79,Reading,Birmingham,12.0,6.0,2016/17
+80,Sheffield Weds,Bristol City,7.0,4.0,2016/17
+81,Wolves,Barnsley,5.0,2.0,2016/17
+82,Aston Villa,Brentford,5.0,7.0,2016/17
+83,Rotherham,Nott'm Forest,4.0,8.0,2016/17
+84,Barnsley,Reading,10.0,4.0,2016/17
+85,Birmingham,Sheffield Weds,4.0,2.0,2016/17
+86,Blackburn,Rotherham,6.0,4.0,2016/17
+87,Brentford,Preston,5.0,6.0,2016/17
+88,Bristol City,Derby,3.0,5.0,2016/17
+89,Burton,Brighton,1.0,8.0,2016/17
+90,Cardiff,Leeds,12.0,4.0,2016/17
+91,Huddersfield,QPR,4.0,3.0,2016/17
+92,Ipswich,Aston Villa,10.0,7.0,2016/17
+93,Newcastle,Wolves,5.0,3.0,2016/17
+94,Nott'm Forest,Norwich,5.0,9.0,2016/17
+95,Wigan,Fulham,10.0,5.0,2016/17
+96,Preston,Wigan,5.0,1.0,2016/17
+97,Aston Villa,Newcastle,8.0,5.0,2016/17
+98,Brighton,Barnsley,4.0,2.0,2016/17
+99,Derby,Blackburn,5.0,4.0,2016/17
+100,Fulham,Bristol City,7.0,5.0,2016/17
+101,Leeds,Ipswich,7.0,4.0,2016/17
+102,Norwich,Burton,8.0,6.0,2016/17
+103,QPR,Birmingham,6.0,4.0,2016/17
+104,Reading,Huddersfield,5.0,3.0,2016/17
+105,Rotherham,Cardiff,11.0,7.0,2016/17
+106,Sheffield Weds,Nott'm Forest,7.0,6.0,2016/17
+107,Wolves,Brentford,4.0,6.0,2016/17
+108,Barnsley,Aston Villa,9.0,5.0,2016/17
+109,Birmingham,Preston,8.0,3.0,2016/17
+110,Blackburn,Sheffield Weds,2.0,2.0,2016/17
+111,Brentford,Reading,8.0,7.0,2016/17
+112,Bristol City,Leeds,2.0,6.0,2016/17
+113,Burton,QPR,2.0,9.0,2016/17
+114,Cardiff,Derby,3.0,4.0,2016/17
+115,Huddersfield,Rotherham,9.0,3.0,2016/17
+116,Ipswich,Brighton,2.0,5.0,2016/17
+117,Nott'm Forest,Fulham,2.0,9.0,2016/17
+118,Wigan,Wolves,1.0,3.0,2016/17
+119,Newcastle,Norwich,5.0,2.0,2016/17
+120,Birmingham,Blackburn,5.0,8.0,2016/17
+121,Brentford,Wigan,12.0,4.0,2016/17
+122,Bristol City,Nott'm Forest,5.0,3.0,2016/17
+123,Burton,Cardiff,4.0,9.0,2016/17
+124,Fulham,QPR,12.0,4.0,2016/17
+125,Ipswich,Huddersfield,6.0,5.0,2016/17
+126,Leeds,Barnsley,6.0,5.0,2016/17
+127,Preston,Aston Villa,9.0,7.0,2016/17
+128,Reading,Derby,6.0,5.0,2016/17
+129,Rotherham,Newcastle,14.0,10.0,2016/17
+130,Sheffield Weds,Brighton,7.0,3.0,2016/17
+131,Wolves,Norwich,5.0,2.0,2016/17
+132,Cardiff,Bristol City,3.0,1.0,2016/17
+133,Nott'm Forest,Birmingham,3.0,4.0,2016/17
+134,Aston Villa,Wolves,6.0,5.0,2016/17
+135,Barnsley,Fulham,4.0,5.0,2016/17
+136,Blackburn,Ipswich,2.0,9.0,2016/17
+137,Brighton,Preston,6.0,1.0,2016/17
+138,Derby,Leeds,6.0,5.0,2016/17
+139,Newcastle,Brentford,5.0,5.0,2016/17
+140,Norwich,Rotherham,8.0,4.0,2016/17
+141,QPR,Reading,9.0,3.0,2016/17
+142,Wigan,Burton,6.0,3.0,2016/17
+143,Huddersfield,Sheffield Weds,9.0,4.0,2016/17
+144,Barnsley,Newcastle,0.0,4.0,2016/17
+145,Birmingham,Rotherham,4.0,1.0,2016/17
+146,Blackburn,Nott'm Forest,1.0,2.0,2016/17
+147,Brighton,Wolves,9.0,10.0,2016/17
+148,Derby,Brentford,6.0,3.0,2016/17
+149,Fulham,Norwich,8.0,9.0,2016/17
+150,Ipswich,Burton,7.0,12.0,2016/17
+151,Leeds,Wigan,4.0,5.0,2016/17
+152,QPR,Bristol City,12.0,11.0,2016/17
+153,Reading,Aston Villa,7.0,2.0,2016/17
+154,Cardiff,Sheffield Weds,4.0,5.0,2016/17
+155,Preston,Huddersfield,4.0,11.0,2016/17
+156,Burton,Birmingham,2.0,4.0,2016/17
+157,Aston Villa,Fulham,6.0,8.0,2016/17
+158,Brentford,Barnsley,9.0,3.0,2016/17
+159,Bristol City,Blackburn,4.0,7.0,2016/17
+160,Huddersfield,Derby,6.0,5.0,2016/17
+161,Newcastle,Ipswich,6.0,3.0,2016/17
+162,Norwich,Preston,12.0,4.0,2016/17
+163,Nott'm Forest,Cardiff,1.0,3.0,2016/17
+164,Rotherham,Reading,7.0,6.0,2016/17
+165,Sheffield Weds,QPR,5.0,8.0,2016/17
+166,Wigan,Brighton,7.0,8.0,2016/17
+167,Wolves,Leeds,5.0,2.0,2016/17
+168,QPR,Brentford,5.0,6.0,2016/17
+169,Barnsley,Bristol City,5.0,3.0,2016/17
+170,Blackburn,Wolves,6.0,3.0,2016/17
+171,Brighton,Norwich,2.0,2.0,2016/17
+172,Cardiff,Wigan,6.0,2.0,2016/17
+173,Derby,Sheffield Weds,9.0,8.0,2016/17
+174,Fulham,Huddersfield,6.0,6.0,2016/17
+175,Ipswich,Rotherham,5.0,2.0,2016/17
+176,Leeds,Burton,5.0,8.0,2016/17
+177,Preston,Newcastle,8.0,0.0,2016/17
+178,Reading,Nott'm Forest,8.0,8.0,2016/17
+179,Birmingham,Aston Villa,4.0,3.0,2016/17
+180,Brentford,Fulham,12.0,4.0,2016/17
+181,Aston Villa,Blackburn,5.0,5.0,2016/17
+182,Bristol City,Brighton,4.0,3.0,2016/17
+183,Burton,Barnsley,9.0,3.0,2016/17
+184,Huddersfield,Birmingham,9.0,3.0,2016/17
+185,Newcastle,Cardiff,10.0,4.0,2016/17
+186,Norwich,Leeds,4.0,5.0,2016/17
+187,Nott'm Forest,QPR,5.0,4.0,2016/17
+188,Rotherham,Preston,5.0,4.0,2016/17
+189,Sheffield Weds,Ipswich,8.0,2.0,2016/17
+190,Wigan,Reading,6.0,5.0,2016/17
+191,Wolves,Derby,7.0,9.0,2016/17
+192,Brighton,Aston Villa,2.0,12.0,2016/17
+193,Barnsley,Wigan,6.0,4.0,2016/17
+194,Birmingham,Bristol City,2.0,11.0,2016/17
+195,Blackburn,Brentford,5.0,5.0,2016/17
+196,Cardiff,Huddersfield,5.0,6.0,2016/17
+197,Derby,Rotherham,5.0,7.0,2016/17
+198,Fulham,Sheffield Weds,5.0,0.0,2016/17
+199,Ipswich,Nott'm Forest,11.0,4.0,2016/17
+200,Preston,Wolves,4.0,4.0,2016/17
+201,QPR,Norwich,9.0,5.0,2016/17
+202,Reading,Burton,3.0,4.0,2016/17
+203,Leeds,Newcastle,10.0,6.0,2016/17
+204,Barnsley,Nott'm Forest,6.0,2.0,2016/17
+205,Aston Villa,Cardiff,2.0,6.0,2016/17
+206,Brentford,Birmingham,9.0,2.0,2016/17
+207,Brighton,Fulham,3.0,7.0,2016/17
+208,Derby,Norwich,5.0,1.0,2016/17
+209,Ipswich,QPR,4.0,4.0,2016/17
+210,Newcastle,Blackburn,8.0,9.0,2016/17
+211,Preston,Burton,8.0,5.0,2016/17
+212,Reading,Bristol City,3.0,6.0,2016/17
+213,Rotherham,Leeds,6.0,4.0,2016/17
+214,Wolves,Sheffield Weds,8.0,5.0,2016/17
+215,Huddersfield,Wigan,9.0,1.0,2016/17
+216,QPR,Wolves,7.0,5.0,2016/17
+217,Nott'm Forest,Newcastle,6.0,1.0,2016/17
+218,Birmingham,Barnsley,6.0,6.0,2016/17
+219,Blackburn,Huddersfield,2.0,13.0,2016/17
+220,Bristol City,Ipswich,4.0,0.0,2016/17
+221,Burton,Rotherham,7.0,3.0,2016/17
+222,Cardiff,Brighton,1.0,6.0,2016/17
+223,Fulham,Reading,7.0,2.0,2016/17
+224,Leeds,Aston Villa,4.0,5.0,2016/17
+225,Norwich,Brentford,0.0,4.0,2016/17
+226,Sheffield Weds,Preston,3.0,6.0,2016/17
+227,Wigan,Derby,9.0,2.0,2016/17
+228,Brighton,Leeds,7.0,1.0,2016/17
+229,Aston Villa,Wigan,4.0,5.0,2016/17
+230,Barnsley,Norwich,3.0,7.0,2016/17
+231,Brentford,Burton,8.0,3.0,2016/17
+232,Huddersfield,Bristol City,8.0,2.0,2016/17
+233,Ipswich,Cardiff,5.0,5.0,2016/17
+234,Newcastle,Birmingham,7.0,1.0,2016/17
+235,Preston,Blackburn,7.0,7.0,2016/17
+236,Reading,Sheffield Weds,1.0,4.0,2016/17
+237,Rotherham,QPR,5.0,5.0,2016/17
+238,Wolves,Fulham,7.0,9.0,2016/17
+239,Derby,Nott'm Forest,5.0,2.0,2016/17
+240,Birmingham,Ipswich,8.0,8.0,2016/17
+241,Blackburn,Brighton,4.0,2.0,2016/17
+242,Bristol City,Brentford,6.0,5.0,2016/17
+243,Burton,Huddersfield,6.0,2.0,2016/17
+244,Cardiff,Wolves,7.0,2.0,2016/17
+245,Fulham,Rotherham,14.0,2.0,2016/17
+246,Leeds,Reading,0.0,6.0,2016/17
+247,Norwich,Aston Villa,8.0,1.0,2016/17
+248,Sheffield Weds,Barnsley,3.0,5.0,2016/17
+249,Nott'm Forest,Preston,6.0,3.0,2016/17
+250,QPR,Derby,10.0,2.0,2016/17
+251,Wigan,Newcastle,5.0,6.0,2016/17
+252,Norwich,Huddersfield,8.0,3.0,2016/17
+253,Birmingham,Brighton,1.0,4.0,2016/17
+254,Blackburn,Reading,8.0,6.0,2016/17
+255,Bristol City,Preston,3.0,3.0,2016/17
+256,Burton,Newcastle,7.0,5.0,2016/17
+257,Cardiff,Barnsley,12.0,3.0,2016/17
+258,Fulham,Derby,4.0,4.0,2016/17
+259,Leeds,Brentford,5.0,7.0,2016/17
+260,Nott'm Forest,Wolves,5.0,2.0,2016/17
+261,Sheffield Weds,Rotherham,7.0,9.0,2016/17
+262,Wigan,Ipswich,5.0,4.0,2016/17
+263,QPR,Aston Villa,2.0,8.0,2016/17
+264,Aston Villa,Burton,2.0,8.0,2016/17
+265,Barnsley,Blackburn,0.0,9.0,2016/17
+266,Brentford,Cardiff,9.0,3.0,2016/17
+267,Huddersfield,Nott'm Forest,5.0,1.0,2016/17
+268,Ipswich,Fulham,4.0,7.0,2016/17
+269,Newcastle,Sheffield Weds,11.0,5.0,2016/17
+270,Preston,Leeds,2.0,4.0,2016/17
+271,Reading,Norwich,5.0,6.0,2016/17
+272,Rotherham,Wigan,7.0,6.0,2016/17
+273,Wolves,Bristol City,9.0,5.0,2016/17
+274,Brighton,QPR,13.0,5.0,2016/17
+275,Derby,Birmingham,5.0,1.0,2016/17
+276,Aston Villa,Leeds,4.0,7.0,2016/17
+277,Rotherham,Burton,7.0,3.0,2016/17
+278,Ipswich,Bristol City,4.0,4.0,2016/17
+279,Newcastle,Nott'm Forest,9.0,1.0,2016/17
+280,Barnsley,Birmingham,6.0,8.0,2016/17
+281,Brentford,Norwich,8.0,1.0,2016/17
+282,Derby,Wigan,10.0,2.0,2016/17
+283,Huddersfield,Blackburn,5.0,1.0,2016/17
+284,Preston,Sheffield Weds,5.0,1.0,2016/17
+285,Wolves,QPR,5.0,1.0,2016/17
+286,Birmingham,Brentford,8.0,7.0,2016/17
+287,Blackburn,Newcastle,1.0,6.0,2016/17
+288,Bristol City,Reading,1.0,2.0,2016/17
+289,Burton,Preston,6.0,1.0,2016/17
+290,Cardiff,Aston Villa,7.0,9.0,2016/17
+291,Fulham,Brighton,10.0,2.0,2016/17
+292,Leeds,Rotherham,4.0,7.0,2016/17
+293,Norwich,Derby,10.0,4.0,2016/17
+294,Nott'm Forest,Barnsley,4.0,7.0,2016/17
+295,QPR,Ipswich,6.0,6.0,2016/17
+296,Sheffield Weds,Wolves,4.0,5.0,2016/17
+297,Wigan,Huddersfield,5.0,4.0,2016/17
+298,Reading,QPR,4.0,8.0,2016/17
+299,Leeds,Derby,16.0,3.0,2016/17
+300,Birmingham,Nott'm Forest,7.0,4.0,2016/17
+301,Brentford,Newcastle,7.0,5.0,2016/17
+302,Bristol City,Cardiff,5.0,2.0,2016/17
+303,Burton,Wigan,12.0,3.0,2016/17
+304,Fulham,Barnsley,9.0,0.0,2016/17
+305,Ipswich,Blackburn,4.0,2.0,2016/17
+306,Preston,Brighton,7.0,6.0,2016/17
+307,Rotherham,Norwich,3.0,7.0,2016/17
+308,Sheffield Weds,Huddersfield,1.0,5.0,2016/17
+309,Wolves,Aston Villa,5.0,3.0,2016/17
+310,Brighton,Sheffield Weds,0.0,10.0,2016/17
+311,Aston Villa,Preston,6.0,4.0,2016/17
+312,Barnsley,Leeds,5.0,11.0,2016/17
+313,Blackburn,Birmingham,4.0,9.0,2016/17
+314,Cardiff,Burton,7.0,1.0,2016/17
+315,Derby,Reading,3.0,3.0,2016/17
+316,Huddersfield,Ipswich,5.0,3.0,2016/17
+317,Newcastle,Rotherham,9.0,6.0,2016/17
+318,Norwich,Wolves,3.0,4.0,2016/17
+319,Nott'm Forest,Bristol City,4.0,9.0,2016/17
+320,QPR,Fulham,5.0,8.0,2016/17
+321,Wigan,Brentford,5.0,4.0,2016/17
+322,Brighton,Cardiff,8.0,5.0,2016/17
+323,Reading,Fulham,5.0,5.0,2016/17
+324,Leeds,Nott'm Forest,4.0,3.0,2016/17
+325,Norwich,Birmingham,4.0,5.0,2016/17
+326,Preston,Ipswich,5.0,4.0,2016/17
+327,QPR,Burton,5.0,3.0,2016/17
+328,Reading,Cardiff,2.0,6.0,2016/17
+329,Rotherham,Barnsley,5.0,3.0,2016/17
+330,Barnsley,Wolves,4.0,4.0,2016/17
+331,Birmingham,Reading,2.0,3.0,2016/17
+332,Brentford,Aston Villa,8.0,5.0,2016/17
+333,Bristol City,Sheffield Weds,3.0,3.0,2016/17
+334,Cardiff,Preston,9.0,3.0,2016/17
+335,Ipswich,Derby,7.0,5.0,2016/17
+336,Nott'm Forest,Rotherham,6.0,5.0,2016/17
+337,Blackburn,Leeds,6.0,5.0,2016/17
+338,Burton,Fulham,5.0,8.0,2016/17
+339,Newcastle,QPR,4.0,4.0,2016/17
+340,Huddersfield,Brighton,9.0,2.0,2016/17
+341,Wigan,Sheffield Weds,4.0,5.0,2016/17
+342,Barnsley,Preston,6.0,3.0,2016/17
+343,Birmingham,Fulham,8.0,4.0,2016/17
+344,Blackburn,QPR,3.0,6.0,2016/17
+345,Bristol City,Rotherham,5.0,5.0,2016/17
+346,Burton,Wolves,9.0,3.0,2016/17
+347,Cardiff,Norwich,3.0,4.0,2016/17
+348,Ipswich,Reading,5.0,4.0,2016/17
+349,Newcastle,Derby,5.0,5.0,2016/17
+350,Nott'm Forest,Aston Villa,6.0,6.0,2016/17
+351,Brentford,Brighton,7.0,7.0,2016/17
+352,Huddersfield,Leeds,7.0,5.0,2016/17
+353,Wigan,Norwich,7.0,6.0,2016/17
+354,Sheffield Weds,Birmingham,6.0,6.0,2016/17
+355,Aston Villa,Ipswich,9.0,4.0,2016/17
+356,Brighton,Burton,3.0,5.0,2016/17
+357,Derby,Bristol City,8.0,3.0,2016/17
+358,Fulham,Wigan,7.0,2.0,2016/17
+359,Leeds,Cardiff,5.0,3.0,2016/17
+360,Norwich,Nott'm Forest,8.0,1.0,2016/17
+361,Preston,Brentford,2.0,6.0,2016/17
+362,QPR,Huddersfield,7.0,3.0,2016/17
+363,Reading,Barnsley,12.0,3.0,2016/17
+364,Rotherham,Blackburn,9.0,9.0,2016/17
+365,Wolves,Newcastle,5.0,3.0,2016/17
+366,Aston Villa,Barnsley,10.0,2.0,2016/17
+367,Brighton,Ipswich,3.0,6.0,2016/17
+368,Derby,Cardiff,9.0,5.0,2016/17
+369,Fulham,Nott'm Forest,6.0,1.0,2016/17
+370,Leeds,Bristol City,4.0,5.0,2016/17
+371,Norwich,Newcastle,2.0,6.0,2016/17
+372,Preston,Birmingham,4.0,3.0,2016/17
+373,Reading,Brentford,4.0,9.0,2016/17
+374,Rotherham,Huddersfield,4.0,13.0,2016/17
+375,Sheffield Weds,Blackburn,7.0,5.0,2016/17
+376,Wolves,Wigan,5.0,4.0,2016/17
+377,Barnsley,Brighton,5.0,3.0,2016/17
+378,Birmingham,QPR,6.0,4.0,2016/17
+379,Burton,Norwich,3.0,6.0,2016/17
+380,Cardiff,Rotherham,3.0,1.0,2016/17
+381,Ipswich,Leeds,9.0,1.0,2016/17
+382,Nott'm Forest,Sheffield Weds,1.0,4.0,2016/17
+383,Wigan,Preston,5.0,3.0,2016/17
+384,Newcastle,Aston Villa,6.0,4.0,2016/17
+385,Derby,Burton,11.0,0.0,2016/17
+386,Huddersfield,Reading,8.0,3.0,2016/17
+387,QPR,Wigan,4.0,6.0,2016/17
+388,Sheffield Weds,Brentford,16.0,3.0,2016/17
+389,Bristol City,Fulham,5.0,5.0,2016/17
+390,Burton,Blackburn,1.0,8.0,2016/17
+391,Wolves,Birmingham,10.0,2.0,2016/17
+392,Aston Villa,Derby,4.0,8.0,2016/17
+393,Barnsley,Huddersfield,5.0,10.0,2016/17
+394,Brentford,Rotherham,9.0,7.0,2016/17
+395,Brighton,Reading,6.0,5.0,2016/17
+396,Cardiff,Fulham,3.0,4.0,2016/17
+397,Leeds,Sheffield Weds,2.0,5.0,2016/17
+398,Newcastle,Bristol City,13.0,4.0,2016/17
+399,Preston,QPR,8.0,1.0,2016/17
+400,Wigan,Nott'm Forest,5.0,7.0,2016/17
+401,Norwich,Ipswich,14.0,1.0,2016/17
+402,Aston Villa,Bristol City,5.0,8.0,2016/17
+403,Blackburn,Derby,5.0,3.0,2016/17
+404,Brighton,Newcastle,3.0,6.0,2016/17
+405,Birmingham,Leeds,8.0,0.0,2016/17
+406,Blackburn,Wigan,8.0,5.0,2016/17
+407,Bristol City,Burton,7.0,5.0,2016/17
+408,Derby,Barnsley,9.0,6.0,2016/17
+409,Fulham,Preston,9.0,1.0,2016/17
+410,Huddersfield,Newcastle,9.0,3.0,2016/17
+411,Ipswich,Brentford,2.0,10.0,2016/17
+412,Nott'm Forest,Brighton,4.0,5.0,2016/17
+413,QPR,Cardiff,5.0,6.0,2016/17
+414,Reading,Wolves,2.0,6.0,2016/17
+415,Rotherham,Aston Villa,5.0,5.0,2016/17
+416,Sheffield Weds,Norwich,3.0,3.0,2016/17
+417,Birmingham,Wigan,6.0,3.0,2016/17
+418,Blackburn,Cardiff,9.0,2.0,2016/17
+419,Bristol City,Norwich,8.0,2.0,2016/17
+420,Derby,Preston,3.0,3.0,2016/17
+421,Fulham,Leeds,14.0,4.0,2016/17
+422,Huddersfield,Aston Villa,2.0,4.0,2016/17
+423,Ipswich,Wolves,7.0,8.0,2016/17
+424,Nott'm Forest,Brentford,6.0,1.0,2016/17
+425,QPR,Barnsley,8.0,4.0,2016/17
+426,Reading,Newcastle,7.0,5.0,2016/17
+427,Rotherham,Brighton,2.0,8.0,2016/17
+428,Sheffield Weds,Burton,11.0,4.0,2016/17
+429,Brighton,Derby,8.0,2.0,2016/17
+430,Aston Villa,Sheffield Weds,5.0,4.0,2016/17
+431,Barnsley,Ipswich,4.0,8.0,2016/17
+432,Brentford,Huddersfield,7.0,6.0,2016/17
+433,Burton,Nott'm Forest,4.0,5.0,2016/17
+434,Cardiff,Birmingham,7.0,3.0,2016/17
+435,Leeds,QPR,6.0,5.0,2016/17
+436,Newcastle,Fulham,8.0,4.0,2016/17
+437,Norwich,Blackburn,3.0,1.0,2016/17
+438,Preston,Reading,1.0,5.0,2016/17
+439,Wigan,Bristol City,8.0,9.0,2016/17
+440,Wolves,Rotherham,8.0,3.0,2016/17
+441,Brentford,Wolves,3.0,7.0,2016/17
+442,Fulham,Blackburn,7.0,6.0,2016/17
+443,Bristol City,Huddersfield,1.0,1.0,2016/17
+444,Sheffield Weds,Reading,11.0,3.0,2016/17
+445,Birmingham,Newcastle,3.0,5.0,2016/17
+446,Blackburn,Preston,3.0,5.0,2016/17
+447,Burton,Brentford,5.0,6.0,2016/17
+448,Cardiff,Ipswich,3.0,4.0,2016/17
+449,Fulham,Wolves,5.0,2.0,2016/17
+450,Leeds,Brighton,3.0,8.0,2016/17
+451,Norwich,Barnsley,4.0,7.0,2016/17
+452,Nott'm Forest,Derby,5.0,5.0,2016/17
+453,QPR,Rotherham,2.0,2.0,2016/17
+454,Wigan,Aston Villa,9.0,7.0,2016/17
+455,Derby,QPR,6.0,2.0,2016/17
+456,Aston Villa,Norwich,2.0,10.0,2016/17
+457,Barnsley,Sheffield Weds,3.0,1.0,2016/17
+458,Brentford,Bristol City,6.0,3.0,2016/17
+459,Brighton,Blackburn,5.0,6.0,2016/17
+460,Huddersfield,Burton,9.0,4.0,2016/17
+461,Ipswich,Birmingham,5.0,4.0,2016/17
+462,Newcastle,Wigan,6.0,4.0,2016/17
+463,Preston,Nott'm Forest,4.0,1.0,2016/17
+464,Reading,Leeds,2.0,6.0,2016/17
+465,Rotherham,Fulham,5.0,4.0,2016/17
+466,Wolves,Cardiff,4.0,6.0,2016/17
+467,Aston Villa,QPR,5.0,6.0,2016/17
+468,Barnsley,Cardiff,9.0,2.0,2016/17
+469,Brentford,Leeds,4.0,8.0,2016/17
+470,Brighton,Birmingham,3.0,8.0,2016/17
+471,Derby,Fulham,2.0,2.0,2016/17
+472,Ipswich,Wigan,6.0,5.0,2016/17
+473,Preston,Bristol City,10.0,3.0,2016/17
+474,Reading,Blackburn,1.0,5.0,2016/17
+475,Rotherham,Sheffield Weds,4.0,2.0,2016/17
+476,Wolves,Nott'm Forest,5.0,4.0,2016/17
+477,Huddersfield,Norwich,5.0,3.0,2016/17
+478,Newcastle,Burton,4.0,3.0,2016/17
+479,QPR,Brighton,5.0,8.0,2016/17
+480,Birmingham,Derby,9.0,3.0,2016/17
+481,Blackburn,Barnsley,9.0,5.0,2016/17
+482,Bristol City,Wolves,3.0,5.0,2016/17
+483,Burton,Aston Villa,8.0,3.0,2016/17
+484,Cardiff,Brentford,3.0,4.0,2016/17
+485,Fulham,Ipswich,7.0,4.0,2016/17
+486,Leeds,Preston,4.0,7.0,2016/17
+487,Norwich,Reading,5.0,1.0,2016/17
+488,Nott'm Forest,Huddersfield,7.0,4.0,2016/17
+489,Sheffield Weds,Newcastle,3.0,4.0,2016/17
+490,Wigan,Rotherham,8.0,2.0,2016/17
+491,Wigan,Barnsley,6.0,1.0,2016/17
+492,Brentford,Derby,1.0,6.0,2016/17
+493,Bristol City,QPR,4.0,3.0,2016/17
+494,Burton,Ipswich,7.0,5.0,2016/17
+495,Huddersfield,Preston,6.0,0.0,2016/17
+496,Newcastle,Leeds,19.0,0.0,2016/17
+497,Norwich,Fulham,14.0,2.0,2016/17
+498,Nott'm Forest,Blackburn,7.0,4.0,2016/17
+499,Rotherham,Birmingham,3.0,4.0,2016/17
+500,Sheffield Weds,Cardiff,2.0,3.0,2016/17
+501,Wolves,Brighton,6.0,3.0,2016/17
+502,Aston Villa,Reading,6.0,6.0,2016/17
+503,Barnsley,Brentford,9.0,4.0,2016/17
+504,Birmingham,Burton,3.0,3.0,2016/17
+505,Blackburn,Bristol City,3.0,1.0,2016/17
+506,Brighton,Wigan,10.0,1.0,2016/17
+507,Cardiff,Nott'm Forest,1.0,7.0,2016/17
+508,Derby,Huddersfield,6.0,2.0,2016/17
+509,Fulham,Aston Villa,10.0,5.0,2016/17
+510,Ipswich,Newcastle,2.0,7.0,2016/17
+511,Leeds,Wolves,10.0,5.0,2016/17
+512,Preston,Norwich,6.0,8.0,2016/17
+513,QPR,Sheffield Weds,6.0,6.0,2016/17
+514,Reading,Rotherham,13.0,4.0,2016/17
+515,Norwich,Brighton,2.0,5.0,2016/17
+516,Brentford,QPR,5.0,6.0,2016/17
+517,Bristol City,Barnsley,11.0,4.0,2016/17
+518,Burton,Leeds,6.0,8.0,2016/17
+519,Huddersfield,Fulham,6.0,0.0,2016/17
+520,Nott'm Forest,Reading,11.0,4.0,2016/17
+521,Rotherham,Ipswich,6.0,7.0,2016/17
+522,Sheffield Weds,Derby,2.0,4.0,2016/17
+523,Wigan,Cardiff,10.0,4.0,2016/17
+524,Wolves,Blackburn,0.0,5.0,2016/17
+525,Aston Villa,Birmingham,1.0,3.0,2016/17
+526,Newcastle,Preston,16.0,1.0,2016/17
+527,Wolves,Huddersfield,3.0,4.0,2016/17
+528,Cardiff,Newcastle,5.0,4.0,2016/17
+529,Barnsley,Burton,6.0,3.0,2016/17
+530,Birmingham,Huddersfield,1.0,5.0,2016/17
+531,Blackburn,Aston Villa,7.0,1.0,2016/17
+532,Brighton,Bristol City,4.0,2.0,2016/17
+533,Derby,Wolves,4.0,2.0,2016/17
+534,Fulham,Brentford,11.0,1.0,2016/17
+535,Ipswich,Sheffield Weds,1.0,6.0,2016/17
+536,Leeds,Norwich,4.0,2.0,2016/17
+537,Preston,Rotherham,7.0,5.0,2016/17
+538,QPR,Nott'm Forest,5.0,8.0,2016/17
+539,Reading,Wigan,3.0,8.0,2016/17
+540,Aston Villa,Brighton,7.0,3.0,2016/17
+541,Brentford,Blackburn,10.0,4.0,2016/17
+542,Bristol City,Birmingham,7.0,6.0,2016/17
+543,Burton,Reading,9.0,4.0,2016/17
+544,Huddersfield,Cardiff,2.0,1.0,2016/17
+545,Newcastle,Barnsley,10.0,4.0,2016/17
+546,Norwich,QPR,12.0,4.0,2016/17
+547,Nott'm Forest,Ipswich,5.0,2.0,2016/17
+548,Rotherham,Derby,0.0,6.0,2016/17
+549,Sheffield Weds,Fulham,2.0,10.0,2016/17
+550,Wigan,Leeds,1.0,5.0,2016/17
+551,Wolves,Preston,5.0,3.0,2016/17
+0,Brighton,Nott'm Forest,10.0,3.0,2015/16
+1,Birmingham,Reading,2.0,5.0,2015/16
+2,Blackburn,Wolves,4.0,3.0,2015/16
+3,Bolton,Derby,4.0,9.0,2015/16
+4,Brentford,Ipswich,9.0,5.0,2015/16
+5,Cardiff,Fulham,7.0,3.0,2015/16
+6,Charlton,QPR,3.0,11.0,2015/16
+7,Hull,Huddersfield,8.0,4.0,2015/16
+8,Leeds,Burnley,4.0,4.0,2015/16
+9,Rotherham,Milton Keynes Dons,12.0,2.0,2015/16
+10,Sheffield Weds,Bristol City,7.0,2.0,2015/16
+11,Preston,Middlesbrough,1.0,1.0,2015/16
+12,Bristol City,Brentford,4.0,4.0,2015/16
+13,Burnley,Birmingham,8.0,5.0,2015/16
+14,Derby,Charlton,14.0,4.0,2015/16
+15,Fulham,Brighton,4.0,9.0,2015/16
+16,Huddersfield,Blackburn,7.0,3.0,2015/16
+17,Ipswich,Sheffield Weds,13.0,8.0,2015/16
+18,Middlesbrough,Bolton,7.0,3.0,2015/16
+19,Milton Keynes Dons,Preston,10.0,6.0,2015/16
+20,Nott'm Forest,Rotherham,11.0,7.0,2015/16
+21,QPR,Cardiff,9.0,5.0,2015/16
+22,Reading,Leeds,5.0,4.0,2015/16
+23,Wolves,Hull,6.0,2.0,2015/16
+24,Blackburn,Cardiff,4.0,4.0,2015/16
+25,Derby,Middlesbrough,4.0,3.0,2015/16
+26,Huddersfield,Brighton,6.0,3.0,2015/16
+27,Ipswich,Burnley,9.0,3.0,2015/16
+28,Milton Keynes Dons,Bolton,2.0,13.0,2015/16
+29,Nott'm Forest,Charlton,4.0,4.0,2015/16
+30,Rotherham,Preston,1.0,4.0,2015/16
+31,Bristol City,Leeds,8.0,3.0,2015/16
+32,Hull,Fulham,6.0,1.0,2015/16
+33,Sheffield Weds,Reading,1.0,5.0,2015/16
+34,Wolves,QPR,5.0,2.0,2015/16
+35,Birmingham,Derby,5.0,8.0,2015/16
+36,Bolton,Nott'm Forest,8.0,3.0,2015/16
+37,Brighton,Blackburn,4.0,6.0,2015/16
+38,Burnley,Brentford,10.0,1.0,2015/16
+39,Cardiff,Wolves,3.0,4.0,2015/16
+40,Charlton,Hull,5.0,4.0,2015/16
+41,Fulham,Huddersfield,10.0,9.0,2015/16
+42,Leeds,Sheffield Weds,3.0,4.0,2015/16
+43,Middlesbrough,Bristol City,8.0,1.0,2015/16
+44,Preston,Ipswich,3.0,4.0,2015/16
+45,QPR,Rotherham,5.0,6.0,2015/16
+46,Reading,Milton Keynes Dons,8.0,2.0,2015/16
+47,Blackburn,Bolton,9.0,6.0,2015/16
+48,Brentford,Reading,4.0,4.0,2015/16
+49,Bristol City,Burnley,5.0,5.0,2015/16
+50,Derby,Leeds,6.0,7.0,2015/16
+51,Huddersfield,QPR,8.0,2.0,2015/16
+52,Hull,Preston,6.0,6.0,2015/16
+53,Ipswich,Brighton,5.0,5.0,2015/16
+54,Milton Keynes Dons,Birmingham,3.0,4.0,2015/16
+55,Nott'm Forest,Cardiff,11.0,2.0,2015/16
+56,Rotherham,Fulham,2.0,6.0,2015/16
+57,Sheffield Weds,Middlesbrough,5.0,9.0,2015/16
+58,Wolves,Charlton,4.0,3.0,2015/16
+59,Reading,Ipswich,3.0,2.0,2015/16
+60,Birmingham,Bristol City,6.0,3.0,2015/16
+61,Bolton,Wolves,8.0,9.0,2015/16
+62,Brighton,Hull,3.0,5.0,2015/16
+63,Burnley,Sheffield Weds,5.0,6.0,2015/16
+64,Cardiff,Huddersfield,1.0,5.0,2015/16
+65,Charlton,Rotherham,8.0,6.0,2015/16
+66,Leeds,Brentford,2.0,4.0,2015/16
+67,Middlesbrough,Milton Keynes Dons,8.0,6.0,2015/16
+68,Preston,Derby,5.0,1.0,2015/16
+69,QPR,Nott'm Forest,4.0,4.0,2015/16
+70,Fulham,Blackburn,4.0,7.0,2015/16
+71,Birmingham,Nott'm Forest,3.0,6.0,2015/16
+72,Bolton,Sheffield Weds,6.0,2.0,2015/16
+73,Brighton,Rotherham,7.0,3.0,2015/16
+74,Burnley,Milton Keynes Dons,8.0,3.0,2015/16
+75,Cardiff,Hull,12.0,3.0,2015/16
+76,Charlton,Huddersfield,2.0,8.0,2015/16
+77,Leeds,Ipswich,5.0,3.0,2015/16
+78,Middlesbrough,Brentford,4.0,1.0,2015/16
+79,Preston,Bristol City,5.0,12.0,2015/16
+80,Reading,Derby,7.0,5.0,2015/16
+81,QPR,Blackburn,11.0,13.0,2015/16
+82,Ipswich,Birmingham,7.0,1.0,2015/16
+83,Blackburn,Charlton,11.0,7.0,2015/16
+84,Brentford,Preston,6.0,5.0,2015/16
+85,Bristol City,Reading,11.0,4.0,2015/16
+86,Huddersfield,Bolton,2.0,1.0,2015/16
+87,Hull,QPR,12.0,4.0,2015/16
+88,Milton Keynes Dons,Leeds,13.0,3.0,2015/16
+89,Nott'm Forest,Middlesbrough,11.0,1.0,2015/16
+90,Rotherham,Cardiff,5.0,4.0,2015/16
+91,Sheffield Weds,Fulham,6.0,1.0,2015/16
+92,Wolves,Brighton,3.0,4.0,2015/16
+93,Derby,Burnley,7.0,5.0,2015/16
+94,Huddersfield,Nott'm Forest,11.0,2.0,2015/16
+95,Fulham,QPR,5.0,2.0,2015/16
+96,Birmingham,Rotherham,8.0,2.0,2015/16
+97,Bolton,Brighton,9.0,4.0,2015/16
+98,Brentford,Sheffield Weds,6.0,3.0,2015/16
+99,Burnley,Reading,7.0,3.0,2015/16
+100,Cardiff,Charlton,9.0,4.0,2015/16
+101,Hull,Blackburn,6.0,7.0,2015/16
+102,Ipswich,Bristol City,11.0,7.0,2015/16
+103,Milton Keynes Dons,Derby,8.0,2.0,2015/16
+104,Preston,Wolves,3.0,7.0,2015/16
+105,Middlesbrough,Leeds,8.0,4.0,2015/16
+106,Brentford,Birmingham,5.0,6.0,2015/16
+107,Fulham,Wolves,1.0,3.0,2015/16
+108,Rotherham,Burnley,3.0,4.0,2015/16
+109,Blackburn,Ipswich,5.0,8.0,2015/16
+110,Brighton,Cardiff,11.0,2.0,2015/16
+111,Bristol City,Milton Keynes Dons,1.0,3.0,2015/16
+112,Derby,Brentford,12.0,3.0,2015/16
+113,Leeds,Birmingham,13.0,5.0,2015/16
+114,Nott'm Forest,Hull,9.0,8.0,2015/16
+115,QPR,Bolton,4.0,3.0,2015/16
+116,Reading,Middlesbrough,3.0,3.0,2015/16
+117,Sheffield Weds,Preston,6.0,8.0,2015/16
+118,Wolves,Huddersfield,6.0,4.0,2015/16
+119,Charlton,Fulham,10.0,5.0,2015/16
+120,Bristol City,Nott'm Forest,6.0,10.0,2015/16
+121,Birmingham,QPR,5.0,2.0,2015/16
+122,Brentford,Rotherham,5.0,4.0,2015/16
+123,Burnley,Bolton,5.0,4.0,2015/16
+124,Ipswich,Huddersfield,4.0,6.0,2015/16
+125,Leeds,Brighton,3.0,7.0,2015/16
+126,Middlesbrough,Fulham,6.0,1.0,2015/16
+127,Milton Keynes Dons,Blackburn,8.0,4.0,2015/16
+128,Preston,Cardiff,6.0,1.0,2015/16
+129,Reading,Charlton,7.0,1.0,2015/16
+130,Sheffield Weds,Hull,5.0,6.0,2015/16
+131,Derby,Wolves,7.0,2.0,2015/16
+132,Bolton,Birmingham,6.0,4.0,2015/16
+133,Brighton,Bristol City,4.0,5.0,2015/16
+134,Cardiff,Middlesbrough,5.0,6.0,2015/16
+135,Charlton,Preston,2.0,6.0,2015/16
+136,Huddersfield,Milton Keynes Dons,4.0,5.0,2015/16
+137,Hull,Ipswich,2.0,4.0,2015/16
+138,Nott'm Forest,Burnley,5.0,6.0,2015/16
+139,QPR,Sheffield Weds,5.0,4.0,2015/16
+140,Rotherham,Reading,6.0,6.0,2015/16
+141,Blackburn,Derby,6.0,2.0,2015/16
+142,Fulham,Leeds,3.0,6.0,2015/16
+143,Wolves,Brentford,4.0,3.0,2015/16
+144,Rotherham,Sheffield Weds,1.0,1.0,2015/16
+145,Blackburn,Burnley,4.0,0.0,2015/16
+146,Bolton,Leeds,4.0,7.0,2015/16
+147,Brighton,Preston,6.0,7.0,2015/16
+148,Charlton,Brentford,1.0,4.0,2015/16
+149,Fulham,Reading,10.0,3.0,2015/16
+150,Huddersfield,Derby,8.0,9.0,2015/16
+151,Hull,Birmingham,7.0,5.0,2015/16
+152,Nott'm Forest,Ipswich,8.0,4.0,2015/16
+153,QPR,Milton Keynes Dons,11.0,8.0,2015/16
+154,Wolves,Middlesbrough,7.0,3.0,2015/16
+155,Cardiff,Bristol City,4.0,9.0,2015/16
+156,Leeds,Blackburn,3.0,1.0,2015/16
+157,Brentford,QPR,2.0,1.0,2015/16
+158,Birmingham,Wolves,8.0,6.0,2015/16
+159,Bristol City,Fulham,7.0,1.0,2015/16
+160,Burnley,Huddersfield,4.0,13.0,2015/16
+161,Derby,Rotherham,8.0,0.0,2015/16
+162,Ipswich,Cardiff,3.0,4.0,2015/16
+163,Middlesbrough,Charlton,15.0,2.0,2015/16
+164,Milton Keynes Dons,Hull,4.0,1.0,2015/16
+165,Preston,Bolton,9.0,3.0,2015/16
+166,Reading,Brighton,4.0,9.0,2015/16
+167,Sheffield Weds,Nott'm Forest,6.0,2.0,2015/16
+168,Birmingham,Blackburn,12.0,2.0,2015/16
+169,Brentford,Hull,1.0,9.0,2015/16
+170,Bristol City,Wolves,1.0,7.0,2015/16
+171,Burnley,Fulham,5.0,11.0,2015/16
+172,Derby,QPR,8.0,4.0,2015/16
+173,Ipswich,Bolton,6.0,6.0,2015/16
+174,Leeds,Cardiff,3.0,4.0,2015/16
+175,Middlesbrough,Rotherham,4.0,2.0,2015/16
+176,Milton Keynes Dons,Charlton,4.0,3.0,2015/16
+177,Preston,Nott'm Forest,0.0,6.0,2015/16
+178,Reading,Huddersfield,5.0,2.0,2015/16
+179,Sheffield Weds,Brighton,4.0,2.0,2015/16
+180,Nott'm Forest,Derby,2.0,5.0,2015/16
+181,Blackburn,Brentford,8.0,3.0,2015/16
+182,Bolton,Bristol City,2.0,6.0,2015/16
+183,Brighton,Milton Keynes Dons,6.0,3.0,2015/16
+184,Cardiff,Reading,4.0,8.0,2015/16
+185,Charlton,Sheffield Weds,3.0,2.0,2015/16
+186,Fulham,Birmingham,3.0,6.0,2015/16
+187,Huddersfield,Leeds,3.0,6.0,2015/16
+188,Hull,Middlesbrough,7.0,3.0,2015/16
+189,QPR,Preston,5.0,4.0,2015/16
+190,Rotherham,Ipswich,5.0,6.0,2015/16
+191,Wolves,Burnley,3.0,1.0,2015/16
+192,Middlesbrough,QPR,9.0,3.0,2015/16
+193,Birmingham,Charlton,7.0,4.0,2015/16
+194,Brentford,Nott'm Forest,3.0,6.0,2015/16
+195,Bristol City,Hull,1.0,12.0,2015/16
+196,Derby,Cardiff,8.0,3.0,2015/16
+197,Ipswich,Wolves,3.0,3.0,2015/16
+198,Leeds,Rotherham,9.0,4.0,2015/16
+199,Milton Keynes Dons,Fulham,5.0,2.0,2015/16
+200,Preston,Blackburn,4.0,2.0,2015/16
+201,Reading,Bolton,10.0,3.0,2015/16
+202,Sheffield Weds,Huddersfield,3.0,6.0,2015/16
+203,Burnley,Brighton,8.0,5.0,2015/16
+204,Hull,Derby,10.0,4.0,2015/16
+205,Blackburn,Sheffield Weds,8.0,3.0,2015/16
+206,Brighton,Birmingham,9.0,6.0,2015/16
+207,Cardiff,Burnley,8.0,4.0,2015/16
+208,Charlton,Ipswich,7.0,4.0,2015/16
+209,Fulham,Preston,3.0,6.0,2015/16
+210,Huddersfield,Middlesbrough,3.0,2.0,2015/16
+211,Nott'm Forest,Reading,4.0,9.0,2015/16
+212,QPR,Leeds,8.0,1.0,2015/16
+213,Rotherham,Bristol City,2.0,5.0,2015/16
+214,Wolves,Milton Keynes Dons,5.0,1.0,2015/16
+215,Bolton,Brentford,10.0,4.0,2015/16
+216,Reading,QPR,3.0,7.0,2015/16
+217,Ipswich,Middlesbrough,5.0,3.0,2015/16
+218,Birmingham,Huddersfield,8.0,5.0,2015/16
+219,Bolton,Cardiff,4.0,5.0,2015/16
+220,Brentford,Milton Keynes Dons,7.0,4.0,2015/16
+221,Brighton,Charlton,11.0,1.0,2015/16
+222,Bristol City,Blackburn,4.0,4.0,2015/16
+223,Burnley,Preston,9.0,3.0,2015/16
+224,Leeds,Hull,2.0,6.0,2015/16
+225,Nott'm Forest,Fulham,6.0,7.0,2015/16
+226,Rotherham,Wolves,5.0,7.0,2015/16
+227,Sheffield Weds,Derby,5.0,2.0,2015/16
+228,Blackburn,Rotherham,7.0,4.0,2015/16
+229,Wolves,Nott'm Forest,7.0,5.0,2015/16
+230,Cardiff,Sheffield Weds,3.0,6.0,2015/16
+231,Charlton,Leeds,4.0,8.0,2015/16
+232,Derby,Brighton,7.0,4.0,2015/16
+233,Fulham,Brentford,10.0,4.0,2015/16
+234,Huddersfield,Bristol City,7.0,2.0,2015/16
+235,Hull,Bolton,2.0,1.0,2015/16
+236,Middlesbrough,Birmingham,8.0,7.0,2015/16
+237,Milton Keynes Dons,Ipswich,14.0,2.0,2015/16
+238,Preston,Reading,4.0,4.0,2015/16
+239,QPR,Burnley,6.0,5.0,2015/16
+240,Blackburn,Nott'm Forest,8.0,1.0,2015/16
+241,Cardiff,Brentford,4.0,9.0,2015/16
+242,Charlton,Bolton,3.0,8.0,2015/16
+243,Derby,Bristol City,5.0,3.0,2015/16
+244,Fulham,Ipswich,10.0,5.0,2015/16
+245,Huddersfield,Rotherham,5.0,4.0,2015/16
+246,Middlesbrough,Burnley,7.0,2.0,2015/16
+247,Milton Keynes Dons,Sheffield Weds,6.0,3.0,2015/16
+248,Preston,Birmingham,5.0,7.0,2015/16
+249,QPR,Brighton,10.0,7.0,2015/16
+250,Hull,Reading,6.0,3.0,2015/16
+251,Wolves,Leeds,6.0,2.0,2015/16
+252,Birmingham,Cardiff,7.0,4.0,2015/16
+253,Bolton,Fulham,5.0,5.0,2015/16
+254,Brentford,Huddersfield,5.0,5.0,2015/16
+255,Brighton,Middlesbrough,3.0,4.0,2015/16
+256,Bristol City,QPR,7.0,5.0,2015/16
+257,Burnley,Charlton,7.0,5.0,2015/16
+258,Ipswich,Derby,9.0,3.0,2015/16
+259,Nott'm Forest,Milton Keynes Dons,4.0,6.0,2015/16
+260,Rotherham,Hull,3.0,10.0,2015/16
+261,Leeds,Preston,8.0,5.0,2015/16
+262,Reading,Blackburn,6.0,1.0,2015/16
+263,Sheffield Weds,Wolves,2.0,3.0,2015/16
+264,Brentford,Brighton,10.0,1.0,2015/16
+265,Bristol City,Charlton,7.0,3.0,2015/16
+266,Derby,Fulham,4.0,4.0,2015/16
+267,Huddersfield,Preston,4.0,4.0,2015/16
+268,Hull,Burnley,8.0,2.0,2015/16
+269,Ipswich,QPR,6.0,5.0,2015/16
+270,Milton Keynes Dons,Cardiff,1.0,3.0,2015/16
+271,Rotherham,Bolton,12.0,1.0,2015/16
+272,Sheffield Weds,Birmingham,3.0,4.0,2015/16
+273,Wolves,Reading,9.0,8.0,2015/16
+274,Nott'm Forest,Leeds,5.0,6.0,2015/16
+275,Birmingham,Milton Keynes Dons,11.0,2.0,2015/16
+276,Bolton,Blackburn,2.0,7.0,2015/16
+277,Burnley,Bristol City,8.0,3.0,2015/16
+278,Charlton,Wolves,6.0,8.0,2015/16
+279,Middlesbrough,Sheffield Weds,3.0,5.0,2015/16
+280,Preston,Hull,2.0,6.0,2015/16
+281,QPR,Huddersfield,4.0,8.0,2015/16
+282,Reading,Brentford,12.0,3.0,2015/16
+283,Brighton,Ipswich,5.0,8.0,2015/16
+284,Cardiff,Nott'm Forest,4.0,1.0,2015/16
+285,Fulham,Rotherham,4.0,8.0,2015/16
+286,Leeds,Derby,3.0,9.0,2015/16
+287,Brighton,Wolves,10.0,4.0,2015/16
+288,QPR,Hull,6.0,8.0,2015/16
+289,Birmingham,Brentford,0.0,5.0,2015/16
+290,Bolton,Huddersfield,2.0,7.0,2015/16
+291,Burnley,Ipswich,2.0,8.0,2015/16
+292,Cardiff,Blackburn,6.0,5.0,2015/16
+293,Charlton,Nott'm Forest,6.0,8.0,2015/16
+294,Fulham,Sheffield Weds,4.0,7.0,2015/16
+295,Leeds,Milton Keynes Dons,6.0,5.0,2015/16
+296,Middlesbrough,Derby,5.0,7.0,2015/16
+297,Preston,Rotherham,7.0,5.0,2015/16
+298,Reading,Bristol City,6.0,5.0,2015/16
+299,Blackburn,QPR,7.0,3.0,2015/16
+300,Brentford,Middlesbrough,11.0,5.0,2015/16
+301,Bristol City,Preston,8.0,2.0,2015/16
+302,Derby,Reading,4.0,7.0,2015/16
+303,Huddersfield,Charlton,7.0,3.0,2015/16
+304,Ipswich,Leeds,7.0,2.0,2015/16
+305,Milton Keynes Dons,Burnley,4.0,4.0,2015/16
+306,Nott'm Forest,Birmingham,0.0,4.0,2015/16
+307,Rotherham,Brighton,3.0,7.0,2015/16
+308,Sheffield Weds,Bolton,2.0,0.0,2015/16
+309,Wolves,Fulham,4.0,5.0,2015/16
+310,Hull,Cardiff,6.0,1.0,2015/16
+311,Brentford,Burnley,3.0,3.0,2015/16
+312,Blackburn,Brighton,5.0,6.0,2015/16
+313,Bristol City,Middlesbrough,7.0,3.0,2015/16
+314,Derby,Birmingham,6.0,3.0,2015/16
+315,Huddersfield,Fulham,7.0,2.0,2015/16
+316,Hull,Charlton,6.0,1.0,2015/16
+317,Ipswich,Preston,5.0,2.0,2015/16
+318,Milton Keynes Dons,Reading,7.0,8.0,2015/16
+319,Nott'm Forest,Bolton,5.0,4.0,2015/16
+320,Rotherham,QPR,9.0,2.0,2015/16
+321,Sheffield Weds,Leeds,2.0,7.0,2015/16
+322,Wolves,Cardiff,7.0,5.0,2015/16
+323,Birmingham,Ipswich,5.0,4.0,2015/16
+324,Bolton,Milton Keynes Dons,9.0,10.0,2015/16
+325,Brighton,Huddersfield,1.0,5.0,2015/16
+326,Cardiff,Rotherham,5.0,4.0,2015/16
+327,Charlton,Blackburn,1.0,4.0,2015/16
+328,Fulham,Hull,4.0,4.0,2015/16
+329,Leeds,Bristol City,6.0,5.0,2015/16
+330,Middlesbrough,Nott'm Forest,4.0,3.0,2015/16
+331,Preston,Brentford,3.0,2.0,2015/16
+332,QPR,Wolves,6.0,1.0,2015/16
+333,Reading,Sheffield Weds,7.0,6.0,2015/16
+334,Burnley,Derby,3.0,11.0,2015/16
+335,Brentford,Leeds,4.0,4.0,2015/16
+336,Nott'm Forest,QPR,6.0,7.0,2015/16
+337,Bristol City,Birmingham,3.0,0.0,2015/16
+338,Huddersfield,Cardiff,4.0,2.0,2015/16
+339,Rotherham,Charlton,4.0,3.0,2015/16
+340,Derby,Preston,10.0,2.0,2015/16
+341,Ipswich,Reading,12.0,2.0,2015/16
+342,Sheffield Weds,Burnley,3.0,2.0,2015/16
+343,Wolves,Bolton,4.0,5.0,2015/16
+344,Brighton,Brentford,3.0,6.0,2015/16
+345,Birmingham,Sheffield Weds,6.0,8.0,2015/16
+346,Bolton,Rotherham,7.0,6.0,2015/16
+347,Burnley,Hull,8.0,6.0,2015/16
+348,Cardiff,Milton Keynes Dons,10.0,5.0,2015/16
+349,Charlton,Bristol City,4.0,5.0,2015/16
+350,Fulham,Derby,5.0,5.0,2015/16
+351,Leeds,Nott'm Forest,5.0,1.0,2015/16
+352,Middlesbrough,Blackburn,6.0,6.0,2015/16
+353,Preston,Huddersfield,2.0,5.0,2015/16
+354,QPR,Ipswich,5.0,6.0,2015/16
+355,Reading,Wolves,8.0,7.0,2015/16
+356,Milton Keynes Dons,Middlesbrough,4.0,10.0,2015/16
+357,Blackburn,Hull,7.0,2.0,2015/16
+358,Brighton,Bolton,5.0,2.0,2015/16
+359,Bristol City,Ipswich,13.0,6.0,2015/16
+360,Charlton,Cardiff,4.0,8.0,2015/16
+361,Derby,Milton Keynes Dons,7.0,4.0,2015/16
+362,Nott'm Forest,Huddersfield,5.0,3.0,2015/16
+363,QPR,Fulham,11.0,5.0,2015/16
+364,Reading,Burnley,4.0,4.0,2015/16
+365,Rotherham,Birmingham,7.0,2.0,2015/16
+366,Sheffield Weds,Brentford,5.0,1.0,2015/16
+367,Wolves,Preston,3.0,3.0,2015/16
+368,Leeds,Middlesbrough,10.0,3.0,2015/16
+369,Blackburn,Fulham,4.0,5.0,2015/16
+370,Hull,Brighton,4.0,2.0,2015/16
+371,Bolton,QPR,2.0,4.0,2015/16
+372,Brentford,Derby,7.0,3.0,2015/16
+373,Burnley,Rotherham,6.0,1.0,2015/16
+374,Cardiff,Brighton,3.0,6.0,2015/16
+375,Fulham,Charlton,9.0,6.0,2015/16
+376,Huddersfield,Wolves,4.0,6.0,2015/16
+377,Milton Keynes Dons,Bristol City,2.0,3.0,2015/16
+378,Preston,Sheffield Weds,7.0,5.0,2015/16
+379,Birmingham,Bolton,6.0,3.0,2015/16
+380,Brentford,Wolves,10.0,4.0,2015/16
+381,Bristol City,Brighton,9.0,3.0,2015/16
+382,Burnley,Nott'm Forest,6.0,6.0,2015/16
+383,Ipswich,Hull,4.0,4.0,2015/16
+384,Leeds,Fulham,5.0,6.0,2015/16
+385,Middlesbrough,Cardiff,4.0,5.0,2015/16
+386,Milton Keynes Dons,Huddersfield,3.0,4.0,2015/16
+387,Preston,Charlton,2.0,3.0,2015/16
+388,Reading,Rotherham,4.0,3.0,2015/16
+389,Sheffield Weds,QPR,9.0,4.0,2015/16
+390,Derby,Blackburn,1.0,2.0,2015/16
+391,Hull,Sheffield Weds,5.0,2.0,2015/16
+392,Blackburn,Milton Keynes Dons,6.0,2.0,2015/16
+393,Bolton,Burnley,10.0,3.0,2015/16
+394,Cardiff,Preston,2.0,2.0,2015/16
+395,Charlton,Reading,2.0,7.0,2015/16
+396,Fulham,Middlesbrough,3.0,11.0,2015/16
+397,Huddersfield,Ipswich,4.0,1.0,2015/16
+398,Nott'm Forest,Bristol City,1.0,6.0,2015/16
+399,QPR,Birmingham,6.0,6.0,2015/16
+400,Rotherham,Brentford,6.0,2.0,2015/16
+401,Wolves,Derby,3.0,3.0,2015/16
+402,Brighton,Leeds,5.0,8.0,2015/16
+403,Blackburn,Middlesbrough,3.0,4.0,2015/16
+404,Birmingham,Hull,4.0,4.0,2015/16
+405,Middlesbrough,Wolves,6.0,5.0,2015/16
+406,Brentford,Charlton,11.0,7.0,2015/16
+407,Bristol City,Cardiff,7.0,2.0,2015/16
+408,Burnley,Blackburn,4.0,8.0,2015/16
+409,Derby,Huddersfield,5.0,5.0,2015/16
+410,Ipswich,Nott'm Forest,4.0,7.0,2015/16
+411,Leeds,Bolton,12.0,9.0,2015/16
+412,Milton Keynes Dons,QPR,6.0,4.0,2015/16
+413,Preston,Brighton,7.0,5.0,2015/16
+414,Reading,Fulham,7.0,5.0,2015/16
+415,Sheffield Weds,Rotherham,6.0,2.0,2015/16
+416,Blackburn,Birmingham,5.0,5.0,2015/16
+417,Bolton,Ipswich,9.0,2.0,2015/16
+418,Brighton,Sheffield Weds,5.0,8.0,2015/16
+419,Cardiff,Leeds,13.0,3.0,2015/16
+420,Charlton,Milton Keynes Dons,8.0,7.0,2015/16
+421,Fulham,Burnley,5.0,6.0,2015/16
+422,Huddersfield,Reading,5.0,3.0,2015/16
+423,Nott'm Forest,Preston,3.0,8.0,2015/16
+424,QPR,Derby,2.0,11.0,2015/16
+425,Rotherham,Middlesbrough,8.0,2.0,2015/16
+426,Wolves,Bristol City,4.0,8.0,2015/16
+427,Blackburn,Leeds,8.0,4.0,2015/16
+428,Bolton,Preston,7.0,2.0,2015/16
+429,Cardiff,Ipswich,6.0,9.0,2015/16
+430,Fulham,Bristol City,3.0,5.0,2015/16
+431,Huddersfield,Burnley,4.0,3.0,2015/16
+432,Hull,Milton Keynes Dons,8.0,2.0,2015/16
+433,Nott'm Forest,Sheffield Weds,8.0,5.0,2015/16
+434,QPR,Brentford,3.0,5.0,2015/16
+435,Rotherham,Derby,6.0,5.0,2015/16
+436,Charlton,Middlesbrough,2.0,12.0,2015/16
+437,Wolves,Birmingham,2.0,10.0,2015/16
+438,Brighton,Reading,4.0,1.0,2015/16
+439,Hull,Nott'm Forest,8.0,4.0,2015/16
+440,Ipswich,Blackburn,3.0,5.0,2015/16
+441,Middlesbrough,Hull,4.0,5.0,2015/16
+442,Birmingham,Fulham,6.0,3.0,2015/16
+443,Brentford,Blackburn,6.0,4.0,2015/16
+444,Bristol City,Bolton,2.0,3.0,2015/16
+445,Burnley,Wolves,3.0,7.0,2015/16
+446,Derby,Nott'm Forest,2.0,7.0,2015/16
+447,Ipswich,Rotherham,10.0,1.0,2015/16
+448,Leeds,Huddersfield,0.0,6.0,2015/16
+449,Milton Keynes Dons,Brighton,7.0,4.0,2015/16
+450,Preston,QPR,10.0,3.0,2015/16
+451,Reading,Cardiff,3.0,1.0,2015/16
+452,Sheffield Weds,Charlton,7.0,1.0,2015/16
+453,QPR,Middlesbrough,3.0,6.0,2015/16
+454,Blackburn,Preston,4.0,4.0,2015/16
+455,Bolton,Reading,3.0,7.0,2015/16
+456,Brighton,Burnley,4.0,9.0,2015/16
+457,Cardiff,Derby,6.0,2.0,2015/16
+458,Charlton,Birmingham,8.0,3.0,2015/16
+459,Fulham,Milton Keynes Dons,5.0,6.0,2015/16
+460,Huddersfield,Sheffield Weds,6.0,2.0,2015/16
+461,Hull,Bristol City,10.0,1.0,2015/16
+462,Nott'm Forest,Brentford,2.0,2.0,2015/16
+463,Rotherham,Leeds,3.0,6.0,2015/16
+464,Wolves,Ipswich,4.0,6.0,2015/16
+465,Birmingham,Brighton,1.0,6.0,2015/16
+466,Brentford,Bolton,6.0,5.0,2015/16
+467,Bristol City,Rotherham,7.0,1.0,2015/16
+468,Burnley,Cardiff,6.0,2.0,2015/16
+469,Derby,Hull,3.0,6.0,2015/16
+470,Ipswich,Charlton,3.0,8.0,2015/16
+471,Leeds,QPR,7.0,3.0,2015/16
+472,Middlesbrough,Huddersfield,5.0,1.0,2015/16
+473,Milton Keynes Dons,Wolves,8.0,5.0,2015/16
+474,Preston,Fulham,10.0,1.0,2015/16
+475,Reading,Nott'm Forest,6.0,2.0,2015/16
+476,Sheffield Weds,Blackburn,7.0,3.0,2015/16
+477,Bristol City,Sheffield Weds,2.0,4.0,2015/16
+478,Burnley,Leeds,2.0,11.0,2015/16
+479,Derby,Bolton,7.0,6.0,2015/16
+480,Fulham,Cardiff,7.0,6.0,2015/16
+481,Huddersfield,Hull,5.0,1.0,2015/16
+482,Ipswich,Brentford,8.0,2.0,2015/16
+483,Middlesbrough,Preston,4.0,4.0,2015/16
+484,Milton Keynes Dons,Rotherham,9.0,1.0,2015/16
+485,QPR,Charlton,6.0,4.0,2015/16
+486,Reading,Birmingham,7.0,0.0,2015/16
+487,Wolves,Blackburn,5.0,4.0,2015/16
+488,Nott'm Forest,Brighton,3.0,6.0,2015/16
+489,Birmingham,Leeds,9.0,5.0,2015/16
+490,Middlesbrough,Reading,13.0,4.0,2015/16
+491,Brighton,Fulham,8.0,3.0,2015/16
+492,Hull,Wolves,7.0,7.0,2015/16
+493,Birmingham,Burnley,6.0,3.0,2015/16
+494,Blackburn,Huddersfield,3.0,4.0,2015/16
+495,Bolton,Middlesbrough,1.0,11.0,2015/16
+496,Brentford,Bristol City,12.0,4.0,2015/16
+497,Cardiff,QPR,6.0,4.0,2015/16
+498,Charlton,Derby,6.0,11.0,2015/16
+499,Leeds,Reading,6.0,6.0,2015/16
+500,Preston,Milton Keynes Dons,5.0,9.0,2015/16
+501,Rotherham,Nott'm Forest,5.0,4.0,2015/16
+502,Sheffield Weds,Ipswich,7.0,4.0,2015/16
+503,Birmingham,Preston,4.0,4.0,2015/16
+504,Bolton,Charlton,7.0,4.0,2015/16
+505,Brentford,Cardiff,2.0,5.0,2015/16
+506,Brighton,QPR,4.0,3.0,2015/16
+507,Bristol City,Derby,4.0,6.0,2015/16
+508,Burnley,Middlesbrough,7.0,3.0,2015/16
+509,Ipswich,Fulham,4.0,7.0,2015/16
+510,Leeds,Wolves,5.0,2.0,2015/16
+511,Nott'm Forest,Blackburn,5.0,2.0,2015/16
+512,Reading,Hull,7.0,7.0,2015/16
+513,Rotherham,Huddersfield,7.0,2.0,2015/16
+514,Sheffield Weds,Milton Keynes Dons,10.0,2.0,2015/16
+515,Preston,Burnley,3.0,1.0,2015/16
+516,Blackburn,Bristol City,4.0,8.0,2015/16
+517,Cardiff,Bolton,7.0,5.0,2015/16
+518,Charlton,Brighton,6.0,6.0,2015/16
+519,Derby,Sheffield Weds,9.0,7.0,2015/16
+520,Fulham,Nott'm Forest,5.0,2.0,2015/16
+521,Huddersfield,Birmingham,15.0,2.0,2015/16
+522,Hull,Leeds,10.0,3.0,2015/16
+523,Middlesbrough,Ipswich,8.0,0.0,2015/16
+524,Milton Keynes Dons,Brentford,7.0,7.0,2015/16
+525,QPR,Reading,7.0,7.0,2015/16
+526,Wolves,Rotherham,6.0,4.0,2015/16
+527,Hull,Brentford,10.0,3.0,2015/16
+528,Birmingham,Middlesbrough,4.0,2.0,2015/16
+529,Bolton,Hull,3.0,11.0,2015/16
+530,Brentford,Fulham,6.0,3.0,2015/16
+531,Bristol City,Huddersfield,1.0,6.0,2015/16
+532,Ipswich,Milton Keynes Dons,6.0,2.0,2015/16
+533,Leeds,Charlton,9.0,4.0,2015/16
+534,Nott'm Forest,Wolves,6.0,7.0,2015/16
+535,Reading,Preston,6.0,6.0,2015/16
+536,Rotherham,Blackburn,3.0,5.0,2015/16
+537,Sheffield Weds,Cardiff,6.0,3.0,2015/16
+538,Brighton,Derby,11.0,7.0,2015/16
+539,Burnley,QPR,3.0,5.0,2015/16
+540,Blackburn,Reading,8.0,1.0,2015/16
+541,Cardiff,Birmingham,5.0,5.0,2015/16
+542,Charlton,Burnley,7.0,4.0,2015/16
+543,Derby,Ipswich,7.0,4.0,2015/16
+544,Fulham,Bolton,12.0,4.0,2015/16
+545,Huddersfield,Brentford,2.0,2.0,2015/16
+546,Hull,Rotherham,11.0,3.0,2015/16
+547,Middlesbrough,Brighton,4.0,4.0,2015/16
+548,Milton Keynes Dons,Nott'm Forest,7.0,5.0,2015/16
+549,Preston,Leeds,7.0,6.0,2015/16
+550,QPR,Bristol City,7.0,11.0,2015/16
+551,Wolves,Sheffield Weds,4.0,8.0,2015/16
+0,Blackburn,Cardiff,4.0,5.0,2014/15
+1,Brentford,Charlton,11.0,5.0,2014/15
+2,Brighton,Sheffield Weds,4.0,4.0,2014/15
+3,Derby,Rotherham,8.0,3.0,2014/15
+4,Huddersfield,Bournemouth,7.0,4.0,2014/15
+5,Ipswich,Fulham,5.0,3.0,2014/15
+6,Middlesbrough,Birmingham,11.0,2.0,2014/15
+7,Millwall,Leeds,4.0,5.0,2014/15
+8,Nott'm Forest,Blackpool,7.0,2.0,2014/15
+9,Watford,Bolton,4.0,7.0,2014/15
+10,Wigan,Reading,2.0,5.0,2014/15
+11,Wolves,Norwich,3.0,5.0,2014/15
+12,Birmingham,Brighton,2.0,6.0,2014/15
+13,Blackpool,Blackburn,7.0,5.0,2014/15
+14,Bolton,Nott'm Forest,2.0,10.0,2014/15
+15,Bournemouth,Brentford,13.0,6.0,2014/15
+16,Cardiff,Huddersfield,6.0,9.0,2014/15
+17,Charlton,Wigan,3.0,6.0,2014/15
+18,Fulham,Millwall,11.0,2.0,2014/15
+19,Leeds,Middlesbrough,4.0,4.0,2014/15
+20,Norwich,Watford,11.0,1.0,2014/15
+21,Reading,Ipswich,4.0,6.0,2014/15
+22,Rotherham,Wolves,4.0,9.0,2014/15
+23,Sheffield Weds,Derby,9.0,4.0,2014/15
+24,Birmingham,Ipswich,3.0,5.0,2014/15
+25,Blackpool,Brentford,4.0,5.0,2014/15
+26,Bolton,Middlesbrough,3.0,3.0,2014/15
+27,Bournemouth,Nott'm Forest,17.0,2.0,2014/15
+28,Cardiff,Wigan,6.0,8.0,2014/15
+29,Charlton,Derby,0.0,4.0,2014/15
+30,Leeds,Brighton,2.0,2.0,2014/15
+31,Norwich,Blackburn,13.0,6.0,2014/15
+32,Reading,Huddersfield,5.0,2.0,2014/15
+33,Rotherham,Watford,2.0,2.0,2014/15
+34,Sheffield Weds,Millwall,8.0,5.0,2014/15
+35,Fulham,Wolves,7.0,6.0,2014/15
+36,Blackburn,Bournemouth,3.0,13.0,2014/15
+37,Brentford,Birmingham,8.0,10.0,2014/15
+38,Brighton,Bolton,3.0,4.0,2014/15
+39,Derby,Fulham,4.0,5.0,2014/15
+40,Huddersfield,Charlton,9.0,9.0,2014/15
+41,Ipswich,Norwich,5.0,3.0,2014/15
+42,Middlesbrough,Sheffield Weds,6.0,5.0,2014/15
+43,Millwall,Rotherham,10.0,6.0,2014/15
+44,Nott'm Forest,Reading,6.0,9.0,2014/15
+45,Watford,Leeds,5.0,1.0,2014/15
+46,Wigan,Blackpool,6.0,3.0,2014/15
+47,Wolves,Cardiff,7.0,3.0,2014/15
+48,Brighton,Charlton,12.0,2.0,2014/15
+49,Derby,Ipswich,7.0,11.0,2014/15
+50,Fulham,Cardiff,9.0,5.0,2014/15
+51,Leeds,Bolton,5.0,8.0,2014/15
+52,Middlesbrough,Reading,14.0,4.0,2014/15
+53,Millwall,Blackpool,5.0,2.0,2014/15
+54,Norwich,Bournemouth,6.0,4.0,2014/15
+55,Rotherham,Brentford,7.0,4.0,2014/15
+56,Sheffield Weds,Nott'm Forest,5.0,1.0,2014/15
+57,Watford,Huddersfield,3.0,9.0,2014/15
+58,Wigan,Birmingham,7.0,2.0,2014/15
+59,Wolves,Blackburn,2.0,6.0,2014/15
+60,Birmingham,Leeds,2.0,7.0,2014/15
+61,Blackburn,Wigan,9.0,5.0,2014/15
+62,Blackpool,Wolves,3.0,11.0,2014/15
+63,Bolton,Sheffield Weds,5.0,6.0,2014/15
+64,Bournemouth,Rotherham,3.0,4.0,2014/15
+65,Brentford,Brighton,5.0,4.0,2014/15
+66,Cardiff,Norwich,2.0,6.0,2014/15
+67,Charlton,Watford,2.0,8.0,2014/15
+68,Huddersfield,Middlesbrough,3.0,11.0,2014/15
+69,Ipswich,Millwall,8.0,6.0,2014/15
+70,Reading,Fulham,5.0,3.0,2014/15
+71,Nott'm Forest,Derby,5.0,6.0,2014/15
+72,Birmingham,Sheffield Weds,5.0,6.0,2014/15
+73,Blackpool,Watford,5.0,10.0,2014/15
+74,Bolton,Rotherham,7.0,4.0,2014/15
+75,Bournemouth,Leeds,8.0,2.0,2014/15
+76,Brentford,Norwich,7.0,3.0,2014/15
+77,Cardiff,Middlesbrough,6.0,6.0,2014/15
+78,Charlton,Wolves,1.0,11.0,2014/15
+79,Huddersfield,Wigan,4.0,4.0,2014/15
+80,Ipswich,Brighton,4.0,7.0,2014/15
+81,Reading,Millwall,3.0,7.0,2014/15
+82,Blackburn,Derby,11.0,3.0,2014/15
+83,Nott'm Forest,Fulham,1.0,7.0,2014/15
+84,Brighton,Blackpool,15.0,2.0,2014/15
+85,Derby,Cardiff,7.0,3.0,2014/15
+86,Fulham,Blackburn,2.0,7.0,2014/15
+87,Leeds,Huddersfield,4.0,3.0,2014/15
+88,Middlesbrough,Brentford,5.0,2.0,2014/15
+89,Millwall,Nott'm Forest,6.0,3.0,2014/15
+90,Norwich,Birmingham,10.0,1.0,2014/15
+91,Rotherham,Charlton,7.0,5.0,2014/15
+92,Sheffield Weds,Reading,6.0,12.0,2014/15
+93,Watford,Bournemouth,6.0,2.0,2014/15
+94,Wolves,Bolton,9.0,7.0,2014/15
+95,Wigan,Ipswich,13.0,3.0,2014/15
+96,Birmingham,Fulham,7.0,6.0,2014/15
+97,Blackburn,Watford,6.0,7.0,2014/15
+98,Blackpool,Norwich,4.0,7.0,2014/15
+99,Bolton,Derby,7.0,7.0,2014/15
+100,Bournemouth,Wigan,8.0,2.0,2014/15
+101,Brentford,Leeds,8.0,3.0,2014/15
+102,Cardiff,Sheffield Weds,0.0,0.0,2014/15
+103,Charlton,Middlesbrough,5.0,6.0,2014/15
+104,Huddersfield,Millwall,5.0,3.0,2014/15
+105,Ipswich,Rotherham,7.0,5.0,2014/15
+106,Nott'm Forest,Brighton,6.0,6.0,2014/15
+107,Reading,Wolves,2.0,5.0,2014/15
+108,Brighton,Cardiff,12.0,3.0,2014/15
+109,Derby,Bournemouth,7.0,3.0,2014/15
+110,Middlesbrough,Blackpool,6.0,3.0,2014/15
+111,Millwall,Birmingham,5.0,2.0,2014/15
+112,Norwich,Charlton,9.0,1.0,2014/15
+113,Rotherham,Blackburn,8.0,8.0,2014/15
+114,Sheffield Weds,Ipswich,5.0,3.0,2014/15
+115,Watford,Brentford,8.0,3.0,2014/15
+116,Wigan,Nott'm Forest,6.0,5.0,2014/15
+117,Fulham,Bolton,6.0,8.0,2014/15
+118,Leeds,Reading,3.0,7.0,2014/15
+119,Wolves,Huddersfield,7.0,2.0,2014/15
+120,Blackpool,Cardiff,1.0,8.0,2014/15
+121,Blackburn,Huddersfield,5.0,9.0,2014/15
+122,Bolton,Bournemouth,6.0,7.0,2014/15
+123,Brentford,Reading,5.0,15.0,2014/15
+124,Charlton,Birmingham,1.0,4.0,2014/15
+125,Derby,Millwall,12.0,7.0,2014/15
+126,Leeds,Sheffield Weds,7.0,1.0,2014/15
+127,Middlesbrough,Fulham,8.0,4.0,2014/15
+128,Norwich,Rotherham,12.0,3.0,2014/15
+129,Watford,Brighton,6.0,7.0,2014/15
+130,Wolves,Wigan,10.0,2.0,2014/15
+131,Nott'm Forest,Ipswich,8.0,4.0,2014/15
+132,Rotherham,Leeds,7.0,4.0,2014/15
+133,Birmingham,Bolton,7.0,5.0,2014/15
+134,Bournemouth,Charlton,16.0,4.0,2014/15
+135,Brighton,Middlesbrough,4.0,2.0,2014/15
+136,Cardiff,Nott'm Forest,4.0,7.0,2014/15
+137,Fulham,Norwich,6.0,10.0,2014/15
+138,Huddersfield,Blackpool,5.0,0.0,2014/15
+139,Ipswich,Blackburn,8.0,3.0,2014/15
+140,Millwall,Wolves,6.0,4.0,2014/15
+141,Reading,Derby,9.0,9.0,2014/15
+142,Sheffield Weds,Watford,8.0,1.0,2014/15
+143,Wigan,Brentford,9.0,7.0,2014/15
+144,Blackburn,Birmingham,2.0,2.0,2014/15
+145,Blackpool,Derby,9.0,10.0,2014/15
+146,Bournemouth,Reading,6.0,6.0,2014/15
+147,Brentford,Sheffield Weds,10.0,8.0,2014/15
+148,Cardiff,Ipswich,3.0,0.0,2014/15
+149,Charlton,Bolton,1.0,14.0,2014/15
+150,Huddersfield,Brighton,8.0,5.0,2014/15
+151,Norwich,Leeds,9.0,3.0,2014/15
+152,Rotherham,Fulham,4.0,5.0,2014/15
+153,Watford,Nott'm Forest,14.0,6.0,2014/15
+154,Wigan,Millwall,8.0,2.0,2014/15
+155,Wolves,Middlesbrough,4.0,4.0,2014/15
+156,Fulham,Charlton,2.0,13.0,2014/15
+157,Birmingham,Bournemouth,7.0,5.0,2014/15
+158,Bolton,Brentford,6.0,11.0,2014/15
+159,Brighton,Rotherham,12.0,5.0,2014/15
+160,Derby,Wigan,5.0,8.0,2014/15
+161,Ipswich,Huddersfield,7.0,3.0,2014/15
+162,Leeds,Wolves,4.0,5.0,2014/15
+163,Middlesbrough,Watford,4.0,9.0,2014/15
+164,Millwall,Cardiff,3.0,2.0,2014/15
+165,Nott'm Forest,Blackburn,3.0,10.0,2014/15
+166,Reading,Blackpool,7.0,4.0,2014/15
+167,Sheffield Weds,Norwich,3.0,10.0,2014/15
+168,Norwich,Bolton,11.0,4.0,2014/15
+169,Blackburn,Reading,1.0,5.0,2014/15
+170,Blackpool,Ipswich,2.0,3.0,2014/15
+171,Bournemouth,Brighton,9.0,4.0,2014/15
+172,Brentford,Derby,5.0,5.0,2014/15
+173,Cardiff,Leeds,6.0,1.0,2014/15
+174,Charlton,Sheffield Weds,11.0,7.0,2014/15
+175,Huddersfield,Nott'm Forest,4.0,5.0,2014/15
+176,Rotherham,Middlesbrough,2.0,2.0,2014/15
+177,Watford,Millwall,7.0,6.0,2014/15
+178,Wigan,Fulham,10.0,5.0,2014/15
+179,Wolves,Birmingham,5.0,4.0,2014/15
+180,Birmingham,Watford,1.0,5.0,2014/15
+181,Bolton,Cardiff,6.0,7.0,2014/15
+182,Brighton,Wigan,3.0,4.0,2014/15
+183,Derby,Huddersfield,9.0,8.0,2014/15
+184,Ipswich,Wolves,8.0,5.0,2014/15
+185,Leeds,Charlton,7.0,5.0,2014/15
+186,Middlesbrough,Norwich,12.0,2.0,2014/15
+187,Millwall,Blackburn,5.0,4.0,2014/15
+188,Reading,Rotherham,8.0,5.0,2014/15
+189,Sheffield Weds,Bournemouth,3.0,3.0,2014/15
+190,Fulham,Blackpool,18.0,1.0,2014/15
+191,Nott'm Forest,Brentford,9.0,6.0,2014/15
+192,Bolton,Wigan,4.0,1.0,2014/15
+193,Birmingham,Cardiff,7.0,7.0,2014/15
+194,Brighton,Blackburn,6.0,4.0,2014/15
+195,Derby,Wolves,9.0,4.0,2014/15
+196,Fulham,Huddersfield,4.0,10.0,2014/15
+197,Ipswich,Watford,10.0,5.0,2014/15
+198,Leeds,Blackpool,2.0,3.0,2014/15
+199,Middlesbrough,Bournemouth,1.0,4.0,2014/15
+200,Millwall,Brentford,7.0,4.0,2014/15
+201,Nott'm Forest,Norwich,7.0,6.0,2014/15
+202,Reading,Charlton,12.0,0.0,2014/15
+203,Sheffield Weds,Rotherham,5.0,4.0,2014/15
+204,Brentford,Fulham,8.0,7.0,2014/15
+205,Cardiff,Reading,6.0,2.0,2014/15
+206,Blackburn,Leeds,6.0,5.0,2014/15
+207,Blackpool,Bolton,1.0,5.0,2014/15
+208,Bournemouth,Ipswich,6.0,6.0,2014/15
+209,Charlton,Millwall,9.0,7.0,2014/15
+210,Huddersfield,Sheffield Weds,8.0,10.0,2014/15
+211,Norwich,Brighton,5.0,2.0,2014/15
+212,Rotherham,Birmingham,5.0,4.0,2014/15
+213,Watford,Derby,6.0,9.0,2014/15
+214,Wigan,Middlesbrough,6.0,5.0,2014/15
+215,Wolves,Nott'm Forest,5.0,11.0,2014/15
+216,Birmingham,Nott'm Forest,10.0,2.0,2014/15
+217,Bolton,Huddersfield,3.0,3.0,2014/15
+218,Bournemouth,Millwall,3.0,6.0,2014/15
+219,Brentford,Wolves,8.0,2.0,2014/15
+220,Brighton,Fulham,8.0,5.0,2014/15
+221,Charlton,Ipswich,5.0,6.0,2014/15
+222,Leeds,Derby,5.0,6.0,2014/15
+223,Middlesbrough,Blackburn,15.0,6.0,2014/15
+224,Norwich,Reading,10.0,7.0,2014/15
+225,Rotherham,Blackpool,7.0,4.0,2014/15
+226,Sheffield Weds,Wigan,3.0,7.0,2014/15
+227,Watford,Cardiff,3.0,4.0,2014/15
+228,Fulham,Watford,5.0,10.0,2014/15
+229,Blackburn,Sheffield Weds,4.0,6.0,2014/15
+230,Blackpool,Birmingham,3.0,6.0,2014/15
+231,Cardiff,Rotherham,3.0,1.0,2014/15
+232,Derby,Brighton,4.0,4.0,2014/15
+233,Huddersfield,Brentford,3.0,7.0,2014/15
+234,Ipswich,Leeds,9.0,7.0,2014/15
+235,Millwall,Middlesbrough,3.0,5.0,2014/15
+236,Nott'm Forest,Charlton,3.0,3.0,2014/15
+237,Reading,Bolton,10.0,4.0,2014/15
+238,Wigan,Norwich,4.0,1.0,2014/15
+239,Wolves,Bournemouth,6.0,7.0,2014/15
+240,Brighton,Millwall,5.0,2.0,2014/15
+241,Birmingham,Reading,2.0,5.0,2014/15
+242,Bolton,Ipswich,5.0,6.0,2014/15
+243,Bournemouth,Cardiff,3.0,7.0,2014/15
+244,Brentford,Blackburn,3.0,3.0,2014/15
+245,Charlton,Blackpool,2.0,2.0,2014/15
+246,Leeds,Fulham,7.0,2.0,2014/15
+247,Middlesbrough,Derby,6.0,3.0,2014/15
+248,Norwich,Huddersfield,6.0,6.0,2014/15
+249,Rotherham,Nott'm Forest,4.0,6.0,2014/15
+250,Sheffield Weds,Wolves,6.0,6.0,2014/15
+251,Watford,Wigan,0.0,6.0,2014/15
+252,Millwall,Bolton,3.0,4.0,2014/15
+253,Blackburn,Charlton,8.0,6.0,2014/15
+254,Blackpool,Bournemouth,4.0,6.0,2014/15
+255,Cardiff,Brentford,7.0,3.0,2014/15
+256,Derby,Norwich,1.0,3.0,2014/15
+257,Fulham,Sheffield Weds,4.0,9.0,2014/15
+258,Huddersfield,Birmingham,7.0,5.0,2014/15
+259,Ipswich,Middlesbrough,1.0,6.0,2014/15
+260,Nott'm Forest,Leeds,7.0,4.0,2014/15
+261,Reading,Watford,7.0,4.0,2014/15
+262,Wigan,Rotherham,11.0,3.0,2014/15
+263,Wolves,Brighton,6.0,1.0,2014/15
+264,Birmingham,Derby,3.0,9.0,2014/15
+265,Bolton,Blackburn,7.0,5.0,2014/15
+266,Bournemouth,Fulham,6.0,5.0,2014/15
+267,Brentford,Ipswich,3.0,4.0,2014/15
+268,Brighton,Reading,9.0,4.0,2014/15
+269,Charlton,Cardiff,5.0,3.0,2014/15
+270,Leeds,Wigan,10.0,3.0,2014/15
+271,Middlesbrough,Nott'm Forest,11.0,4.0,2014/15
+272,Norwich,Millwall,3.0,9.0,2014/15
+273,Rotherham,Huddersfield,2.0,8.0,2014/15
+274,Sheffield Weds,Blackpool,3.0,1.0,2014/15
+275,Watford,Wolves,7.0,8.0,2014/15
+276,Blackburn,Middlesbrough,5.0,3.0,2014/15
+277,Blackpool,Rotherham,5.0,9.0,2014/15
+278,Cardiff,Watford,5.0,4.0,2014/15
+279,Huddersfield,Bolton,10.0,2.0,2014/15
+280,Millwall,Bournemouth,3.0,6.0,2014/15
+281,Nott'm Forest,Birmingham,9.0,9.0,2014/15
+282,Reading,Norwich,7.0,4.0,2014/15
+283,Wolves,Brentford,6.0,9.0,2014/15
+284,Fulham,Brighton,9.0,5.0,2014/15
+285,Derby,Leeds,5.0,2.0,2014/15
+286,Ipswich,Charlton,16.0,4.0,2014/15
+287,Wigan,Sheffield Weds,6.0,6.0,2014/15
+288,Birmingham,Wigan,8.0,5.0,2014/15
+289,Blackpool,Millwall,4.0,4.0,2014/15
+290,Bolton,Leeds,9.0,5.0,2014/15
+291,Bournemouth,Norwich,7.0,5.0,2014/15
+292,Brentford,Rotherham,9.0,4.0,2014/15
+293,Cardiff,Fulham,4.0,6.0,2014/15
+294,Charlton,Brighton,9.0,2.0,2014/15
+295,Huddersfield,Watford,5.0,4.0,2014/15
+296,Ipswich,Derby,4.0,4.0,2014/15
+297,Nott'm Forest,Sheffield Weds,4.0,7.0,2014/15
+298,Reading,Middlesbrough,6.0,10.0,2014/15
+299,Blackburn,Wolves,4.0,7.0,2014/15
+300,Brighton,Brentford,8.0,0.0,2014/15
+301,Derby,Nott'm Forest,8.0,7.0,2014/15
+302,Fulham,Reading,5.0,12.0,2014/15
+303,Leeds,Birmingham,2.0,7.0,2014/15
+304,Middlesbrough,Huddersfield,4.0,9.0,2014/15
+305,Millwall,Ipswich,4.0,6.0,2014/15
+306,Norwich,Cardiff,7.0,3.0,2014/15
+307,Rotherham,Bournemouth,2.0,3.0,2014/15
+308,Sheffield Weds,Bolton,5.0,8.0,2014/15
+309,Watford,Charlton,11.0,0.0,2014/15
+310,Wigan,Blackburn,3.0,7.0,2014/15
+311,Wolves,Blackpool,7.0,1.0,2014/15
+312,Leeds,Bournemouth,7.0,4.0,2014/15
+313,Middlesbrough,Cardiff,5.0,3.0,2014/15
+314,Brighton,Ipswich,6.0,3.0,2014/15
+315,Fulham,Nott'm Forest,6.0,8.0,2014/15
+316,Norwich,Brentford,7.0,5.0,2014/15
+317,Watford,Blackpool,8.0,3.0,2014/15
+318,Wigan,Huddersfield,9.0,4.0,2014/15
+319,Wolves,Charlton,8.0,5.0,2014/15
+320,Derby,Blackburn,8.0,3.0,2014/15
+321,Millwall,Reading,3.0,7.0,2014/15
+322,Rotherham,Bolton,4.0,4.0,2014/15
+323,Sheffield Weds,Birmingham,7.0,2.0,2014/15
+324,Bournemouth,Watford,15.0,2.0,2014/15
+325,Birmingham,Norwich,2.0,5.0,2014/15
+326,Blackburn,Fulham,2.0,0.0,2014/15
+327,Blackpool,Brighton,3.0,8.0,2014/15
+328,Bolton,Wolves,3.0,8.0,2014/15
+329,Brentford,Middlesbrough,9.0,7.0,2014/15
+330,Cardiff,Derby,3.0,2.0,2014/15
+331,Charlton,Rotherham,5.0,5.0,2014/15
+332,Huddersfield,Leeds,8.0,1.0,2014/15
+333,Ipswich,Wigan,2.0,4.0,2014/15
+334,Nott'm Forest,Millwall,4.0,5.0,2014/15
+335,Reading,Sheffield Weds,5.0,1.0,2014/15
+336,Brighton,Nott'm Forest,9.0,1.0,2014/15
+337,Derby,Bolton,5.0,7.0,2014/15
+338,Fulham,Birmingham,7.0,11.0,2014/15
+339,Leeds,Brentford,6.0,8.0,2014/15
+340,Middlesbrough,Charlton,10.0,3.0,2014/15
+341,Millwall,Huddersfield,6.0,6.0,2014/15
+342,Norwich,Blackpool,6.0,3.0,2014/15
+343,Rotherham,Ipswich,5.0,7.0,2014/15
+344,Sheffield Weds,Cardiff,9.0,1.0,2014/15
+345,Watford,Blackburn,6.0,10.0,2014/15
+346,Wigan,Bournemouth,3.0,4.0,2014/15
+347,Wolves,Reading,5.0,6.0,2014/15
+348,Birmingham,Millwall,6.0,3.0,2014/15
+349,Blackburn,Rotherham,1.0,4.0,2014/15
+350,Blackpool,Middlesbrough,8.0,5.0,2014/15
+351,Bolton,Fulham,11.0,2.0,2014/15
+352,Bournemouth,Derby,3.0,8.0,2014/15
+353,Brentford,Watford,2.0,13.0,2014/15
+354,Cardiff,Brighton,5.0,2.0,2014/15
+355,Charlton,Norwich,3.0,8.0,2014/15
+356,Huddersfield,Wolves,7.0,2.0,2014/15
+357,Ipswich,Sheffield Weds,7.0,4.0,2014/15
+358,Reading,Leeds,7.0,3.0,2014/15
+359,Nott'm Forest,Wigan,12.0,1.0,2014/15
+360,Blackpool,Nott'm Forest,7.0,6.0,2014/15
+361,Bolton,Watford,4.0,5.0,2014/15
+362,Bournemouth,Huddersfield,15.0,2.0,2014/15
+363,Charlton,Brentford,6.0,8.0,2014/15
+364,Fulham,Ipswich,5.0,6.0,2014/15
+365,Leeds,Millwall,6.0,6.0,2014/15
+366,Norwich,Wolves,2.0,2.0,2014/15
+367,Sheffield Weds,Brighton,8.0,5.0,2014/15
+368,Cardiff,Blackburn,5.0,5.0,2014/15
+369,Reading,Wigan,8.0,8.0,2014/15
+370,Rotherham,Derby,7.0,4.0,2014/15
+371,Birmingham,Middlesbrough,10.0,7.0,2014/15
+372,Wigan,Charlton,7.0,2.0,2014/15
+373,Blackburn,Blackpool,6.0,2.0,2014/15
+374,Brentford,Bournemouth,8.0,12.0,2014/15
+375,Brighton,Birmingham,3.0,5.0,2014/15
+376,Derby,Sheffield Weds,8.0,0.0,2014/15
+377,Huddersfield,Cardiff,8.0,6.0,2014/15
+378,Ipswich,Reading,2.0,3.0,2014/15
+379,Middlesbrough,Leeds,18.0,3.0,2014/15
+380,Millwall,Fulham,5.0,4.0,2014/15
+381,Nott'm Forest,Bolton,7.0,4.0,2014/15
+382,Watford,Norwich,4.0,1.0,2014/15
+383,Wolves,Rotherham,2.0,7.0,2014/15
+384,Blackburn,Norwich,7.0,8.0,2014/15
+385,Brentford,Blackpool,12.0,1.0,2014/15
+386,Brighton,Leeds,7.0,6.0,2014/15
+387,Derby,Charlton,2.0,3.0,2014/15
+388,Huddersfield,Reading,6.0,10.0,2014/15
+389,Ipswich,Birmingham,9.0,3.0,2014/15
+390,Middlesbrough,Bolton,8.0,6.0,2014/15
+391,Millwall,Sheffield Weds,6.0,5.0,2014/15
+392,Watford,Rotherham,6.0,7.0,2014/15
+393,Wigan,Cardiff,3.0,1.0,2014/15
+394,Wolves,Fulham,6.0,3.0,2014/15
+395,Nott'm Forest,Bournemouth,5.0,9.0,2014/15
+396,Birmingham,Brentford,7.0,9.0,2014/15
+397,Blackpool,Wigan,6.0,5.0,2014/15
+398,Bolton,Brighton,5.0,10.0,2014/15
+399,Bournemouth,Blackburn,9.0,5.0,2014/15
+400,Cardiff,Wolves,3.0,5.0,2014/15
+401,Charlton,Huddersfield,5.0,5.0,2014/15
+402,Fulham,Derby,6.0,5.0,2014/15
+403,Leeds,Watford,7.0,5.0,2014/15
+404,Reading,Nott'm Forest,4.0,4.0,2014/15
+405,Rotherham,Millwall,11.0,5.0,2014/15
+406,Sheffield Weds,Middlesbrough,5.0,3.0,2014/15
+407,Norwich,Ipswich,5.0,8.0,2014/15
+408,Bolton,Reading,10.0,5.0,2014/15
+409,Bournemouth,Wolves,7.0,1.0,2014/15
+410,Brentford,Huddersfield,4.0,2.0,2014/15
+411,Brighton,Derby,2.0,12.0,2014/15
+412,Charlton,Nott'm Forest,1.0,6.0,2014/15
+413,Middlesbrough,Millwall,3.0,7.0,2014/15
+414,Rotherham,Cardiff,9.0,3.0,2014/15
+415,Watford,Fulham,4.0,8.0,2014/15
+416,Birmingham,Blackpool,3.0,2.0,2014/15
+417,Leeds,Ipswich,2.0,8.0,2014/15
+418,Norwich,Wigan,3.0,5.0,2014/15
+419,Sheffield Weds,Blackburn,5.0,3.0,2014/15
+420,Fulham,Bournemouth,5.0,8.0,2014/15
+421,Blackpool,Sheffield Weds,2.0,8.0,2014/15
+422,Cardiff,Charlton,5.0,4.0,2014/15
+423,Derby,Birmingham,8.0,7.0,2014/15
+424,Huddersfield,Rotherham,5.0,6.0,2014/15
+425,Ipswich,Brentford,4.0,6.0,2014/15
+426,Millwall,Norwich,2.0,3.0,2014/15
+427,Nott'm Forest,Middlesbrough,4.0,9.0,2014/15
+428,Wigan,Leeds,9.0,1.0,2014/15
+429,Wolves,Watford,5.0,1.0,2014/15
+430,Reading,Brighton,5.0,1.0,2014/15
+431,Blackburn,Bolton,5.0,9.0,2014/15
+432,Birmingham,Huddersfield,7.0,7.0,2014/15
+433,Bolton,Millwall,3.0,6.0,2014/15
+434,Bournemouth,Blackpool,5.0,6.0,2014/15
+435,Brentford,Cardiff,16.0,3.0,2014/15
+436,Brighton,Wolves,1.0,8.0,2014/15
+437,Charlton,Blackburn,6.0,7.0,2014/15
+438,Leeds,Nott'm Forest,3.0,6.0,2014/15
+439,Middlesbrough,Ipswich,3.0,13.0,2014/15
+440,Norwich,Derby,6.0,3.0,2014/15
+441,Rotherham,Wigan,4.0,4.0,2014/15
+442,Sheffield Weds,Fulham,5.0,1.0,2014/15
+443,Watford,Reading,6.0,5.0,2014/15
+444,Blackburn,Brentford,1.0,6.0,2014/15
+445,Blackpool,Charlton,3.0,3.0,2014/15
+446,Cardiff,Bournemouth,8.0,7.0,2014/15
+447,Derby,Middlesbrough,2.0,4.0,2014/15
+448,Huddersfield,Norwich,5.0,3.0,2014/15
+449,Ipswich,Bolton,4.0,3.0,2014/15
+450,Millwall,Brighton,7.0,4.0,2014/15
+451,Wigan,Watford,7.0,2.0,2014/15
+452,Wolves,Sheffield Weds,3.0,4.0,2014/15
+453,Fulham,Leeds,5.0,2.0,2014/15
+454,Nott'm Forest,Rotherham,5.0,5.0,2014/15
+455,Wolves,Derby,4.0,4.0,2014/15
+456,Blackburn,Brighton,7.0,1.0,2014/15
+457,Blackpool,Leeds,7.0,2.0,2014/15
+458,Bournemouth,Middlesbrough,5.0,6.0,2014/15
+459,Brentford,Millwall,6.0,3.0,2014/15
+460,Cardiff,Birmingham,3.0,4.0,2014/15
+461,Charlton,Reading,5.0,4.0,2014/15
+462,Huddersfield,Fulham,10.0,11.0,2014/15
+463,Norwich,Nott'm Forest,13.0,6.0,2014/15
+464,Rotherham,Sheffield Weds,5.0,3.0,2014/15
+465,Watford,Ipswich,2.0,7.0,2014/15
+466,Wigan,Bolton,10.0,7.0,2014/15
+467,Birmingham,Rotherham,5.0,5.0,2014/15
+468,Brighton,Norwich,4.0,5.0,2014/15
+469,Derby,Watford,9.0,2.0,2014/15
+470,Fulham,Brentford,5.0,3.0,2014/15
+471,Ipswich,Bournemouth,5.0,7.0,2014/15
+472,Middlesbrough,Wigan,8.0,2.0,2014/15
+473,Millwall,Charlton,8.0,4.0,2014/15
+474,Nott'm Forest,Wolves,5.0,3.0,2014/15
+475,Bolton,Blackpool,17.0,9.0,2014/15
+476,Leeds,Blackburn,3.0,3.0,2014/15
+477,Reading,Cardiff,5.0,3.0,2014/15
+478,Sheffield Weds,Huddersfield,4.0,2.0,2014/15
+479,Bournemouth,Birmingham,9.0,7.0,2014/15
+480,Brentford,Nott'm Forest,11.0,5.0,2014/15
+481,Cardiff,Bolton,6.0,5.0,2014/15
+482,Huddersfield,Ipswich,8.0,3.0,2014/15
+483,Norwich,Sheffield Weds,13.0,1.0,2014/15
+484,Rotherham,Brighton,3.0,11.0,2014/15
+485,Watford,Middlesbrough,7.0,6.0,2014/15
+486,Wigan,Derby,9.0,6.0,2014/15
+487,Wolves,Leeds,6.0,1.0,2014/15
+488,Blackpool,Reading,6.0,7.0,2014/15
+489,Charlton,Fulham,7.0,2.0,2014/15
+490,Brighton,Bournemouth,4.0,2.0,2014/15
+491,Fulham,Wigan,3.0,5.0,2014/15
+492,Birmingham,Wolves,3.0,5.0,2014/15
+493,Bolton,Norwich,4.0,8.0,2014/15
+494,Derby,Brentford,4.0,5.0,2014/15
+495,Ipswich,Blackpool,9.0,4.0,2014/15
+496,Leeds,Cardiff,4.0,6.0,2014/15
+497,Middlesbrough,Rotherham,7.0,0.0,2014/15
+498,Millwall,Watford,8.0,4.0,2014/15
+499,Nott'm Forest,Huddersfield,6.0,4.0,2014/15
+500,Reading,Blackburn,15.0,3.0,2014/15
+501,Sheffield Weds,Charlton,4.0,5.0,2014/15
+502,Birmingham,Blackburn,10.0,6.0,2014/15
+503,Bolton,Charlton,10.0,1.0,2014/15
+504,Brighton,Huddersfield,4.0,3.0,2014/15
+505,Derby,Blackpool,5.0,4.0,2014/15
+506,Ipswich,Cardiff,9.0,2.0,2014/15
+507,Leeds,Norwich,7.0,1.0,2014/15
+508,Middlesbrough,Wolves,6.0,4.0,2014/15
+509,Millwall,Wigan,2.0,5.0,2014/15
+510,Reading,Bournemouth,4.0,4.0,2014/15
+511,Sheffield Weds,Brentford,2.0,8.0,2014/15
+512,Fulham,Rotherham,4.0,12.0,2014/15
+513,Nott'm Forest,Watford,4.0,8.0,2014/15
+514,Norwich,Middlesbrough,14.0,7.0,2014/15
+515,Blackburn,Nott'm Forest,3.0,1.0,2014/15
+516,Blackpool,Fulham,7.0,1.0,2014/15
+517,Bournemouth,Sheffield Weds,9.0,2.0,2014/15
+518,Brentford,Bolton,3.0,8.0,2014/15
+519,Cardiff,Millwall,7.0,5.0,2014/15
+520,Charlton,Leeds,6.0,4.0,2014/15
+521,Huddersfield,Derby,8.0,2.0,2014/15
+522,Watford,Birmingham,7.0,2.0,2014/15
+523,Wigan,Brighton,3.0,9.0,2014/15
+524,Wolves,Ipswich,8.0,4.0,2014/15
+525,Blackburn,Millwall,6.0,4.0,2014/15
+526,Reading,Birmingham,7.0,6.0,2014/15
+527,Birmingham,Charlton,14.0,6.0,2014/15
+528,Brighton,Watford,7.0,5.0,2014/15
+529,Cardiff,Blackpool,8.0,3.0,2014/15
+530,Fulham,Middlesbrough,3.0,10.0,2014/15
+531,Huddersfield,Blackburn,7.0,3.0,2014/15
+532,Ipswich,Nott'm Forest,3.0,5.0,2014/15
+533,Millwall,Derby,8.0,3.0,2014/15
+534,Reading,Brentford,5.0,4.0,2014/15
+535,Rotherham,Norwich,4.0,5.0,2014/15
+536,Sheffield Weds,Leeds,7.0,4.0,2014/15
+537,Wigan,Wolves,10.0,4.0,2014/15
+538,Bournemouth,Bolton,9.0,5.0,2014/15
+539,Rotherham,Reading,4.0,3.0,2014/15
+540,Blackburn,Ipswich,8.0,9.0,2014/15
+541,Blackpool,Huddersfield,2.0,5.0,2014/15
+542,Bolton,Birmingham,3.0,4.0,2014/15
+543,Brentford,Wigan,8.0,3.0,2014/15
+544,Charlton,Bournemouth,2.0,7.0,2014/15
+545,Derby,Reading,7.0,5.0,2014/15
+546,Leeds,Rotherham,6.0,3.0,2014/15
+547,Middlesbrough,Brighton,6.0,3.0,2014/15
+548,Norwich,Fulham,4.0,3.0,2014/15
+549,Nott'm Forest,Cardiff,4.0,4.0,2014/15
+550,Watford,Sheffield Weds,5.0,0.0,2014/15
+551,Wolves,Millwall,8.0,6.0,2014/15
+552,,,,,2014/15
